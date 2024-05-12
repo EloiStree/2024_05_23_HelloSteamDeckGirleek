@@ -10,3 +10,37 @@ In the context of Girleek and a QA testing workshop. We are going to learn how t
 [Day 6: Cheat Engine](WorkshopPerDay/2024_05_24.md)  [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/7)  
 
 Atelier précédent: [Girleek 2023](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/8) - [Scratch pour les enfants](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/9)
+
+
+---------------
+
+
+
+
+*Scratch to IID Server:*
+- Scratch To Local WS: [https://github.com/EloiStree/2024_05_10_TamperMonkeyToRsaTunnelingIID/blob/main/ScratchToLocalWebsocket/ScratchVarToLocalWebsocket.js](https://github.com/EloiStree/2024_05_10_TamperMonkeyToRsaTunnelingIID/blob/main/ScratchToLocalWebsocket/ScratchVarToLocalWebsocket.js)
+- Scratch to IID WS: [https://github.com/EloiStree/2024_05_10_TamperMonkeyToRsaTunnelingIID/blob/main/ScratchToIIDWS/PushWsVarIntegerToIIDWS.js](https://github.com/EloiStree/2024_05_10_TamperMonkeyToRsaTunnelingIID/blob/main/ScratchToIIDWS/PushWsVarIntegerToIIDWS.js)
+- Scratch Keyboard to wsvar: [https://scratch.mit.edu/projects/1018462085/](https://scratch.mit.edu/projects/1018462085/)
+
+*Javascript to IID Server:*
+- Javascript to Local WS:
+  - Code [https://github.com/EloiStree/2024_05_10_JavascriptHtmlToRsaTunnelingIID/blob/main/LocalWS/JavascriptToIIDWS.html](https://github.com/EloiStree/2024_05_10_JavascriptHtmlToRsaTunnelingIID/blob/main/LocalWS/JavascriptToIIDWS.html)
+  - Try [https://eloistree.github.io/2024_05_10_JavascriptHtmlToRsaTunnelingIID/LocalWS/JavascriptToIIDWS.html](https://eloistree.github.io/2024_05_10_JavascriptHtmlToRsaTunnelingIID/LocalWS/JavascriptToIIDWS.html)
+
+*Unity3D to IID Server:*
+- Package:
+  - 
+- Projects:
+  - Steam Deck, example:
+    - [Add] 
+  - Xbox and Keyboard Log,example:
+    - [Add]  
+
+*IID Server to actions:*
+- Add Real Keyboard input
+- Add PostMessage Integer
+- Add Joystick All indexes
+- Add Joystick Integer
+- Add Integer to MIDI
+- 
+ 
