@@ -1,5 +1,8 @@
 # 2024_05_23_HelloStreamDeckGirleek
 
+[![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/52a03e0e-fae8-4b00-8c8f-59d9943b0f7f)](https://youtu.be/OYUnpHvcaBw)  
+https://youtu.be/OYUnpHvcaBw  
+
 In the context of Girleek and a QA testing workshop. We are going to learn how to remote control game with code in a stream deck hub way.
 
 [Day 1: C# et Python "from" Scratch](WorkshopPerDay/2024_05_17.md)  [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/2)  
