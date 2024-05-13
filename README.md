@@ -1,6 +1,6 @@
 # 2024_05_23_HelloStreamDeckGirleek
 
-In the context of Girleek and a QA testing workshop. We are going to learn how to remote control game with code in a steam deck hub way.
+In the context of Girleek and a QA testing workshop. We are going to learn how to remote control game with code in a stream deck hub way.
 
 [Day 1: C# et Python "from" Scratch](WorkshopPerDay/2024_05_17.md)  [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/2)  
 [Day 2: Multiboxing sur Windows avec 10 Seconds Ninja](WorkshopPerDay/2024_05_20.md)  [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/3)  
