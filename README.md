@@ -10,7 +10,7 @@ In the context of Girleek and a QA testing workshop. We are going to learn how t
 [Day 6: Cheat Engine](WorkshopPerDay/2024_05_24.md)  [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/7)  
 
 Atelier précédent: [Girleek 2023](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/8) - [Scratch pour les enfants](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/9)
-
+Warcraft QA: [Warcraft QA](https://github.com/EloiStree/HelloWarcraftQAXR)
 
 ---------------
 
