@@ -23,6 +23,14 @@ Warcraft QA: [Warcraft QA](https://github.com/EloiStree/HelloWarcraftQAXR)
 Code Unity Simple Stream Deck:  
 https://github.com/EloiStree/2024_05_12_HelloGirleekOnShadow  
 
+
+- Gate Python: https://github.com/EloiStree/2024_05_11_GateIID_WS_Python
+- Example d'utilisation: https://github.com/EloiStree/2024_05_14_IntegerIndexDateToRemoteControl
+- Server: https://github.com/EloiStree/2024_04_04_IndexIntegerDateTunnelingRSA
+- Scratch to Websocket: https://github.com/EloiStree/2024_05_10_TamperMonkeyToRsaTunnelingIID/tree/main/ScratchToLocalWebsocket
+- Debut d'atelier Unity: https://github.com/EloiStree/2024_05_12_HelloGirleekOnShadow
+
+
 ---------------
 
 
