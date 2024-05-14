@@ -32,32 +32,7 @@ https://github.com/EloiStree/2024_05_12_HelloGirleekOnShadow
 
 # Brouillons
 
-*Scratch to IID Server:*
-- Scratch To Local WS: [https://github.com/EloiStree/2024_05_10_TamperMonkeyToRsaTunnelingIID/blob/main/ScratchToLocalWebsocket/ScratchVarToLocalWebsocket.js](https://github.com/EloiStree/2024_05_10_TamperMonkeyToRsaTunnelingIID/blob/main/ScratchToLocalWebsocket/ScratchVarToLocalWebsocket.js)
-- Scratch to IID WS: [https://github.com/EloiStree/2024_05_10_TamperMonkeyToRsaTunnelingIID/blob/main/ScratchToIIDWS/PushWsVarIntegerToIIDWS.js](https://github.com/EloiStree/2024_05_10_TamperMonkeyToRsaTunnelingIID/blob/main/ScratchToIIDWS/PushWsVarIntegerToIIDWS.js)
-- Scratch Keyboard to wsvar: [https://scratch.mit.edu/projects/1018462085/](https://scratch.mit.edu/projects/1018462085/)
-
-*Javascript to IID Server:*
-- Javascript to Local WS:
-  - Code [https://github.com/EloiStree/2024_05_10_JavascriptHtmlToRsaTunnelingIID/blob/main/LocalWS/JavascriptToIIDWS.html](https://github.com/EloiStree/2024_05_10_JavascriptHtmlToRsaTunnelingIID/blob/main/LocalWS/JavascriptToIIDWS.html)
-  - Try [https://eloistree.github.io/2024_05_10_JavascriptHtmlToRsaTunnelingIID/LocalWS/JavascriptToIIDWS.html](https://eloistree.github.io/2024_05_10_JavascriptHtmlToRsaTunnelingIID/LocalWS/JavascriptToIIDWS.html)
-
-*Unity3D to IID Server:*
-- Package:
-  - 
-- Projects:
-  - Steam Deck, example:
-    - [Add] 
-  - Xbox and Keyboard Log,example:
-    - [Add]  
-
-*IID Server to actions:*
-- Add Real Keyboard input
-- Add PostMessage Integer
-- Add Joystick All indexes
-- Add Joystick Integer
-- Add Integer to MIDI
-
+Note honorable: [Synergy](https://symless.com/synergy?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeB0Zmf6KTwh-3OAzO77wDP0KrgRr4Dkc4AIZPCIvwzpg2P6_GOi-2RoC800QAvD_BwE) - [Hamachi](https://vpn.net)
 
 
 Bonus Note: 
