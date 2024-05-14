@@ -1,0 +1,9554 @@
+salut à vous et bienvenue dans cette
+
+vidéo vidéo à peu chill donc l'idée
+
+c'est que je prépare un atelier girlic
+
+et dans cette atelier on va apprendre à
+
+simuler des touches de clavier qu'on va
+
+envoyer un PC sur Shadow et sur le PC
+
+shadow on va jouer à des jeux les deux
+
+principaux vont être 10 second ninja et
+
+World Warcraft mais il y en a d'autres
+
+mais pour pouvoir se faire il faut que
+
+Python soit installé que soit installer
+
+que plein d'outils soi installés au cas
+
+où si on a besoin tel que Visual code et
+
+aut et donc cette vidéo c'est moi en
+
+train d'installer le PC Shadow juste au
+
+cas où comme ça si ça me rappellera un
+
+peu comment on fait ça vous montre un
+
+peu comment on installe ce que
+
+j'installe ça fera un bon petit recap
+
+alors on va aussi installer Obs vu que
+
+Obs va nous permettre d'enregistrer et
+
+vu qu'on va devoir influencer Obs avec
+
+du code il y aura peut-être deux trois
+
+autres trucs à installer et donc voilà
+
+ici euh c'est parti il faut savoir que
+
+l'atelier correspond à un truc un peu
+
+lourd euh dans le sens où en fait l'idée
+
+c'est d'apprendre à lire des inputs
+
+l'envoyer serveur et derrière faire une
+
+action derrière je vais le rendre simple
+
+en essayant de faire juste quelque chose
+
+de très con genre cliquer envoyer pouf
+
+ça reçoit ça fait des actions mais le
+
+sujet lui est vaste hein comme vous
+
+pouvez le voir euh l'idée ici c'est que
+
+on a vraiment un ordinateur qui doit
+
+passer à travers plein de murailles et
+
+donc j'ai fait un logiciel dont la
+
+muraille est ouverte qui permet à lui
+
+d'aller discuter là-bas lui d'aller
+
+discuter à là-bas et donc d'envoyer de
+
+là-bas à la-bas et donc voilà quel jeu
+
+je dois installer ben je dois installer
+
+10 secondes ninja parce qu'on est obligé
+
+va Warcraft parce que ça va être là
+
+qu'on va faire des tests on peut
+
+installer cookie clicker si on si on
+
+veut ce jeu pour pouvoir tester les
+
+manettes si on a le temps et ce jeulà si
+
+on a le temps de faire des tests avec
+
+les manettes on doit inster les python
+
+on doit installer git on doit installer
+
+Visual code et autres et une fois qu'on
+
+aura fait ça on aura déjà fait pas mal
+
+de choses peut-être déjà installer Unity
+
+au cas où si on doit vite fait faire
+
+quelque chose Unity parce que Unity fait
+
+partie du CS donc peut-être qu'on va
+
+devoir ouvrir une iti dans le l'éditeur
+
+là-bas
+
+euh et donc voilà voilà euh on va faire
+
+tout ça sachant que le cours lui comme
+
+vous pouvez voir il a il a une portée
+
+vraiment du comment on fait pour lire
+
+des données et comment on fait pour les
+
+simuler de l'autre côté quoi simplement
+
+si je dois résumer c'estement ça sachant
+
+qu'il y a une toute petite partie cheat
+
+engine donc on va devirer aussi cheat
+
+engine parce que l'idée c'est de réussir
+
+à lire les fenêtres de lire une fenêtrre
+
+de World Warcraft par exemple d'extraire
+
+les données les en vers notre PC qui lui
+
+va calculer et envoyer des fausses
+
+touches clavier de l'autre côté il y a
+
+une petite partie làdessus aussi on va
+
+pas installer sééum parce que par contre
+
+installer Mony
+
+etome on va pas installer séenium parce
+
+que c'est un autre cours un autre truc
+
+il a trop de matière si on veut voir sum
+
+il y en a déjà beaucoup mais par exemple
+
+mais ces deux là c'est vraiment les deux
+
+qui permettent de vraiment faire pas mal
+
+de choses avec les sites Web et donc les
+
+jeux de de format site
+
+web je peutêtre installer aussi c typing
+
+chronical qui nous permettra pr de faire
+
+des tests de de de frappe apprendre à
+
+frapper à distance on va voir de toute
+
+façon je vais installer tout ce que je
+
+peux sur Shadow et on verra par la suite
+
+quoi donc c'est
+
+parti alors on lance Shadow donc j'ai
+
+installé Shadow sur mon pc comment on
+
+fait on va dans Shadow te on crée un
+
+compte et hop ici choisis si on veut un
+
+petit PC un PC un peu puissant un PC un
+
+peu plus puissant un gros PC ou qui tu s
+
+race en mode 75 5 €os de par mois euh
+
+moi ici pour l'atelier j'ai pris
+
+celui-ci qu' a une promotion qui coûte 5
+
+€ par mois 50 € par mois c'est cher mais
+
+voilà c'est c'est pas cher et c'est cher
+
+faut voir bon l'idée c'est que vous
+
+faites ça vous faites télécharger ici
+
+créer un compte et vous allez pouvoir
+
+voir ce que j'ai ici c'està-dire le
+
+client Shadow
+
+ceci alors du coup on va lancer Chad
+
+quand vous achetez un Compte faut
+
+attendre une heure avant qu'il soit il
+
+soit setup et aut mais en gros il faut
+
+le temps qu'il installent qu'
+
+configurent et tout ça se fait
+
+automatiquement mais il faut le temps
+
+que ça se fasse qu
+
+ok
+
+alors voilà voilà à quoi ça ressemble
+
+quand on a un PC Shadow de base voilà on
+
+on arrive sur Windows 10
+
+préinallé il nous inst des d truc comme
+
+ça dont on a pas
+
+[Musique]
+
+besoin on va aller désinstaller le drive
+
+parce que j'en ai pas envie
+
+pas intéressé par ce
+
+truc install on voit qu'il ont mis à
+
+jour nos C graphiqu ils on installé
+
+Windows il y a pas grandchose installer
+
+c'est
+
+chouette alors du coup
+
+automatique
+
+voil alors nous ce qu'on va devoir aller
+
+chercher du coup c'est directement comme
+
+la vieille blague le dit
+
+Firefox Chrome et
+
+operaàé ah oui par que
+
+avant chrome attends je suis pas dans le
+
+bon PC
+
+là je suis pas dans le bon
+
+PC yes ah il redémarre parce que il m'a
+
+demandé de redémarrer après c'est
+
+bizarre ça désolé j'ai fait oui oui et
+
+du coup j'ai fait le con c'est pas grave
+
+il va
+
+redémarrer si vous demandez le cours est
+
+en ligne
+
+ici il est en train
+
+deedémarrer le cour en ligne sur gub il
+
+s'appelle hello stream deck GIR parce
+
+qu'on on va simplement faire stream deck
+
+en Unity qui contrôle du pyon dans le
+
+cadre de l' d'accord donc vous cliquez
+
+ici hop et vous avez une petite vidéo
+
+d'introduction le cours ça ressemblerait
+
+à çaon a du car du python qu'on va
+
+réapprendre à partir de scratch on va
+
+faire du multioxing sur 10 secondes
+
+ninja puis on va faire voir ce que c'est
+
+Unity voir un peu ce que c'est les
+
+inputs de Unity comment on lit des
+
+touches clavierers par exemple celle de
+
+la de la playstation ou de la Xbox et
+
+autrees
+
+euh et on va faire un petit steam deck
+
+où quand on clique dessus ça fait des
+
+actions en python sur le PC là-bas on va
+
+voir un peu d'obs de comment on
+
+enregistre comment on fait de la VR
+
+comment on joue à de la VR et comment on
+
+enregistre de la VR et puis on va finir
+
+par du cheat engine pour aller lire un
+
+peu les données des jeux et voir comment
+
+on peut les remonter euh à notre
+
+ordinateur basiquement ça c'est
+
+l'atelier qu'on est en train de faire
+
+pour le
+
+moment Shadow notre Shadow il est ouvert
+
+ok alors toi on va te supprimer toi on
+
+va te Lanceron va devoir aller chercher
+
+Firefox
+
+Chrome on va aller mettre notre clavier
+
+en français si c'est pas déjà le cas
+
+langage mais c'est
+
+langage voilà ajouter un clavier
+
+belge parce qu'on est en Belgique
+
+yes
+
+[Musique]
+
+no
+
+ah pendant qu'il fait ça
+
+Firefox
+
+télécharger
+
+chrome voilà
+
+operra
+
+x bre
+
+ok ok ok on va installer tout
+
+ça la raison pour laquelle j'en installe
+
+autant c'est parce que pour peu quand on
+
+fait des tests il peut y avoir une
+
+application qui marche sur là qui marche
+
+pas sur l'autre gen il y a des codes qui
+
+marchent sur plus sur chrome que sur
+
+plus d'utr plus sur Firefox donc
+
+basiquement j'aime bien en installer TR
+
+4 juste pour être sûr que euh si je dois
+
+faire des tests ils sont installer
+
+quoi donc ici on va installer breev
+
+chrome op GX et
+
+Firefox
+
+voilà maintenant ce qui va se passer
+
+c'est que pour pouvoir travailler il va
+
+me falloir un petit Visual Studio
+
+qui va me permettre en fait bah de faire
+
+du code genre éditer du texte faire du
+
+python et des trucs comme ça alors il va
+
+pas me permettre de faire des Python
+
+pour le moment parce que jeis pas
+
+installer python mais il va me permettre
+
+de d'éditer du code
+
+Python
+
+voilà celuilà il est vraiment important
+
+à installer sur le sur votre PC si vous
+
+faites du l'exercice l'atelier que je
+
+propose parce qu'on va on va tout le
+
+temps
+
+l'utiliser surtout que moi j'utilise
+
+copilote donc alors le truc c'est
+
+copilote pour pouvoir l'utiliser il faut
+
+se connecter avec son compte et mon
+
+compte c'est sur gitup donc on va devoir
+
+aller sur
+
+gitup hop mot de
+
+passe
+
+hop
+
+nonite il me faut la double
+
+authentification pour ça que je me
+
+permet de vous montrer parce que de
+
+toute façon vous ne pouvez pas me haer
+
+normalement si vous êtes à cœur
+
+refaire pourquoi qui ne veut pas parce
+
+que je sais pas
+
+ça ah oui parce que je suis en anglais
+
+français maintenant que j'ai installé
+
+français voilà double authentification
+
+pour laisser SPCI accéder euh à mon
+
+compte quand il a besoin
+
+voilà alors je me rappelle plus pourquoi
+
+j'étais allé sur mon compte c'était
+
+parce que ah oui parce que j'allais
+
+utiliser copilote et copilote va se
+
+connecter à
+
+ceci on va lancer Visual
+
+Studio voilà ici on va lui dire qu'on
+
+veut un module et on veut le module
+
+copilote bon ici vous en l'occurrence si
+
+vous êtes étudiant vous sûrement pas
+
+copilote si vous l'avez pas tant pis
+
+l'utilisez pas il y a des versions chat
+
+GPT je crois ici quelque part dans les
+
+autres chat GPT qui ressemble à copilote
+
+voilà ici copilote
+
+GPT mais on va pas l'installer nous on
+
+va faire il va me dire est-ce que vous
+
+voulez vous connecter à git pour
+
+m'athentifier que vous êtes bien
+
+propriétaire d'une licence copilote je
+
+va faire
+
+oui quel site web on est sur quoi là on
+
+est sur du
+
+on est sur le truc de
+
+Windows on va faire S
+
+[Musique]
+
+oui il lance le
+
+truc a priori je suis
+
+logé ça l'air d'être bon donc du coup
+
+maintenant que j'ai fait ça que si je
+
+crée un truc ici un nouveau texte que je
+
+dis
+
+col
+
+voilà alors le truc c'est que en tant
+
+que débutant vous devez faire attention
+
+de pas faire de bêtises euh copilote
+
+c'est un truc qui aide ça veut pas dire
+
+qu'il faut faire du copier-coller il
+
+faut juste comprendre ce qu'on écrit et
+
+tout mais c'est vrai qu'il aide
+
+énormément parce que pour trouver la doc
+
+les bon mot clés c'est pas toujours
+
+facile genre si je dis comment on fait
+
+pour contacter
+
+ose create code contact m rose h Mose
+
+device mais en fait il va aller
+
+directement essayer de trouver s'il
+
+arrive pas à le faire en fait ici j'ai
+
+peut-être chopé de trois mots clés qui
+
+vont me dire ah oui ok c'est comme ça
+
+qu'on peut
+
+faire
+
+h mais ici y a rien de bien intéressant
+
+voyez il est pas toujours super malin
+
+non plus bon l'urence nous notre but
+
+c'était pas ça cé juste de vérifier que
+
+ça March maintenant on a ça il faut
+
+installerit et
+
+Python et pyon c'est un peu essentiel
+
+parce que trop tropopop important
+
+sychroniser tout de faire de parler PC
+
+tout obligé et pyon parce que c'est
+
+sujet du
+
+cours et aussi par ça permet de faire
+
+pas mal de choses
+
+p suivantil
+
+pour ceux qui connaîtrai pas guit ça
+
+permet de travailler en équipe en sur le
+
+même code à distance quand on n pas sur
+
+le même la même ligne de code ça passe
+
+c'est juste oui ici je fais next next
+
+next parce que basiquement il faut être
+
+averti pour
+
+savoir quoi taper quoi utiliser
+
+euh je dis donc ouais le ou
+
+désolé guit c'est très pratique pour
+
+travailler en équipe pour travailler à
+
+distance avec vous-même par exemple
+
+quand vous êtes dans le tra à la maison
+
+ou au boulot c'est très pratique pour
+
+avoir des bac c'est très pratique pour
+
+fournir des versions en ligne de votre
+
+code qui soit relase ou développur il y
+
+a des tonnes et des tonnes d'utilités à
+
+utiliserit vraiment un des cours les
+
+plus importants c'est le cours de
+
+Git voilà normal a priori Windows a CMD
+
+pour faire ça puis on fait git et on
+
+voit que git est installé donc c'est bon
+
+on est content oner
+
+python voilà alors pyon c'est langage
+
+interpré que énormément de développeurs
+
+connaissent à travers le monde souvenir
+
+la pourcentage cétait 30 % ce qui est
+
+déjà énorme quand vu le nombre de
+
+langages qui existe dans le
+
+monde ici on va dire qu'on ajoute passe
+
+python au Pass pour pouvoir dire que
+
+Windows va retenir l'endroit où on a
+
+installé le truc comme ça il on a
+
+l'avantage de faire ça c'est que on
+
+l'aura en ligne de commande qu'on DEA
+
+pas nous-même l'ajouter dans le dans
+
+pass pass en fait c'est un endroit où
+
+vous dites à Windows là j'ai des codes
+
+qui sont exécutables ils peuvent être
+
+appelés euh c'est là où je les ai stocké
+
+donc du coup vous pouvez faire vos
+
+propres programmes qui tournent dans la
+
+console donc la console pour ceux qui
+
+savent pas c'est ça si vous voulez
+
+mettre votre programme ici vous devez
+
+l'ajouter dans pass et donc python vu
+
+qu'on l'installe bah il demande est-ce
+
+qu'on peut nous ajouter là-dedans pour
+
+qu'on puisse faire ici les lignes de
+
+commande c'est ça que j'ai accepté en
+
+ici
+
+ok donc c'est en train d'installer la
+
+version 3.12.3 du python en version 64
+
+bits voilà alors Windows il a une petite
+
+particularité c'est qu'on peut faire que
+
+600 que 280 260 caractères maximum et
+
+ici y a un truc qui per de passer outre
+
+et c'est ça qui vous demande est-ce que
+
+j'ai le droit de passer outre mais il
+
+faut être adminine voilà c'est
+
+bon alors c'est parce que moi j'écris
+
+beaucoup des des trucs à rallonge un peu
+
+long donc ça m'arrange ok donc python
+
+installé guit installé visuel su est
+
+installé donc là on devrait pouvoir
+
+faire quelque
+
+chose alors
+
+par exemple si je vais ici et
+
+j'écris
+
+print hello Shadow ici sauvegarde que je
+
+le sauvegarde dans un petit dossier
+
+qu'on va appeler
+
+python
+
+bonjour
+
+Voilà
+
+euh ah oui il me demande est-ce que vous
+
+voulez que j'exécute le script Python
+
+parce qu'en fait ce qui se passe c'est
+
+que ici j'ai mon script Python et donc
+
+ce que je peux faire c'est faire ceci
+
+cmd puis fait python si pour dire je
+
+veux lancer un script Python voilà Tab
+
+pour dire voilà son nom et ça me permet
+
+de faire hello shadow on a exécuté le
+
+magnifique script qui se trouve là-bas
+
+ok sauf que le problème de ça c'est que
+
+ben il va falloir qu'on refasse à chaque
+
+fois cette méthode là à chaque fois
+
+qu'on veut le tester alors dans la
+
+théorie si cliquez de fois dessus il va
+
+vous dire est-ce que vous vouz lancer a
+
+l'exécuteur launcher
+
+Python et il va le lancer SF qu'il va
+
+s'arrêter direct une FO qu' fin pratique
+
+et pas pratique donc des fois c'est
+
+peutêtre mieux de le tester directement
+
+dans Visual code du coup ça qui disait
+
+est-ce que voulez qu'on instle le truc
+
+de Pyth et en fait en instant ce petit
+
+til de Python ça permet de pirbug ici
+
+Perm de débuger ce qu'on est en train de
+
+faire
+
+voilà c'est installé donc si je retourne
+
+là-bas je
+
+faisudessus on a un petit éditeur qui
+
+fait du du pyon on peut fermer le on pe
+
+rejouer
+
+là-bas par exemple si je veux faire une
+
+boucle for faire
+
+[Musique]
+
+VO et alors là c'est le défaut
+
+d'utiliser des c'est que j'oublie à
+
+chaque fois comment on fait fort
+
+l'avantage de c'est me
+
+fort
+
+l voilà et il va nous rappeler ce que
+
+comment ça fonctionne à fort alors moi
+
+je c séchar toute l'année c'est pour ça
+
+que j'oublie tous ces détails
+
+là parce que basiquement
+
+je code pas en python je ce en python
+
+juste pour faire de trois scrips vite
+
+fait vite bien fait je le code pas
+
+réellement en python
+
+quoi bien qu' a des développeurs qui le
+
+font c'est pas c'est pas mon métier et
+
+alors ici en fait on fait une boucle for
+
+qui va simplement stocker une variable
+
+dans I qui est le à quel point on avance
+
+dans la boucle et ça on va le faire de 4
+
+à 11 et donc du coup ici par exemple si
+
+je fais ceci et ceci comme ceci on va en
+
+fait voir plusieurs fois Shadow
+
+affiché et alors ici il me dit oui mais
+
+non ça marche pas parce que les int
+
+c'est pas un string du coup il faut que
+
+je mette string comme
+
+ceci et je fais play et tada maintenant
+
+il y a une méthode beaucoup plus simple
+
+que de faire ça évidemment c'est de
+
+faire F pour dire format qui veut dire
+
+en fait je vais te donner des trucs tu
+
+peux les mettre directement
+
+dedans et vous mettez votre i comme ceci
+
+en fait ça va permettre de faire genre t
+
+taata point d'exclamation par exemple de
+
+faire de la continuité ici si si je fais
+
+ça t ok bon l'idée c'est pas d'affire un
+
+cours de programmation mais c'est juste
+
+pour montrer ok
+
+euh on arrive à faire du python cool on
+
+arrive à avoir du guide cool maintenant
+
+ce qu'il nous faut c'est de
+
+pouvoir faire tourner le
+
+serveur alors peut-être commencer déjà à
+
+télécharcher Steam et
+
+wow World Warcraft étant le plus gros
+
+peut-être commencer par world
+
+warcft et après on fera directement inst
+
+le serveur Python pour pouvoir faire
+
+lancer des touches en
+
+[Musique]
+
+recevoir télécharger télécharger où
+
+est-ce que c'est encore ce
+
+truc download
+
+battle sur
+
+télécharger
+
+voilà
+
+anglais vous pouvez le mettre en
+
+français mais en fait ce qui se passe
+
+c'est que et de toute façon vous pouvez
+
+changer de longgage à tout moment mais
+
+ce qui se passe c'est que quand vous le
+
+mettez en français certains sour sont en
+
+français donc quand vous faites des il y
+
+a il va falloir trouver à chaque fois la
+
+traduction française de la macro que
+
+vous lisez en anglais sur sur Internet
+
+quoi qui est pas toujours pratique ça ça
+
+se fait ça marche c'est juste pour ça
+
+que je joue en anglais
+
+aussi par rapport à tout ça
+
+ok donc là il est en train de alors il
+
+faut que je me connecte à un compte
+
+qu'est-ce que je vais utiliser comme
+
+compte parce que j'en ai plein on peut
+
+utiliser ban Bob
+
+ouais mais B Bob je crois est déjà ban
+
+je me suis pas du mot de passe de B Bob
+
+euh on peut en créer un on peut se
+
+connecter avec Steam ah bah du coup on
+
+va essayer ça juste pour voir
+
+euh
+
+steam c'est pas steam que je veux ici
+
+c'est euh si c'est
+
+steam voilà installer Steam télécharg
+
+steam je prépare mon téléphone parce que
+
+vaoir que j'utilise
+
+Vard alors pendant ce temps on peut déjà
+
+commencer à
+
+téléchargerub qui va pas nous servir
+
+dans le cadre de l'exercice mais on sait
+
+jamais que l'exercice passe sur les
+
+ordinateurs des étudiant pas
+
+l'ordinateur
+
+distant a priori
+
+télécharger o est-ce qu'il est
+
+télécharger pour
+
+Windows si vous faites du du in sur Mac
+
+je ne sais vraiment pas vous aider parce
+
+que j'ai pas l'habitude de Mac et quand
+
+j'ai essayé c'était pas c'était pas la
+
+joie parce que je suis sur des vieux Mac
+
+et que du coup Mac qu' est pas très très
+
+bien avec les vieux Mac du coup il y
+
+avait rien qui fonctionnait ces
+
+charartes devaient mettre être à jour
+
+Unity dev être à jour plein de trucs
+
+visuel studio enfin il y a des tonnes et
+
+des trucs qui marchaient pas sur les
+
+vieux Mac donc je ne sais pas vous
+
+aider ici on télécharge la version pour
+
+window en pas dans ce temps-là on était
+
+nous on était à
+
+Steam next next
+
+next
+
+next alors faut savoir que des trucs qui
+
+pe être intéressant pour le cours c'est
+
+d'installer sur Steam Sting
+
+link parce qu'en fait ce qui se passe
+
+c'est que on peut jouer à distance avec
+
+Steam et on peut jouer à distance en
+
+réalité virtuelle sur Steam ce qui est
+
+super
+
+intéressant et ce qui se passe c'est que
+
+dans les Quest il y a une application
+
+pour par exempleve virtuel desktop qui
+
+permet de voir du coup de streamer dans
+
+le casque donc vu qu'on a un PC qui est
+
+surpuissant ici à 50 € par mois
+
+ça vaut peut-être la peine de le faire
+
+al ici j'ai pas beso de rentrer mes
+
+trucs parce que je dois
+
+lancerard c'est une application vous
+
+mettez sur votre téléphone pour vous
+
+authentifier
+
+steam je dis que c'est
+
+moi voil
+
+alors librairie qu'est-ce qu'on va
+
+devoir installer donc t seconde ninja
+
+évidemment on va l'installer
+
+oui dans le cadre du cours Bening of
+
+Isac ça pourrait être intéressant mais
+
+je suis pas sûr qu'on l'utilisera mais
+
+il prend pas de
+
+place bom Slinger ça pourrait être
+
+intéressant parce que ça se joue à la
+
+manette de ce que j'avais
+
+testé ades c'est celle que j'viealler
+
+pour pouir le faire jouer à ades durant
+
+le
+
+[Musique]
+
+cours ce sera pas approprié
+
+ça pour être cool mais
+
+non on vainaller parce que on va
+
+sûrement faire des test
+
+dessus on peut faire desest d
+
+marrant je crois qu' gratuit en
+
+plus serait cool on va pas Voiry donc on
+
+va pasaller
+
+nano on va l'installer parce que ça nous
+
+permet de faire des tests de
+
+dactylographie steing Bastard on va
+
+l'installer parce que c'est mes jeux
+
+préféré niveau
+
+de de pouvoir faire des
+
+tests avec du Q
+
+tofer parce que euh si on va faire des
+
+batailles des duels de code à distance
+
+on va pouvoir le faire
+
+dessus et warf on va pas parce qu'il est
+
+trop gros et que je sais pas combien
+
+d'espace j'ai sur le PC al sinon on
+
+aurait pu faire la musique avec le les
+
+personnages de warframe mais c'est un
+
+autre sujet ok donc on a installé tout
+
+ça c'est cool c'est bien c'est
+
+chouette maintenant ce qu'on va devoir
+
+installer c'est steam VR au cas où si on
+
+ve faire le
+
+test ça ce sera déjà
+
+installé installe sauf que si on va
+
+faire des tests de Steam VR sur la
+
+machine il va falloir qu'on installe
+
+aussi oculus
+
+setup parce que je crois que Steam VR ne
+
+va pas fonctionner sans l'oculus setup
+
+là je me suis laissé emporter à des
+
+endroits où il faut pas hop hop
+
+hop je suis laissé remporté par les pubs
+
+non c'est la partie développeur par
+
+contre ça me permet de vous introduire
+
+le fait que hésitez pas installer ce
+
+truc là qui va vous permettre de d'être
+
+sûr que votre casque soit visible par
+
+oculus set install down
+
+bon ben c'est
+
+[Musique]
+
+voà mon avis c'est parce que je suis pas
+
+connecté
+
+non on va oculus ce sera pour une
+
+prochaine fois pas l' envie
+
+pas la patience ici il m'a téléchargé
+
+steam au lieu de Steam parce que Steam
+
+est déjà dans
+
+Steam alors
+
+steam installe
+
+oui
+
+voilà alors est-ce qu'il faut que
+
+j'installe steam link
+
+que ça ça permet de streamer sur les PC
+
+qu pas avoir installé oculus c'estre
+
+l'occasion deer si ça marche OC
+
+set sur navigateur ça sera
+
+fait ça c'est
+
+voilà
+
+alorssh je croyais qu'il y avait un
+
+bouton Installer directement sur le mais
+
+pas
+
+grave voilà
+
+ah il est déjà par de base
+
+alors ça a l'air
+
+OK B on va pas on va pas forcer la TRA
+
+on va laisser ça comme ça ok donc nos
+
+jeux sont installés qu'est-ce qu'on
+
+devait installer d'autre
+
+cours cel du coup de cours mais
+
+l'autre
+
+alors on a
+
+installé P
+
+installore inst du coup les jeux sont
+
+[Musique]
+
+install le truc de musique qui est pas
+
+nécessairement utile en
+
+l'occurrence est-ce qu'on va devoir
+
+l'utiliser ouis engistrer Obs vers le
+
+son faire
+
+Obs donc du coup h
+
+Obs Windows en télécharge on installe
+
+voilà next next
+
+next alors t Monkey je suis pas sûr
+
+qu'il marche au BR donc on va aller
+
+l'installer sur
+
+Chrome
+
+opx monkey
+
+hop
+
+voilà chrome alors pour l'exercices en
+
+fait théoriquement la machine sur
+
+laquelle vous que vous allez piloter n'a
+
+pas besoin d'avoir t c'est juste pour
+
+moi montrer comment si on le fait sur
+
+une seule machine ce que ça donnerait
+
+quoi apparement j'ai pas asseé
+
+l'écran
+
+h il me semble que je l'ai téléchargé
+
+puis qu'il s'est lancé mais que je l'ai
+
+pas terminé
+
+ah oui WinRAR aussi
+
+winr évidemment euh
+
+NH NH
+
+ok installe
+
+oui
+
+voilà alors gothi
+
+ah mince du coup
+
+chrome
+
+voilà on va les pagler et alors en fait
+
+dans
+
+Chrome ah je me suis fait avoir dans
+
+Chrome on va installer Tom Monkey
+
+qu'estce que j'aime bien opér GX mais de
+
+temps en temps je suis obligé de
+
+retourner ici euh
+
+et il va m'obliger à me loguer pour
+
+pouvoir l'utiliser donc on va on va se
+
+loger sur quelle adresse intiger
+
+game
+
+voilà mot de
+
+passe je me souiens plus ce que c'est
+
+ok non c'est pas cel je me souviens pas
+
+je me souviens pas je me souviens pas je
+
+me souviens pas est-ce que je l'avais
+
+préparé
+
+pour c'est pas on va prendre un autre
+
+compte login
+
+B pas jeis me connecter avec mon
+
+compte c'est pas que je suis censé
+
+partager
+
+PC jeis montrer des choses mais je vais
+
+pas y laisser
+
+accès tu vas me dire je vais leur
+
+laisser accès au
+
+clavier pas très
+
+prudent voilà on va l'installer sur
+
+notre
+
+chrome voilà c'est installé
+
+ok ok euh on a ça je vais voir s'il est
+
+sur bre mais ça
+
+m'étonnerait
+
+Mony ça a l'air
+
+OK
+
+voilàaller sur les les trois les tris
+
+navigateurs en fait pour vous expliquer
+
+ça c'est très cool commeti ce que ça
+
+vous permet de faire en fait c'est
+
+d'avoir petit module ici hop vous le
+
+lancez vous dans le dashboard et ça vous
+
+permettre d'ajouter en fait des scripts
+
+etes scripts en fait vous allez pouvoir
+
+dire l'endroit où il s'exécute match ici
+
+ça veut dire je m'exécute à un endroit
+
+donc en fait s rontre l'adresse ma
+
+l'adresse Web que vous cherchez il va en
+
+fait pouvoir faire ajouter du code dans
+
+la page très très très très très très
+
+pratique c'est basiquement de tout petit
+
+senium très très pratique pour SCPP
+
+données c'est
+
+génial donc tumer il est installé donc
+
+on va s'attaquer à Unity h sing in on va
+
+utiliser bah du coup
+
+breev
+
+yop
+
+comom euh jeoublie à chaque foisce qui
+
+c'est non
+
+oh
+
+shit euh c'était quoi
+
+non c bien fait je me suisé au tout
+
+début alors vu que c'est une double
+
+autification faut que j'ille chercher le
+
+numéro c'est par ma
+
+OK
+
+alors on va pas installer cette version
+
+là on va essayer
+
+d'installer de petites
+
+minisionousessus de ce que j'
+
+bien que je sais pas si on a le Cho
+
+d'installer des vies version pour le M
+
+inst
+
+en fait ce qui se passe c'est que ça ça
+
+veut dire la version majeure ça c'est
+
+des modifications mineur qui lieu mais
+
+ch quand même pas mal le code ça c'est
+
+modifications la version sont légèr ça
+
+change pas tout le truc pas c casser
+
+votre code si vous mettez à jour en gros
+
+en gros là de version au-dessus de ce
+
+que j'ai sur mes ordinateurs qui est
+
+ennuyant on va faire
+
+ok là c'est en train d'installer ça en
+
+fait ce qui va se passer c'est quand il
+
+va vous installer ça il va aussi vous
+
+installer d'autres éléments comme Visual
+
+Studio ou des truc comme ça ici il le
+
+fait pas ce qui est peut-être perturbant
+
+donc je vais
+
+l'arrêter je préférais le relancer être
+
+sûr de d'installer tout ce que j'ai
+
+besoin
+
+d'installer par que je vois qu'il m'a
+
+pas laissé le choix de ce que je veux
+
+installer c'est pour ça
+
+que installer Unity oui celui-là et en
+
+fait ici je veux Android parce que je
+
+Buil sur Android iOS je m'en fous euh
+
+Linux on s'en fout WebGL c'est important
+
+au cas où si je fais du WEBG ça c'est
+
+important si je fais des programmes et
+
+ça c'est important si je veux faire des
+
+serveurs plus tard donc on a pas besoin
+
+parce qu'à chaque fois hop suivant
+
+j'accepte voilà donc là ce qui va
+
+installer voyez il y a beaucoup plus il
+
+va installer en fait Android qui
+
+est ce qui va nous permettre de faire du
+
+Java et de faire du Java spécifiquement
+
+pour les téléphone Android donc ça ça va
+
+permettre de Builder du Java ça ça
+
+permett de discuter avec du Java et du
+
+coup en fait ça ça prend normalement une
+
+plombe à installer sauf que ici tout est
+
+automatisé avec
+
+Unity que il est en train d'inaller ça
+
+ça c'est l'éditeur de Unity ça c'est si
+
+vous voulez faire des serveurs c'estd
+
+des applications qui ont pas de visuel
+
+où il y a du code vous
+
+Unity mais pas de visuel
+
+[Musique]
+
+ilpp c'est en fait un truc qui traduit
+
+en C++ votre langage Unity fait faites
+
+du
+
+prram majoré desvel conna le trad en due
+
+Unity C++ la machine
+
+Windows
+
+xboxstation il va conver ce qu'il faut
+
+et alors le WEBG c'est si vous voulez
+
+faire des applications qui tournent sur
+
+le web ou des application ver qui tour
+
+sur le
+
+web voilà open JDK si je me trompe pas
+
+c'est en fait Java a une licence qui est
+
+devenue payante et Open JDK c'est une
+
+version open source et gratuite de Java
+
+qui elle n'a pas cette licence payante
+
+dans leses
+
+souvenirs me tromper donc voilà vous
+
+voyez que l'avantage de de travailler
+
+sur Shadow c'est ben vous êtes sur de la
+
+fibre optique hein donc tout se
+
+télécharge très
+
+vite normalement il faut attendre une
+
+bonne heure pour installer et
+
+télécharger tout
+
+ça ok donc ça c'est en train de se faire
+
+donc on va voir ça euh on va pouvoir
+
+fermer ici on va pouvoir faire un projet
+
+qu'on va appeler hello
+
+Shadow il me dit qu'il faut d'abord
+
+installer oui mais j'ai installé non
+
+c'est déjà fait ah ouis il a pas
+
+totalement terminé en fait
+
+ça m'étonne peut-être qu'il est pas
+
+installé
+
+il là ce qu' nous a installé surtout ça
+
+qui est important c'est que il nous
+
+installé vis studio community 2022 qui
+
+s'installe facilement là il install avec
+
+tous les modules des d ce qui est assez
+
+pratique et donc voilà alors on a
+
+installé t on a installé Obs on l'a
+
+installé mais on l'a pas
+
+lancé on va lancer ça en
+
+attendant alors une utilité que je ne
+
+fais pas deobs mais qui est à envisager
+
+dans des dans des cours de Q testing
+
+c'est le fait de prendre la vidéo deobs
+
+et l'envoyer sur un autre PC et pas
+
+streamer sur sur Youtube twitch mais
+
+l'envoyer directement en téléportant sur
+
+are
+
+PC voilà
+
+on va
+
+ajouter stop voilà ça c'est pour
+
+enregistrer notre truc avec le la
+
+souris ninja
+
+ouis en même temps on pas besoin on fera
+
+ça avec le cours l'idée ici c'est
+
+surtout de d'avoir un truc qui permet
+
+d'enregistrer déjà
+
+ça ah oui je me souviens pourquoi
+
+installer audio audio machin donc
+
+dans dans le cours précédent j'avais
+
+fait installer un logiciel qui s'appelle
+
+audio
+
+VO
+
+Voice fait ce qui se passe c'est que VO
+
+c'est outil qui
+
+permet de rediriger du son
+
+rediriger du
+
+son donc comme une table de mixage
+
+rediriger du son et en fait ce qui se
+
+passe c'est que c'est très très très
+
+très très très pratique et un des trucs
+
+très util ça c'est que ça permet de
+
+rediriger le sonobs
+
+ver tu ta sore audio tu l'envoies vers
+
+là-bas donc du coup jevoyer dans ce truc
+
+et ce truc je P leer ce que je veux en
+
+fait
+
+h c'est bon non c'est pas le bon ça
+
+c'est VI c'est pas ça que je sais ça
+
+je je peux te
+
+supprimer
+
+voilà
+
+hop
+
+ah oui
+
+ok c'est le fameuxbg Windows euh extrait
+
+[Musique]
+
+voilà j'ai fait de la merde j'ai fait de
+
+la merde c'est pas grave télécharger
+
+voilà
+
+VO
+
+oui bien pour rester les VO
+
+du coup toi est-ce que je te ferme pour
+
+le moment je pourrais pas obligé mais je
+
+pourrais comme ça il est comme il est
+
+système je pas faire ça
+
+maintenant il est installé mais il
+
+faudrait que je redémarre pour l'instant
+
+on va pas le faire mais très très utile
+
+ce truc
+
+ok
+
+donc oui oui ouioui alors un truc qui se
+
+passe c'est que j'ai acheté ninja que
+
+ninja on peut pas
+
+on peut pas le lancer depuis steam
+
+plusieurs
+
+fois en même
+
+temps donc ici ce que je vais faire
+
+c'est que je
+
+[Musique]
+
+vais je vais je vais je vais dip un truc
+
+que je me suis envoyé qui est en fait
+
+basiquement un crack de de 10 second
+
+ninja j'ai acheté le jeu c'est pas comme
+
+si
+
+ici install comme ceci transf
+
+en fait dans ce zip je me suis envoyé il
+
+y
+
+avait de TR éléments qu'on avait dans le
+
+cours précédent des zip des trucs
+
+intéressant il y a le l'id0 qui va me
+
+permettre de recevoir tout sur cet
+
+ordinateur et il y a le 10 second
+
+ninja en fait ce qui se passe ici c'est
+
+que j'ai un installleur ici et donc si
+
+je clique
+
+dessus ce qu'il va faire c'est qu'il va
+
+aller télécharger le guit qui est en
+
+ligne et installer
+
+normalement voilà comme ceci
+
+sauf que ce qui m'étonne c'est que je
+
+vois pas la clé
+
+euh je vois pas la clé de de la clé
+
+perma est-ce qu'il est déjà
+
+St si je le lance qu'est-ce qu'il va
+
+dire
+
+ah oui ça c'est la partie ah oui ben ça
+
+c'est la partie suivante
+
+hein qui va être qu'on va faire en fait
+
+maintenantin du du
+
+coup je installer alors la partie un peu
+
+chiante qui est avec Python c'est que
+
+une fois que tu commences à faire ça il
+
+faut installer tout
+
+donc Windows r
+
+CMD c'est parti pour installer tous les
+
+modules de Python qu'on aura besoin pour
+
+le projet
+
+instal cryptoie
+
+voilà on
+
+relance pu
+
+installle web
+
+socket on
+
+relance pu installle NTP lib ça ça
+
+permet de synchroniser le temps dans
+
+l'application de se synchroniser sur une
+
+horloge extérieure très pratique il y a
+
+requête aussi du coup
+
+qui installe
+
+requê qui permet de faire des appels web
+
+et donc d'aller chercher des pages Web
+
+et dans une des pages web il y a
+
+l'adresse de du serveur que j'utilise
+
+ok euh
+
+euh ouais relancer et là je crois qu'on
+
+est bon ilonnect du mon serveur il me
+
+demande l'autorisation de pouvoir percer
+
+le le le parfeu pour aller là-bas je lui
+
+dis oui pas de problème et l'ID est le
+
+bon parce que ici je vois que je suis en
+
+log serveur zéro donc j'ai le bon la
+
+bonne clé
+
+RSA donc du coup je vais pouvoir
+
+recevoir les messages de tous mes
+
+étudiants ici en fait ce qui se passe
+
+c'est que dans le serveur on peut dire
+
+euh
+
+qu'il y a des gens sur lequels on
+
+broadcaste tout donc du coup zéro par
+
+défaut c'est justement la personne qui
+
+va recevoir tous les broadcasts donc
+
+j'ai mis zéro par défaut et donc ici
+
+tous les broadcasts qui utilisent le
+
+serveur redirigé vers zéro c'est me
+
+permet de faire des tests avec les
+
+étudiants et de de pas
+
+devoir faire des écouteurs pour toutes
+
+les clés en
+
+gros alors du coup du coup du coup c'est
+
+cool et en fait ce qui qu'on vient de
+
+créer ici c'est ce que j'appelle une
+
+gate
+
+une truc qui permet discuter avec ce
+
+serveur et qui permet d'envoyer de
+
+recevoir des mess pour
+
+ex FA
+
+j'ai fermé la
+
+fenêtre web socket listenerp listener
+
+c'est 36
+
+14
+
+donc python script
+
+[Musique]
+
+pudp
+
+voilà accepter sauf que ici on va le
+
+mettre en mode little donc little ça
+
+veut dire c'est un format doncas big et
+
+Little qui sont deux formats différents
+
+pour envoyer le B et Little c'est celui
+
+qui
+
+utilisch serveur
+
+char donc on va utiliser so on pousse le
+
+B on le pousse sur ce truc localement
+
+sur cette adresse oui et on le ferme
+
+voilà et alors on va
+
+faire on vaorter du temps
+
+time j'ai oubl à chaque fois comment ça
+
+s'écrit je crois que c'est pas
+
+timep no module time ah il faut que
+
+j'installe le module time
+
+ok
+
+inst normalement j'ai pas besoin
+
+d'staller time qu' en
+
+réponse ah c'est parce que j'ai mis la T
+
+maguscule
+
+voilà on fait
+
+PL voilà et alors est-ce que ça marche
+
+mais c'est
+
+pas c'est mon serve mode
+
+[Musique]
+
+aléatoiree alors je crois que j'ai le
+
+mode qui pousse aléatoirement
+
+voilà h h hop il se connecte au serveur
+
+oui on y est alors maintenant du coup je
+
+retourne dans l'autre et on va faire les
+
+alors il y a un truc qui marche pas
+
+ok on va on va changer de stratégie on
+
+va aller sur le site du
+
+serveur et on va aller chercher les
+
+exemples comme
+
+ça que je ne matrise pas j'ai
+
+CR s on a plein de
+
+Trucy et on
+
+vaatch machin
+
+scratch input voilà on va copier ça on
+
+va le taper ici on va sauvegarder on
+
+vérifie que ça vise vers le bon port oui
+
+il va sûement demander d'installer de
+
+modules
+
+keyboard instyb
+
+alors et voil çaie les
+
+messages en fait ici ce qui se passe
+
+dans ce c'est qu'on a keybard qui Peret
+
+de
+
+lireav on a le qui
+
+va mess ici on dit toutes les CL qu'on
+
+veut écouter qu'on veut transformer en
+
+des chiffres
+
+ensuite ici il pousse localement sur le
+
+socket le
+
+ du de l'entier en format
+
+little ça transforme ça en
+
+des et ça pousser et en fait l'idée ici
+
+c'est que en permanence trou j'écoute
+
+tout le temps après les touches de
+
+clavier savoir si sontfoncé et si elle
+
+change d'état j'envoie l'état làbas
+
+basiquement et c'est comme ça qu'on se
+
+retrouve avec un lecteur de clavier qui
+
+envoie serveur et donc là ce que vous
+
+voyez c'est ce que je reçois du serveur
+
+donc en gros ça veut dire que j'ai émis
+
+et
+
+reçu ce qui veut dire que maintenant si
+
+je veux afficher ces informations là par
+
+exemple suffit de d'aller chercher un
+
+exemple du serveur mais autant
+
+directement copier le serveur de toute
+
+façon on va en avoir
+
+besoin clone voilà on va aller ici dans
+
+le
+
+bureau serveur l'installer peut-être pas
+
+dans le bureau mais sur C directement
+
+voilàid
+
+wa
+
+chining voilà
+
+CMD git clone
+
+point dire j'installe tout ici
+
+voilà donc ça c'est notre
+
+serveur qui nous permet de faire ce que
+
+vous de répondre à ce Tru et dedans il y
+
+a les samples et alors la raison pour
+
+laquelle je l'ai mis ici c'est parce que
+
+je me dis que je ferais bien un exemple
+
+de
+
+dbug qui fait juste écouter et donc du
+
+coup pour ça il faut que je
+
+prenne par exemple simulet keyboard with
+
+intiger celui-là il peut il peut être
+
+pas mal donc on va prendre ça on va le
+
+mettre dans Visual Studio ici hop là
+
+comme ceci et en fait ici au lieu de
+
+d'afficher tout ça là de faire vraiment
+
+ce qu'il y a à
+
+faire on va juste
+
+afficher
+
+euh voilà on va pas faire action qui est
+
+ici du coup on va juste dire écoute en
+
+permanence le la soquette UDP si jamais
+
+le le B existe et qu'il a une longueur
+
+16 à ce momentl on le décompresse on va
+
+chercher la formation qui est en fait un
+
+index de qui on est la valeur de c'est
+
+quoi qui a changé et quand ça a changé
+
+et on est bon et donc du coup ça c'est
+
+le WebSocket qui a été créé donc du coup
+
+tout ça on a pas besoin dans l'exemple
+
+qu'on va
+
+faire jusquici on a pas besoin
+
+voilà et ça
+
+ou je suis en train d'écrire suruais
+
+fichier h
+
+là on va faire un nouveau fichier pour
+
+être sûr de pas faire des bêtises
+
+euh
+
+listen to iid
+
+serve hop voilà on sauvegarde on retire
+
+tout ça ok donc en gros ici ce qui se
+
+passe c'est qu'on fait juste un script
+
+euh avec euh des trucs pour pouvoir
+
+décompresser des des entiers enfin des
+
+bytes vers des entiers socket pour
+
+pouvoir écouter à des truc réseau UDP ou
+
+autre time pour pouvoir gérer le temps
+
+qui est pas utile ici on crée notre
+
+petit not informations de voici mon
+
+adresse locale qui vaut rien euh et
+
+voici mon adresse le port que je veux
+
+écouter
+
+sur lequel je veux
+
+écouter on a le webscket ici qui va être
+
+lancé on a la boucle trou qui se lance
+
+et qui dit bah écoute en permanence dès
+
+que tu reçois tu affiches que tu vois
+
+d'accord on va sauvegarder ça on peut
+
+pas lancer de script à la fois je crois
+
+donc il va falloir que je
+
+lance un script genre h h
+
+hop voilà ici on va lancer tous les deux
+
+les scripts ici donc le premier c'était
+
+euh serveur machin celui-là ça nous nous
+
+permettre d'écouter ah désolz
+
+ouvrir avec
+
+Python voilà j'aurais peut-être dû
+
+mettre un message qui dit bonjour
+
+histoire qu'on voit qu'il est lancé euh
+
+et il nous faut un autre qui lance les
+
+touches clavier donc
+
+celui-là
+
+hmm on va va le lancer depuis la
+
+console
+
+CMD
+
+euh
+
+python ah il faut j'ai oublié
+
+d'installer pi autogoui
+
+euh pi installle pi autogoui qui en fait
+
+lui Pi est un un bout de code qui permet
+
+de faire des touches clavier de faire
+
+des touches avec la souris de faire des
+
+de faire pas mal de de simulations de
+
+touches don la don le clic et Don le
+
+fait de faire bouger la souris dans mes
+
+souvenir voilà c'est en train de tout
+
+installer
+
+alors voyez la raison pour laquelle il
+
+faut utiliser
+
+n
+
+NTP euh ceci network time protocol c'est
+
+parce que ici vous voyez que mon
+
+ordinateur il a été configuré à 2h56 il
+
+est pas 2h56 chez moi il est peut-être
+
+minuit un truc comme ça et donc en fait
+
+le temps de la machine n'est pas le même
+
+temps que celui de ma machine à du coup
+
+ici je peux théoriquement aller
+
+configurer le temps ici hein simplement
+
+en disant je veux changer le temps on va
+
+aller dans
+
+Time
+
+hop ici on va aller là on va dire qu'en
+
+fait je vis pas au Canada je vis en
+
+Europe à Bruxelles voilà on va dire que
+
+on veut qu'il se fasse le time zone
+
+automatiquement qu' OK et en fait
+
+maintenant on se retrouve à 11h57 du
+
+matin enfin du soir ce qui se passe
+
+c'est que cette adresseci ce ce numéro
+
+de enfin pass pas c ad cette date est
+
+presque la bonne c'est-à-dire que quand
+
+je fais des tests des fois elle est de
+
+10 secondes décalé de 10 secondes de 20
+
+secondes de 30 secondes des fois c'est
+
+60 secondes qu'en fait dans la théorie
+
+elle est exactement la même que tout le
+
+monde dans la pratique c'est pas
+
+vraiment totalement le cas et c'est pour
+
+ça que j'ai dû commencer à apprendre à
+
+apprendre les NTP time protocole et en
+
+fait ce qui se passe c'est que ça c'est
+
+juste qu'on a des machines qui ont un
+
+certain temps qui est enregistré donc
+
+c'est des serveurs à différents endroits
+
+de la France de l'Amérique et des trucs
+
+comme ça on a d'autres ordinateurs qui
+
+viennent se mettre à jour dessus puis
+
+d'autres ordinateurs qui se mettent à
+
+jour dessus puis d'autres ordinateurs
+
+qui vient de se mettre à jour dessus et
+
+en fait ça permet d'avoir tout un réseau
+
+d'ordinateur disponible avec tous le
+
+plus ou moins presque même temps plus ou
+
+moins çaid et donc nous on se retrouvera
+
+quelque part ici dans la ligne on va
+
+juste dire e peux-tu me donner la date
+
+et faire
+
+et on aura la date de de cette machine
+
+là qui va nous dire que c'est la date de
+
+cette machineel et si on se retrouve
+
+avec une date synchronisée entre tout le
+
+monde ça c'est euh dans la théorie dans
+
+la pratique c'est pas si pas si simple à
+
+gérer mais quand tu connais pas ok donc
+
+pigui est installé donc normalement ici
+
+si je
+
+hop je lance
+
+celui-ci voilà
+
+évidemment il s'est
+
+coupé euh python
+
+SIM
+
+voilà il me dit que il y a un problème
+
+parce qu'en
+
+fait il y a un socket qui utilise déjà
+
+ce truc ok donc en gros ce qui se passe
+
+c'est que lui et lui utilisent le même
+
+socket attends attends attends attends
+
+attends
+
+attendsendend parce qu'on en a un qui
+
+envoie et un qui
+
+réceptionne
+
+euh simulette c'est celui qui
+
+réceptionne faire
+
+CMD hop
+
+euh donc
+
+ici ah c'est celui que j'ai copié qui se
+
+réceptionne au ouais ouis
+
+je vois ce
+
+e que c'est truc qui dit que mess
+
+application
+
+seation de
+
+monopier
+
+fait donc i CH
+
+4 saUe
+
+ce qui fait que on va
+
+pouvoir en passant je vais rajouter le
+
+fait de pouvoir dire
+
+hello hello
+
+dgarde
+
+[Musique]
+
+ok donc on va le lancer sauf que ce qui
+
+va se passer c'est que c ce nouveau port
+
+il faut l'adiquer au serveur que celui
+
+qui à celui qui est
+
+là-bas vous voyez ici j'ai un petit
+
+fichier port qui dit en fait sur quel
+
+port on peut envoyer les choses donc par
+
+exemple ici je vais rajouter un port qui
+
+est le 9 et alors vu pour l'exercice par
+
+la suite j'ai mis que on allait utiliser
+
+le 7000 dans l'exercice on va rajouter
+
+tous les
+
+7000 en
+
+question comme ça ça simplifiera la vie
+
+on va aller vérifier
+
+ça donc ici en fait ce qui se passe
+
+c'est que pour
+
+simplifier il va envoyer ça à tous les
+
+7000 donc on aura 7000 pour AD 7001 pour
+
+suiv
+
+7001 c'est pas 7001 du coup ici c'est
+
+7000 6 on va
+
+mettre voilà donc on a 7000 c'est
+
+1 2 ok donc on aura un truc pour simuler
+
+la manette quatre manettes le clavier le
+
+fait d'envoyer
+
+en message la S et le midi donc c'est
+
+jusqu'à 5
+
+ok donc ici on modifie port pour qu'il
+
+ait jusqu'à 5 c'est bon on va
+
+sauvegarder ici on a rajouté le fameux
+
+port du lur qu'on vient de créer plus ce
+
+qu'on va utiliser dans les cours
+
+ok du coup il faut que je le relance
+
+h voilà donc ça c'est la G qu'on vient
+
+de modifier donc c'est le truc qui va
+
+permettre d'envoyer et de recevoir des
+
+messages du serveur sur le serveur
+
+ok h h
+
+h
+
+alors tu toujours en train d'installer
+
+c'est quoi cette histoire
+
+ah je fallais valider visuage studio
+
+j'avais oublié ce détail que VisualAge
+
+studio bloqué souvent parce qu' il vous
+
+demande une autorisation et du coup faut
+
+venir dire
+
+oui bon du coup notre serveur il est
+
+là-bas ici il nous demande ce qu'on ve
+
+installer dans Visual
+
+Studio net oui effectivement on le veut
+
+celui-là on va pas le faire sur truc
+
+celui on doit pas faire de pyon
+
+dedans alors nous ce qu'il n faut c'est
+
+absolument du coup
+
+Unity et c'est à peu près tout
+
+ça c'est important d'installer du
+
+[Musique]
+
+coup c'est
+
+bon ça sinst on retourne notre
+
+exercice ce PC dans le disque c'est on a
+
+ser dans les exemples on a préparé et
+
+ces exemples
+
+[Musique]
+
+c'est celuilà qui va nous permettre de
+
+simuler des touches
+
+ok a priori
+
+tourne et il n faud qui va PIR en
+
+émettre donc on va faire
+
+faire on va
+
+allerer l'émetteur l'émetteur il
+
+est on va déjà lancer
+
+ou keyb
+
+scratch
+
+voilà je la je clique ça on émet ça
+
+vient ici et là normalement lui il me
+
+permet d'écrire donc il est censé des
+
+touches quand ça fait
+
+ceci com vous pouvez voir ça marche ça
+
+écrit de fois la
+
+touche nous ce qu'on voulait faire
+
+c'était surtout écouter donc on va aller
+
+à
+
+[Musique]
+
+l et on va faire Python
+
+voilà donc du coup ici vous voyez que
+
+quand j'écris hop là donc là ça lit le
+
+clavier de l'ordinateur et ça l'envoie
+
+sur le serveur en ligne le serveur en
+
+ligne il dit c'est bon je te renvoie ça
+
+à tes clients et donc du coup vu que le
+
+client ici ça notre Gates c'est un truc
+
+qui permet d'envoyer de recevoir il
+
+reçoit ici c'est un truc qui débug et
+
+qui dit j'ai reçu quelque chose et là on
+
+a fait un petit scrip python vite qui
+
+écoute à des entiers en gros lui là il
+
+reçoit
+
+les trucs que le serveur reçit
+
+là-bas je sais pas pourquoi ça marche
+
+QUE quand c'est
+
+focus ok donc là à partir de ce moment
+
+là on peut faire déjà pas mal de choses
+
+je sais pas pourquoi le fait d'avoir
+
+focus
+
+ok ça ça marche
+
+[Musique]
+
+ok maintenant qu'on a not débuger on
+
+peut faire un exercice avecer Monkey
+
+comme ça le code il est déjà
+
+prêt
+
+ok alors l'exercice avec
+
+Monkey c'est d'aller
+
+chercher on va aller chercher sur
+
+internet
+
+voilà on a Java HTML et TER
+
+machin
+
+voilà donc on vaer cloner ce code
+
+là
+
+4G voilà c'est parce qu'en fait 4gki
+
+c'est je vais donner des clés de 4 Go
+
+avec les le cours
+
+dessus donc du coup qu'est-ce qu'on met
+
+dans cette clé git clone on va avoir
+
+effectivement notre
+
+tunn
+
+voilà ensuite on va aller chercher
+
+l'autre h
+
+ici sont en fait tous deux des exemples
+
+de comment on peut communiquer avec le
+
+serveur
+
+voilà dont le fameux TER
+
+Monkey voilà déjà utiliser
+
+ça alors le T Monkey il est
+
+ici on va aller
+
+sur local
+
+webscket voilà et en fait le code qui
+
+est
+
+là-bas ah oui on voit pas le ici détail
+
+c'est qu'on voit pas le les extensions
+
+de fichier on va faire view
+
+hide an item
+
+view F extension voilà nous ce qu'il
+
+nous faut c'est
+
+celui-ci si on ouvre
+
+ça on va voir que c'est du code
+
+JavaScript mais un peu
+
+particulier il l'ouvre pas avec ce que
+
+j'attendais
+
+en fait c'est un code assez particulier
+
+parce que comme vous pouvez voir il est
+
+fait pour t Monkey donc il commence par
+
+C truc ici qui dit ce que ça fait et
+
+donc ici je dis en fait on pousse des
+
+données Var vers le local websocketid
+
+donc c'estàd ce trucci et donc du coup
+
+ici on dit bonjour je commence le code
+
+je débute à
+
+webscket queb une connexion avec ce
+
+WebSocket qui est local donc ma machine
+
+et sur le port 700 773 si on voir ici il
+
+a mis que je crée un local WebSocket sur
+
+ce port là pour le moment euh il va du
+
+coup essayer de s'établir une connexion
+
+et s'il y arrive il est tout content il
+
+va pouvoir pousser des messages vers le
+
+serveur sous format de byte comme on a
+
+vu ici et ces formats de byte il va les
+
+envoyer comme un tableau de byte
+
+simplement et comment est-ce qu'il
+
+génère ces byt là ben c'est
+
+basiquement en allant chercher les Vares
+
+dans le code de de la page donc en fait
+
+il va dire peux-tu me donner le code de
+
+la page en tout cas l'élément qui se
+
+trouve dans cette classe là dans la page
+
+html on va aller parcourir cette page
+
+html et trouver le moniteur laabil
+
+machin et euh on va extraire tous les
+
+éléments qui qui ont Var 5 au début on
+
+va les envoyer vers le truc qui veut les
+
+envoyer vers le serveur
+
+ici lui il va envoyer ça là-bas et ça va
+
+devenir du coup un et donc en gros ça on
+
+va je vais vous montrer ce que ça
+
+fait on va aller
+
+dans euh je vais prendre op op GX pour
+
+pour pour ça parce que je me suis un
+
+peu
+
+dashboard on va ajouter un script on
+
+ajoute notre script ici on sauvegarde et
+
+en fait ici il nous dit bah voilà ça
+
+aura lieu sur le site de ch ce code là
+
+va être exécutéon peut aller sur scratch
+
+alors je crois que je je crois que j'
+
+mis une
+
+démo scratch quelque part ici auudessus
+
+ouais
+
+ici
+
+voilà on peut aller
+
+là-bas voilà on lance le script voilà et
+
+donc en fait ici ce qui se passe c'est
+
+que c'est une petite démo qui en fait
+
+lit les touches de clavier donc en fait
+
+voyez ici je je pousse sur les touche
+
+sur les touches up down right machin ici
+
+et ça bouge en fait les valeurs ici de
+
+Press et de release qui se trouve là-bas
+
+et en fait ça c'est censé être envoyé
+
+là-bas pourquoi ça le fait pas on va
+
+réfléchir un peu alors comment on fait
+
+pour débuger on fait inspecteur inspect
+
+machin comme ceci on va voir dans la
+
+console et on va voir ce qui se
+
+passe donc ici il dit dit qu'il y a eu
+
+un changement détecté qu' a été
+
+envoyé euh
+
+non il est pas reçu donc s'il est pas
+
+reçu pourquoi est-ce qu'il est pas reçu
+
+soit parce que la truc a pas bien
+
+chargé soit ben non il a chargé parce
+
+qu'il est arrivé
+
+ici ch des tech P machin
+
+serveur du coup ça ve dire qu'il est
+
+arrivé au moins
+
+ici et on a pas random machin donc c'est
+
+qu'il pas affiché Non Random c'est quand
+
+tu pousses à
+
+random si on l' on l' le
+
+randemain qu'il est bien arrivé
+
+là-bas il est bien arrivé ici
+
+du coup il est arrivé
+
+là-bas c'est qu'il est peut-être pas
+
+connecté alors sil est pas connecté
+
+c'est parce qu'il est pas sur le bon
+
+port ou où est-ce le cas00 normalement
+
+il est en fait ce qui se passe c'est que
+
+quand on envoy vers un serveur local il
+
+est pas censé bloqué donc soit c'est
+
+parce que j'ai un problème avec
+
+mon truc
+
+ici soit c'est parce que la Connex est
+
+pas sécurisé du coup il me bloque mais
+
+normalement il est pas
+
+censé on va
+
+sauvegarder on va retournered recharger
+
+[Musique]
+
+donc en fait ici il a reçu une donnée il
+
+l'a pas
+
+aimé du coup il m'a envoyé un message
+
+comme quoi il l'a pas
+
+aimé et en fait ça c'est quelque chose
+
+que j'ai corrigé normalement dans mon
+
+code
+
+euh quand ça se fait que je le retrouve
+
+[Musique]
+
+encore c'est que je suis pas à jour
+
+est-ce que j'aurais pas poussé le code
+
+la fout passer
+
+alors si
+
+apparemment j'aurais pas poussé le code
+
+de la fois passer c'est pas grave
+
+593 ah oui non c'est parce que c'est le
+
+code du de la gate donc du coup la gate
+
+est pas à jour on va la mettre à jour
+
+alors la gate euh la gate la gate
+
+elle est à zéro
+
+ici
+
+CND
+
+statut
+
+add
+
+commit
+
+hop euh il me dit que il faut que
+
+j'autorise
+
+à pouvoir faire des commites de cet
+
+endroitl ah non il me dit que j'ai pas
+
+de nom en fait pour utiliser guide il
+
+faut que vous déclariez votre adresse
+
+mail et votre votre
+
+nom et alors mon
+
+nom voilà
+
+guit statut guit
+
+ad
+
+commit
+
+save pou
+
+ok
+
+pouche alors là il me dit que pour
+
+pouvoir pouer il faut que je sois
+
+autorisé et donc du coup il veut
+
+vérifier que c'est bien à moi sauf que
+
+là il me l'ouvre sur le mauvais site web
+
+parce que bah j'ai changé de browser du
+
+coup on va réenregistrer
+
+mes coordonnées
+
+ici par que je ris de l'utiliser
+
+souvent
+
+sauvegarder et voilà je suis bien
+
+éloistré sur le guit
+
+maintenant du coup il va me laisser
+
+pouvoir faire des poules des push ok
+
+donc maintenant j'ai fait un pool la
+
+théorie je suis à jour donc du coup vu
+
+que je suis à jour on va relancer le
+
+serveur et je devrais pas avoir
+
+voilà hop
+
+ok le serveur il est lancé enfin le la
+
+porte elle est elle est lancée donc
+
+maintenant si je recharge contrô F5
+
+bon Esser de corriger
+
+ça la ligne
+
+232
+
+je
+
+pas ce
+
+[Musique]
+
+ok c'est Lig
+
+2366 le fait que que la locale que la
+
+data soit f
+
+data en fait c'est au moment où je
+
+réceptionne la data sur le
+
+serveur ah
+
+que je l'ai corrigé pour
+
+le en gros ici la data de temps en temps
+
+peut être nul alors ici je sais pas
+
+comment lui
+
+dire if data
+
+not que non
+
+checkas de différentes manières tu peux
+
+Checker sielle est défini so juste la
+
+définir et je crois que dans la version
+
+d'avant je l'avais justement juste défin
+
+en mode voilà
+
+existe comme ceci
+
+comme ceci sauvegarde
+
+ok alors ici j'ai fait de la
+
+merde on va revenir en arrière parce que
+
+j'ai pas envie ir fait de la merde avec
+
+mon
+
+copilote hop voilà et ici on va dire que
+
+data
+
+existe et que
+
+adresse
+
+existe sauvegarder on ferme ça on
+
+relance voilà
+
+on retourne ici on bouge
+
+et c'est
+
+bon voilà en fait ce qui se passe ici
+
+c'est que pourquoi est-ce qu'on c'est
+
+quoi que je suis en train de vous
+
+montrer en fait ce qui se passe c'est
+
+qu'on a scratch qui est un outil qui est
+
+très pratique pour apprendre la
+
+programmation voyez ici si je fais ça on
+
+va pouvoir aller voir
+
+l'intérieur hop voir à quoi ressemble le
+
+code qui est derrière et le code c'est
+
+des gros blocs qui appelle des gros
+
+blocs qui app des gros blocs c'est très
+
+très pratique c'est très très puissant
+
+et en fait ce qui se passe c'est que euh
+
+ça vous permet du coup d'apprendre la
+
+programmation ou de faire votre propre
+
+programmation mais aussi de faire des
+
+euh interfaces qui font des actions quoi
+
+et ces actions là en fait le script que
+
+je vous ai fait installer dans temper
+
+Monkey il va en fait simplement aller
+
+voir la page donc si je fais euh
+
+afficher la page
+
+html ici on peut voir qu'il y a plein
+
+plein de trucs dans tous les sens et
+
+parmi ces trucs il y a ce truc-ci voilà
+
+ça
+
+et ici on peut voir en fait que il y a
+
+une classe ici qui représente en fait la
+
+valeur stockée et l'autre le label ici
+
+il y a le label et la valeur stockée
+
+donc en gros je peux aller voir après
+
+ces données les collecter et voir
+
+laquelle commence par
+
+WS donc voyez ici il y en a une qui
+
+commence par WS bar voilà donc je vais
+
+dire est-ce que la variable commence par
+
+WS bar si oui prends la valeur qui est
+
+stockée dans son lappel et on va aller
+
+la convertir en un entier en gros ça
+
+c'est ce que je fais dans le script que
+
+je vous ai montré le script Monkey
+
+ici voilà c'est
+
+celui-ci voilà donc en gros ici voyez je
+
+dis je commence une connexion avec le
+
+serveur dis-moi s'il est toujours bien
+
+valide preview data c'est pour stocker
+
+la dernière la valeur précédente pour
+
+checker que si la valeur a changé
+
+et du coup ici le fameux truc on
+
+chercher c'est là-bas on dit simplement
+
+bah va chercher dans la page euh le truc
+
+qui ressemble à ça pour pas rechercher
+
+dans toute la
+
+page et dans ce ce gros élément on va me
+
+chercher tous les éléments qui s'appelle
+
+mono labelle machin et mono value machin
+
+et c'est comme ça qu'on on va pouvoir
+
+extraire tout
+
+ça l'avantage d'avoir fait un script qui
+
+est en local host c'est que on n pas
+
+besoin de dire à au navigateur que c'est
+
+une connexion sécurisée ou non vous
+
+savez que ici quand on va sur une page
+
+il est mis
+
+hop il est normalement mis achettp
+
+quelque chose attends je vais fermer
+
+cette fenêtre làon en a plus
+
+besoin voilà ça c'est pas grave vous
+
+inquiétez pas faudra que je corrige mais
+
+c'est pas grave c'est quand la la
+
+connexion est perdue il y a un truc qui
+
+envoie qui est mauvais euh
+
+ouf par contre ça a fait plein d'action
+
+là-bas il faudra que je fasse gaffe à ça
+
+euh je disais donc il y a un autre
+
+script qui est dans les exemples donc on
+
+va aller dans les
+
+exemples 4G
+
+voilà dedans on a un autre exemple donc
+
+on a local WebSocket c'est celui qu'on
+
+via d'utiliser et on a JavaScript iid WS
+
+alors celui-à il est un peu plus
+
+virulent c'est celui-là qu'on va aller
+
+chercher en fait celui-là il contient
+
+une clé privée donc ça c'est une clé que
+
+normalement vous ne devez pas partager
+
+avec les gens donc c'est pas grave c'est
+
+pour l'exemple c'est là c'est une banale
+
+et cette clé privée et cette clé
+
+publique va nous permettre de nous
+
+authentifier qu'en fait dans ce script
+
+là plutôt que d'envoyer à ma gate je
+
+deviens une gate donc ça c'est une gate
+
+Thumper Monkey et ça c'est une gate
+
+python c'est un endroit qui va permettre
+
+d'envoyer et de
+
+recevoir du coup en fait vu que je va
+
+envoyer que je veux recevoir
+
+euh il faut que je puisse euh faire
+
+ça
+
+alors yop hop hop ici donc en fait on
+
+fait un WebSocket avec une adresse en
+
+ligne donc voilà là c'est l'adresse IP
+
+de l'ordinateur que je veux contacter en
+
+WebSocket non sécurisé et à l'adresse au
+
+port
+
+4500
+
+1 ça ça va être des codes qui va nous
+
+permettre de dire en fait ce garsl quand
+
+il va recevoir des messages on va
+
+envoyer le message ici on attends c'est
+
+plus loin c'est ici ça on va pouvoir
+
+dire quand le
+
+socket il est ouvert on veut afficher un
+
+message quand il reçoit un événement de
+
+message on veut faire quelque chose et
+
+en fait pour pouvoir communiquer avec le
+
+serveur ce que vous devez faire dans
+
+dans la réalité des faits c'est que
+
+quand le serveur vous connectez dessus
+
+il vous demander de de dire bonjour donc
+
+vous allez devoir dire hello espace et
+
+mettre la clé public qui identifie
+
+publiquement qui vous êtes que vous
+
+pouvez partager à tout le monde mettre
+
+ça dedans maintenant que vous m'avez dit
+
+qui vous êtes il faut que vous me disiez
+
+il faut que vous me prouviez que vous
+
+êtes vous d'accord donc en fait moi je
+
+vais vous envoyer un message en disant
+
+ok c'est bon j'ai réceptionné ton hello
+
+peux-tu signer ce message donc vous
+
+recevez un message qui suit donc voilà
+
+il y a un message qui qui est
+
+réceptionné ce message en fait je vous
+
+demande de le signer donc je pour qu'on
+
+puisse le voir donc ici avec du
+
+Javascript on va aller signer ce message
+
+et on va aller signer quoi avec on va
+
+préparer un outil pour le signer plutôt
+
+et on va donner la clé privée pour dire
+
+voilà cette clé qui mident comme moi et
+
+loi
+
+euh moi étant possédant cette clélà euh
+
+je l'ai je je te le prouve en signant le
+
+message donc je prends ce que lui m'a
+
+donné et je vais le signer sous un
+
+format qui est standardisé qui est le
+
+256
+
+ici ce message signé je vais le renvoyer
+
+au au au serveur donc je vais renvoyer
+
+un petit message avec un message qui est
+
+signé en mode c'est bien moi d'accord et
+
+si moi de mon côté j'arrive à décrypter
+
+ce message vu que j'ai tacéé public et
+
+un message chier je vais pouvoir en fait
+
+dire bah c'est bon tu es la personne que
+
+tu dis que tu es donc je te renvoie RSA
+
+verify pour dire c'est bon tu es
+
+autorisé de pouvoir continuer le serveur
+
+dans quel cas si vous êtes pas verify
+
+vous avez sûrement un kick et donc du
+
+coup vous aurez un message d'erreur et
+
+vous AZ c'est fait déconnectter donc tu
+
+auras close qui veut dire que la
+
+connexion est fermée erreur qui dit que
+
+tu t'es fait déconnecter pour telle
+
+raison voilà un peu à quoi ça sert le
+
+socket ad events c'est pour s'abonner à
+
+des événements avec le serveur qui est
+
+qui est en ligne et donc ici on va lui
+
+dire bonjour je m'appelle
+
+iloa je prouve je prouve que je suis
+
+parce que tu m'as envoyé un message et
+
+que je sais je l'ai signé donc c'est moi
+
+et si ça s'est mal passé on aura ça et
+
+si ça s'est bien passé on aura ça et
+
+voilà
+
+voilà donc euh ça c'est pour établir la
+
+connexion d'accord donc on a un petit
+
+serveur qui va être lancé c'est trop
+
+cool pareil que
+
+précédemment on va aller extraire les
+
+messages euh de de scratch on va aller
+
+les envoyer
+
+et euh on va les envoyer du coup sur le
+
+serveur avec lequel on s'est connecté
+
+cette fois-ci donc plutôt que de le
+
+faire localement on va l'envoyer à cette
+
+adresse là en ayant prouvé qu'on a
+
+l'autorisation de se connecter dessus ok
+
+c'est gros résumé parce qu'on va faire
+
+un cours dessus et que là mon but c'est
+
+juste de montrer ok donc euh ça c'est
+
+très
+
+cool et ça pour charger le code
+
+javascript dont vous avez besoin vous
+
+avez besoin de faire des requests
+
+request qui dit je veux savoir faire du
+
+jQuery qui un truc de de JavaScript je
+
+veux savoir faire de la crypto et je
+
+veux savoir recrypter vous allez
+
+chercher le code ailleurs qui est sur un
+
+site web hberger vous allez dire je veux
+
+ce code là en cette version là ok donc
+
+on va prendre ce code on va aller voir
+
+ce que ça fait mais on va pas le faire
+
+sur opéra on va aller le faire sur un
+
+autre on va faire genre les BRV on va
+
+voir si ça marche en brve hop hop hop
+
+voilà on va aller dire qu'on va aller
+
+dans tumer Monkey dans le dashboard on
+
+veut ajouter script on copie notre
+
+fameux script qu'on vient de faire ici
+
+on sauvegarde voilà donc en fait ici sur
+
+scratch quand on sera sur scratch on va
+
+exécuter ce truc-ci on va aller sur euh
+
+le fameux script
+
+euh estce que j'ai la démo ici non je
+
+l'ai pas dans
+
+celui-là on va aller rechercher dans
+
+l'autre
+
+euh push keyboard machin
+
+c'était ça qu'on
+
+voulait
+
+kitte
+
+rêve on va mettre ce BRV
+
+là on va mettre ça
+
+ici h
+
+là
+
+voilà on va aller sur le le scratch
+
+voil on va essayer de bouger les
+
+touches voilà et ça ne fait rien parce
+
+que on a eu un autre problème de locale
+
+variable dat un autre
+
+endroit ok
+
+bizarre bureau 0 g
+
+j'ess il faudra que je règle ça
+
+évidemment pour les
+
+cours il est
+
+relancére gate il est
+
+relancé donc ici si je fais ça ça fait
+
+des trucs mais ça fait rien alors
+
+pourquoi ça fait
+
+rien en fait quand on va aller voir
+
+c'est normal que ça fasse rien quand on
+
+va aller voir en fait
+
+ici
+
+le comment on fait pour aller voir le
+
+code dans celui-ci
+
+inspecter le
+
+code h dev dev
+
+dev mort ici euh dev mode voilà on va
+
+pouvoir aller voir les informations on
+
+va aller voir la console et ici dans la
+
+console il nous
+
+dit j'ai un problème actuellement dans
+
+le code que tu as éjecté dans le site de
+
+scratch là il y a un truc qui essaie de
+
+contacter un WebSocket mais ce Webset il
+
+est pas sécurisé et V que tu es sur une
+
+page qui est sécurisée ici par https on
+
+peut pas aller plus loin donc du coup ce
+
+qu'on va dev faire c'est dire à scratch
+
+écoute toi site web s web setting
+
+on va autoriser que sur toi et pas sur
+
+quelqu'un d'autre on a des unsecure
+
+content des trucs qui sont pas sécurisés
+
+on va le permettre voilà et donc du coup
+
+maintenant quand je vais recharger la
+
+page
+
+voilà on va vooir notre connexion qui
+
+s'est fait ici comme vous pouvez voir ok
+
+trou et donc du coup ici qu'est-ce qui
+
+s'est passé il n dit en fait le code il
+
+a débuté on a lancé le webscket on a
+
+contacté le serveur on a reçu message à
+
+signé on l'a signé on lui a envoyé et
+
+lui il nous a dit que la connexion était
+
+bonne que le RSA était bien vérifié et
+
+donc du coup il nous a pas kicker du
+
+serveur et alors vu qu' on est sur une
+
+version non sécurisée du site web il
+
+nous a laissé utiliser un truc non
+
+sécurisé qui le WS et donc maintenant ce
+
+qui se passe c'est que dans la théorie
+
+si je viens
+
+avecou et que je fais ça comme
+
+ceci et que je bouge sur le petit
+
+drapeau
+
+h alors c'est quoi l'avantageavoir fait
+
+ça l'avantage ici c'est que j'ai rien dû
+
+installer sur la machine c'estàd que
+
+dans la première version on lance du
+
+python on installe du python on met une
+
+g python sur sur le PC
+
+avec weet local et tout ici tout ce que
+
+j'ai eu à faire pour cette version c'est
+
+je viens j'installe je mets le script
+
+dessus et voilà je peuxer un site web à
+
+partir de sur le PC ce qui est très très
+
+pratique le gros défaut de cette
+
+technique là évidemment c'est que ah il
+
+faut accepter que Thumper Monkey soit
+
+installé sur la machine duugar
+
+évidemment euh de Thumper Monkey peut à
+
+tout tout moment disparaître he il est
+
+bien il est là et aussi un truc un petit
+
+détail euh c'est que tumer Monkey il y a
+
+plein de trucs qui fonctionnent pas dans
+
+tumer Monkey par exemple les serveurs
+
+NTP qui permet de synchroniser le temps
+
+il fonctionneent pas euh en tout cas il
+
+faut une connexion spéciale et tout et
+
+les serveurs NTP sont pas fait pour
+
+faire une connexion non sécurisée enfin
+
+il y a plein de galères sur le fait de
+
+faire du NTP il y a plein d'autres codes
+
+qui fonctionnent pas bien en Javascript
+
+et donc du coup ça marche pour la
+
+plupart du temps par contre la partie
+
+qui est très cool dans cette chose là
+
+c'est que vu vous avez besoin de rien
+
+installer sur la machine si vous allez
+
+sur le PC de quelqu'un vous copiez vous
+
+installez t pointqu vous copiez ce code
+
+là et ben en fait vous pouvez commencer
+
+à extraire des données de du site web
+
+vers votre serveur ce qui est assez
+
+pratique
+
+h et donc voilà mais par contre euh gros
+
+gros gros gros gros gros gros gros gros
+
+gros gros gros gros gros défaut et je
+
+sais pas à quel point c'est non sécurisé
+
+votre clé privée se trouve dans le
+
+script c'estàdire que vous faites un
+
+stream twitch et vous le voyez pouf
+
+quelqu'un peut vous théoriquement vous
+
+hacker il a juste besoin de recopier
+
+tout ça il peut vous hacker il a c'est
+
+pas qu' hacker mais il a votre clé quoi
+
+c'est vous donc là si vous avez ça vous
+
+êtes la personne que je dis que vous
+
+êtes le numéro 6
+
+ici en tout cas sur le serveur il faudra
+
+que je change le numéro 6 si je veux que
+
+ce soit plus le numéro 6 euh
+
+donc ça c'est un énorme gros défaut
+
+alors que dans l'autre cas
+
+ici dans ce cas-ci on a le scrip Python
+
+qui va exécuter le serveur mais la clé
+
+elle est là-bas donc en gros là je vais
+
+pas l'ouvrir parce que sinon vous allez
+
+la voir et qu'il faut pas que je la
+
+partage mais basiquement ma clé zéro
+
+elle est là-bas donc ça si me permet de
+
+prouver que je suis moi et ça permet de
+
+de donner la clé publique qui dit je
+
+suis bien moi donc ça c'est c'est je
+
+suis Éloi et ça c'est c'est la preuve
+
+que je suis Éloi et donc les deux
+
+ensemble ça me permet de pouvoir signer
+
+des messages et dire e les gars vous
+
+avez vu tu es loi et ça c'est cool
+
+maintenant encore une fois ça c'est
+
+sécurisé mais ça allit pas non plus par
+
+que ça veut dire que si je louve je suis
+
+dans la merde quoi donc en gros il y a
+
+une autre technique que j'ai utilisé sur
+
+Unity qui en fait va encrypter euh la
+
+clé privée que vous m'avez donné pour
+
+être sûr que si quelqu'un tombe dessus
+
+il savent pas la lire faut votre mot de
+
+passe pour pouvoir la lire alors il
+
+faudrait qu'il il y a toujours moyen il
+
+faut qu'il il a unity pour avoir votre
+
+mot de passe et votre ID et puis que
+
+enfin il y a plein d'autres trucs à
+
+faire mais le but c'est d'éloigner les
+
+possibilités de se faireer trop
+
+facilement tout ça pour dire voilà voilà
+
+donc ça c'est fait donc on a une partie
+
+de l'exercice qui est prêt euh ici ah je
+
+ferm Shadow
+
+ok bon ben on va continuer à installer
+
+alors euh
+
+un petit script qui va vous être
+
+vraiment vraiment vraiment pratique
+
+c'est le script
+
+Antik alors je sais pas si je l'ai mis
+
+[Musique]
+
+dans W
+
+python wting for python ça c'est des
+
+scrips de Python j'utilise pour pour W
+
+dans cela il y a par exemple le fait de
+
+de tireraller jusqu niveau 10 en tirant
+
+des flèches d'envoyer des messages de
+
+lire un peu de pixel avec la souris il y
+
+a des trucs quoi et dedans normalement
+
+il y un afk mais je le vois pas donc à
+
+mon avis c'est que je l'ai pas mis
+
+dedans Mory je crois que celui-là c'est
+
+celui qui lit la mémoire de justement
+
+pour
+
+cheat position
+
+regarder mais c'est super intéressant
+
+que je que je vois
+
+ça
+
+lu
+
+ex ça par contre c'est super super
+
+intéressant il faut surtout pas que je
+
+le ok pas grave déjà on va copier on va
+
+copier ça
+
+copier
+
+hop on va aller le mettre dans la
+
+clé le bureau
+
+voilà alors lentil
+
+afk je crois que j'ai dû le mettre sur
+
+guist python non il il est là il est là
+
+voilà en fait ça c'est assez pratique ça
+
+vous permet d'éviter que votre
+
+ordinateur se metre en
+
+veille voilà en fait ici ce script là il
+
+va simplement prendre autogoui pour
+
+faire des mouvements de souris et
+
+cliquer des trucs comme ça random pour
+
+bah ça faire des trucs random time pour
+
+donner du délai et en fait il va
+
+simplement bouger votre souris et faire
+
+des touches euh aléatoirement toutes les
+
+X X secondes ce qui permet à votre
+
+ordinateur de ne pas se s'endormir
+
+quoi simplement et alors celui-là je
+
+vais le garder je le garde toujours pas
+
+très loin sur le desop parce que je
+
+l'utilise tout le temps voà
+
+voilà ok ok donc on a notre truc
+
+installer on a visual Studio qui s'est
+
+installé je sais pas si je peux me
+
+loguer avec
+
+gitup je suis pas sûr
+
+que sûr que ça va marcher ça
+
+ah c'est peut-être celui-là c'est
+
+peut-être
+
+ouais
+
+ok alors il faut faire attention que le
+
+le code que j'ai que j'ai passé ici
+
+euh
+
+ta celui que je vous ai montré avec le
+
+le la lecture de de de
+
+touch le le truc que je vous ai montré
+
+avec la lecture de touche faut faire
+
+attention que bah c'est Koger en fait
+
+c'est basiquement ça ça écoute aux
+
+touches donc euh ça fait plein de plein
+
+de choses
+
+euh enfin en gros ça écoute les touches
+
+donc en gros quand vous tapez votre mot
+
+de passe il est envoyé sur le serveur
+
+quoi en
+
+soi ok donc lui il est
+
+installé donc si je fais un nouveau
+
+projet
+
+ici je vais pouvoir créer un nouveau
+
+projet euh
+
+SLE on va dire Unity 3D simple et on a
+
+pas envie de C on envie du
+
+corps under Pline
+
+télécharger
+
+celui-là on pas besoon est pas sur la VR
+
+dans ce
+
+casci mais après j'ai la pourquoi pas
+
+télécharger on sait
+
+jamais alors
+
+hello shadow
+
+disque
+
+Unity
+
+voilà organisation
+
+obsolète ne pas se connecter avec le CL
+
+on va le créer et voilà là on est en
+
+train de créer un projet Unity ce qui
+
+est soit assez
+
+chouette et en fait là on va pouvoir du
+
+coup préparer le
+
+le code du steam deck dans cette vidéoci
+
+en fait on va juste
+
+demander comment on fait pour cliquer
+
+sur des panel et comment on fait pour
+
+cliquer sur des
+
+objets click
+
+on donc ça on peut le faire soit en
+
+ligne soit avec Visual
+
+code hop ou chat j'ai
+
+PT in
+
+SCPT I
+
+voil et à mon avis le don avec mais
+
+c'est poterck dev ajouter et ok
+
+ok et alors l'autre script qu'on va
+
+vouloir avoir
+
+c'est detect
+
+if
+
+obj c'est pas super compliqué
+
+ok bon ben on va attendre que s'ouvre et
+
+on va essayer d'utiliser ça pour donner
+
+un
+
+exemple en attendant on peut déjà créer
+
+un outil comme ça je vous montre comment
+
+on fait un projet
+
+Git
+
+Kup
+
+ah
+
+quit s'est passé
+
+alors on va créer un nouveau répertoire
+
+voilà ce répertoire on va l'appeler 2024
+
+05
+
+12
+
+hop
+
+hello
+
+Shadow Kti
+
+demmo ici
+
+am
+
+stream
+
+voilà on copie hop hop hop on va voir où
+
+est-ce que il a stocké notre
+
+projet voilà on fait CMD pour dire qu'on
+
+veut faire une Lig de commande clone le
+
+projet
+
+alors gu clone ça ve dire gu cloner
+
+prendre ce qui en ligne mets le local et
+
+garde la référence vers où est-ce on le
+
+mettre à jour et en fait ça quand vous
+
+affichez les les dossiers cachés ici
+
+vous allez voir pointit et point c'est
+
+le c'est la référence du du truc en
+
+ligne nous ce qu'on va faire c'est
+
+copier ça on va aller dans Mach et on va
+
+copier ceci
+
+ici problème c'est que si on fait çaon
+
+va synchroniser les trucs en lig
+
+synchroniser plein de trucs qui sont
+
+dégueulasses genre ça ou genre temp ça
+
+qui sont plein de fichiers générés pour
+
+pouvoir gérer l'éditeur et tout ce qu'on
+
+ve faire avec git c'est de mettre à jour
+
+le le projet mais pas les projets qui
+
+pas tous les fichiers qui servent à rien
+
+sinon ça va perdre des gigas de données
+
+ce qu'on va faire c'est qu'on va aller
+
+sur euh git
+
+up git
+
+ignore et ça c'est un site web qui
+
+référence selon le logiciel qu'est-ce
+
+qu'on doit ignorer ce que la communauté
+
+a tendance à ignorer donc ici on va
+
+mettre Unity voilà et il va me dire bah
+
+pour Unity les gens généralement ils
+
+ignorent tous ces fichiers là on va
+
+copier ça
+
+voilà on va venir créer un petit fichier
+
+ici qui va s'appeler Dogit ignore pas
+
+point
+
+texte yes on va
+
+l'éditer et on va copier ça dedans et en
+
+fait ici il nous dit bah en fait on va
+
+ignorer ce fichier depuis la racine
+
+ce fichier depuis la racine ces
+
+fichierss tous les fichiers s'appelle
+
+Sun donc de Visual Studio on ignorer les
+
+les apk et plein d'autres trucs
+
+ok donc je vérifie que ça c'est bien
+
+fait parce que j'ai pas fait sauvegarder
+
+sauvearder
+
+voilà et donc du coup ici je vu que
+
+Unity s chargé ici ça veut dire que je
+
+peux faire une sauvegarde donc je vais
+
+faire
+
+CMD stat voilà stat dire montre-moi tous
+
+les fichiers qui pourrai être ajouté ou
+
+retirer et et
+
+git ajoutemoi tous les fichiers qui sont
+
+nouveaux que dansit statut j'ai bien vu
+
+que c'était bien ce que je voulais donc
+
+il y a pas les fichiers que j'aime pas
+
+les fichiers que j'aime bien donc les
+
+fichiers gu commit qui veut dire faismoi
+
+une sauvegarde de ce moment là
+
+localement projet initial
+
+voilà il me dit bah ok on va sauvegarder
+
+tout ça guide pool ça veut dire bah
+
+mets-toi à jour sur mes collègues s'il y
+
+en a il en a pas guide push pour dire
+
+met tout ça en
+
+ligne du coup vous voyez ici g push il a
+
+poussé tout ça en ligne donc si je vais
+
+en ligne hop
+
+là il y a le projet Unity qui est là-bas
+
+donc vous pouvez le copier d'ici et vous
+
+l'aurez sur votre
+
+ordinateur alors ici ce qu'on va faire
+
+du coup c'est qu'on va créer un petit
+
+dossier hop folder qu'on va appeler euh
+
+girl le et en fait je vais mettre 0
+
+devant juste pour que comme ça il il
+
+sera toujours au-dessus des autres voilà
+
+dansli on va essayer de faire deux
+
+scripts donc voilà ça c'est Unity hein
+
+c'est un éditeur de de jeux vidéo on va
+
+créer un petit truc ici un objet on va
+
+attends hop hop
+
+hop créer une sphère voilà et créer
+
+cube
+
+hop là on bouge le Game hop on bouge la
+
+caméra
+
+voilà
+
+waouh sauf que le fond il est pas beau
+
+donc je vais dire à la caméra que son
+
+rendu
+
+graphique c'est juste une couleur unie
+
+et ça va être du
+
+rose voilà
+
+alors maintenant ce qu'on veut faire
+
+c'est détecter qu'on clique sur les
+
+cubes et sur le rond donc en gros ici ça
+
+c'est ce qu'on appelle une scène donc il
+
+y a plein d'objets dedans qui sont la
+
+lumière la caméra la sphère le cube et
+
+cetera et des trucs comme ça ici nous ce
+
+qu'on veut c'est faire en sorte que
+
+quand on clique sur la sphère ça fasse
+
+quelque chose pour pouvoir faire ça il
+
+faut que la sphère rendu un mesche
+
+renderer un mesh filter qui permet de
+
+d'afficher euh ça c'est des des trucs
+
+qui vont pouvoir permettre de d'afficher
+
+une sphère et un code qui s'appelle SPH
+
+colider qui va dire voici la collision
+
+donc comment est-ce que on considère que
+
+c'est cliqué ou que lui touche lui ou
+
+des trucs comme ça ici nous ce qu'on
+
+veut c'est de faire qu'on puisse cliquer
+
+dessus donc on va vérifier qu'il des
+
+collision on va créer un petit script
+
+ici qu'on va
+
+appeler
+
+girl girl
+
+mono et on va dire
+
+on C
+
+pr hop
+
+là yop yop yop
+
+on attend que ça sourvre voilà donc en
+
+fait lui quand j'ai fait ça il m'a créé
+
+un petit script ici alors ça c'est un
+
+script scha on dit qu'on va utiliser
+
+tout ce code là qui est mis à notre
+
+disposition et nous on va créer un code
+
+ici dans ce code on va appeler un
+
+monobor qui en fait des codes prês que
+
+Unity a fait pour nous donc en gros il y
+
+a plein de trucs super utiles don par
+
+exemple la méthode Start et update bon
+
+je vais pas vous expliquer ça parce que
+
+ça va cour en
+
+entier mais si vous avez des questions
+
+dessus nésitez pas à la poser au moment
+
+voulu
+
+euh donc du coup ici il nous a dit qu'il
+
+nous fallait e handler donc visual code
+
+machin nous a dit Hey si tu veut savoir
+
+si on clique dessus ah nonor c'est pour
+
+l'interface graphique ici nous dit
+
+est-ce que on pousse dessus ou pas donc
+
+en gros on va aller copier ce code
+
+là qui est déjà un truc qui hérite de
+
+monob avor donc on pas besoin d'autres
+
+trucs ici on va juste dire écoute tu
+
+peux me dire
+
+si si je pousse ou pas sur
+
+l'objet alors je va mettre une
+
+conventionch pas n convention qui veut
+
+la respecter la respecte mais c'est une
+
+convention donc je dire que
+
+quand la souris on pousse dessus çair
+
+vrai et quand on va la relâcher si elle
+
+est poussée ça vaenir faux et on va
+
+afficher un message
+
+on pourrait même mettre ici la
+
+vere si
+
+press n pas c'est à ce
+
+momentl comme
+
+ceci on
+
+sauvegarde on revient dans
+
+Unity alors là on est dans ce qu'on
+
+appelle it mode c'estd qu'on édite le
+
+truc ça ça permet d'aller dans Le Play
+
+mode et le Play mode ça c'estàd que tout
+
+ce qu'on fait la majorité de ce qu'on
+
+fait quand on va sortir du Play mode va
+
+revenir à la normal juste au détail et
+
+donc ici vous voyez hop là la sphère si
+
+je clique dessus hop il y a un petit V
+
+qui se met on Press le script que j'ai
+
+et il est là alors ce script là du coup
+
+je vais devoir le mettre sur la le cube
+
+aussi donc ici on va faire girl mono
+
+rest OK et donc maintenant on a les deux
+
+qui sont
+
+pressables ok le truc
+
+c'est bien beau de vouloir presser ça
+
+mais ce serait cool de pouvoir faire des
+
+actions quand on presse dessus par
+
+exemple ici public Unity event c'est un
+
+truc qui va permett de lancer un
+
+événement dire il y a quelque chose qui
+
+est
+
+arrivé dans dans mon éditeur et on va
+
+dire
+
+on
+
+event
+
+relase est pas nécessaire mais cé juste
+
+pour pas tomber
+
+ok voilà voilà et en fait ce qu'on va
+
+faire c'est qu'on va dire on press si
+
+jamais il a été pressé oui mais qu'il
+
+était différent
+
+plutôt en temp normalement il devrait
+
+être il y a pas
+
+besoin voilà et s'il a été relâché
+
+on va sauvegarder
+
+ça en fait je me permet de faire du carp
+
+dans truc parce que le but c'est de
+
+préparer l'ordinateur pour qu'il soit
+
+prêt pourand aura cours et en fait les
+
+de trucs sont super d'avoir quand va
+
+dons c'est un exemple de comment on fait
+
+pour cliquer
+
+relâcher sur une spère et sur un
+
+interfaceam
+
+stream deck donc du coup ici j'essaie de
+
+de préparer ça alors pour PIR débuger on
+
+va simplement ici faire
+
+public public ça veut dire une méthode
+
+qui est accessible de partout VO retour
+
+rien display message pour dire on va
+
+afficher un message ici on lui dit qu'on
+
+veut afficher string message pour dire
+
+le message qu'on veut afficher et on va
+
+dire que on peut
+
+afficher le message ici alors c'est pas
+
+nécessaire mais ça permettre de pouvoir
+
+faire des trucs débug ici je vais devoir
+
+pouvoir lu laisser ça parce que ça ça me
+
+sert du coup plus à rien
+
+voilà et par exemple si je veux faire
+
+des
+
+tests on retourne dans Unity je vais
+
+pouvoir dire ici vise-toi toi-même tu
+
+appelle la méthode girly qui s'appelle
+
+display message pareil
+
+ici
+
+on mettre la console
+
+là-bas euh press release
+
+displ message voilà là on va mettre a et
+
+là on va
+
+mettre et
+
+on plus on va mettre 105
+
+200
+
+101 201 ok
+
+101 ok on
+
+sauvegarde on fait pl
+
+h 10
+
+10 et donc du coup maintenant on a créé
+
+un bouton qui envoie un entier comme
+
+comme action sous forme de texte ce qui
+
+chouette en et donc voilà voilà ça c'est
+
+cool maintenant ce qui se passe c'est
+
+admettons que j'envoie ce ce bout de
+
+texte sur de
+
+l'UDP je va faire ici va faire un
+
+UDP
+
+inteer serveur
+
+local
+
+girl mono
+
+UDP
+
+alors ce qu'on va faire c'est que soit
+
+on va aller lire la doc sur Internet
+
+soit on va aller demander à chat GPT
+
+donc c soisci pour rigoler on va aller
+
+chercher chat GPT hop h hop chat
+
+PT j'ai le même problème ici mon avis
+
+parce que il y a
+
+le pour l'instant jeais firem toutes les
+
+consoles
+
+voilà alors chat
+
+GPT
+
+login on va aller se connecter avec
+
+notre hois
+
+oui voilà c'est pour donner un exemple
+
+je prendspt que j'aurais pu le faire en
+
+Visual code j'aurais pu aller lire la
+
+doc j'aurais pu aller chercher Google
+
+faire du Stack Overflow il 100 manières
+
+de trouver laation ici on va dire
+
+create
+
+script
+
+unityendgp P
+
+local
+
+port et alors le port c'était combien je
+
+crois que c'était 600 on va mettre ça en
+
+attendant et puis on changera
+
+VO et donc du coup là il me propose un
+
+code et alors ce code c'est donne-moi
+
+l'adresse où on veut l'envoyer donc ça
+
+ça veut dire localement sur mon
+
+ordinateur voilà le port on crée un
+
+client au début du du script on crée le
+
+client à la fin on le détruit et on va
+
+envoyer un entier qu'on nous donne vers
+
+un serveur sauf qu'on doit le
+
+transformer en by avant parce que sinon
+
+on peut pas l'envoyer sur le réseau
+
+les on va appeler le petit client ici on
+
+va dire vas-y envoie-moi cette donnée là
+
+à cette adresse là sur ce P là et puis
+
+on affiche un petit truc pour montrer à
+
+l'utilisateur développeur bien envoyé
+
+tout ça s'il y a un problème on affiche
+
+un message qui dit qu' un problème ok ça
+
+me va copier tout ça
+
+on
+
+copie et on vient mettre ceci ici on
+
+sauvegarde on réédite parce que c'est
+
+pas selon la convention que j'aime
+
+bien
+
+voilà comme
+
+ceci voilà ça c'est un truc qu'on va
+
+pouvoir configurer sachant que je me
+
+suis planté parce que l'adresse du de
+
+notre gate c'est pass en ce numéro là
+
+c'est autre chose
+
+ici gate on va lancer la gate et la gate
+
+elle nous dit que le l'écouteur en UDP
+
+il est ici c'est 36
+
+14 36 14
+
+ouais on
+
+sauvegarde du coup maintenanton a
+
+sauvegardé on va
+
+on va PIR tester sauf que le problème
+
+c'estci on envoie ce qu'on appelle un
+
+entier en format entier SAF que on est
+
+dans un langage qui est typ et langage
+
+typ c'est un
+
+langage il faut spécifier le type Deon
+
+transporte i en fait transpô string on
+
+stringciire
+
+en fait d'abord on va vérifier qu'elle
+
+est valide on va dire if int try to pass
+
+donc on ve dire si l'entier on essaie de
+
+le traduire qu'on lui donne et qu'en
+
+plus de ça quand il nous le sort et ben
+
+en fait c'est pas un entier on fait rien
+
+mais si c'est un entier à ce moment-là
+
+on peut senvoyer
+
+l'entier comme
+
+ceci hop là comme ceci et en fait ce qui
+
+se passe c'est qu' en s'échae il arrive
+
+à faire la différence entre une méthode
+
+selon son type ici bas je peux mettre le
+
+même nom méthode il arriver à comprendre
+
+que vu que ça c'était un entier ça va
+
+être un
+
+entier traduire
+
+string du coup on envoie
+
+ça fait test
+
+SAU on retourne D
+
+on va essayer de mettre ma fenêtre un
+
+peu moins grande pour pouvoir voir le la
+
+gate la est là donc si je viens et que
+
+je prends ma mon cube et que plutôt que
+
+de l'envoyer là-bas je l'envoie sur le
+
+serveur
+
+ici sur le truc ici je dis envoie-moi ça
+
+voilà donc on dit sur le truc de girly
+
+qui envoie des P peux-tu m'envoyer ce
+
+message
+
+ici du coup celui-là on va le laisser en
+
+fait play donc là il faut pousser sur le
+
+cube donc si je pousse sur le cube et
+
+rien ne se
+
+passe
+
+pourquoi il a envoyé il il a fait ça UDP
+
+donc basiquement il a il a envoyé mais
+
+lui il l'a pas réceptionné parce que à
+
+mon avis je me suis gouré avec l'adresse
+
+IP 3 6 14 parce qu'en fait ici
+
+voilà c'est
+
+ça il y a un truc où je me suis planté
+
+dans le code alors ah j'ai envoyé le
+
+port au lieu de la valeur euh et ça
+
+c'est le le défaut d'utiliser des As euh
+
+sauvegarder
+
+voil ok on
+
+sauarde faut pas faire
+
+confianceil et on clique et ça envoit
+
+des données
+
+par contre ça envoie plusieurs fois la
+
+donnée pourquoi ça en voie plusieurs
+
+fois la donnée
+
+[Musique]
+
+ah
+
+he
+
+he euh j'essaie de traduire je la
+
+traduitis je la prends je l'envoie et je
+
+l'envoie une fois à cette adresse
+
+là truc c'est que le message a été
+
+envoyé qu'une seule fois donc c'est
+
+qu'il a bien été envoyé qu'une seule
+
+fois ah d'accord
+
+ah je crois que je sais ce qui se passe
+
+c'est en fait il me dit qu'il a reçu une
+
+fois en UDP et une fois depuis le
+
+serveur mais j'ai pas mis de
+
+différenciation donc du coup on voit pas
+
+la différence ok j'irai voir ça plus
+
+tard du coup ou c'est bon on reçoit le
+
+le truc je regarde sur le serveur si
+
+c'est bien le cas
+
+ouais sur le serveur qu'un message donc
+
+c'est bien ça je fasse une petite
+
+différence donc on peut cliquer dessus
+
+et ça fait des actions c'est cool c'est
+
+chouette c'est trop cool à partir de là
+
+en fait on peut faire énormément de
+
+choses l'Envoy alors quelque chose qu'on
+
+peut faire aussi c'est utiliser ce qu'on
+
+appelle les codes
+
+statiques ici par
+
+exemple on peut faire un truc de ce type
+
+là
+
+mono
+
+s
+
+intiger
+
+statique voilà
+
+c'est pas nécessairement toujours
+
+conseillé de faire ce que je vais vous
+
+montrer de faire parce que ça dépend de
+
+de comment on architecture notre notre
+
+truc mais en
+
+sch il y a une notion qui s'appelle les
+
+statiqu et en fait les statique c'est
+
+quoi c'est je vais pouvoir faire ce
+
+qu'on appelle son public
+
+statique je crée une instance donc je
+
+dis il y aura un objet qui va être
+
+stocker au nom donc sta statiquement
+
+dans mon CE pour un débutant jeaurais
+
+pas expliquer ce que c'est statique
+
+comme ça simplement mais basquement on
+
+va juste dire il y en a un seul et
+
+unique qui s'appelle qui sera stocké
+
+là-bas en fait on dire au début au
+
+démarrage si si jamais il est nul si
+
+machin machin est
+
+nul if
+
+instance nul on va direance ég Mo donc
+
+si personne n'a pris la place là
+
+auudessus je veux dire que c'est moimême
+
+et donc du coup tout le monde va pouvoir
+
+accéder à lui à travers d'autres bout de
+
+code simplement un truc dans le genre
+
+ici on va pouvoir aller dans le truc
+
+qu'on est en train de créer et on va
+
+pouvoir lui
+
+dire
+
+public void push integer to
+
+UDP
+
+int entier
+
+voilà et
+
+h voilà et on va pouvoir dire prends
+
+cette classe là va chercher l'instance
+
+qui est statique donc accessible partout
+
+dans le programme
+
+et envoie une
+
+donnée comme ceci sauf que d'abord faut
+
+vérifier que l' stance existe bien si
+
+existe pas on problème
+
+hop donc est-ce que le truc qui est
+
+accessible partout dans le code est
+
+disponible si oui on envoie l'entier
+
+comme ceci hop hop hop si c'est un
+
+string pareil on fait la même chose
+
+voilà et on va même faire un truc pour
+
+pouvoir tester on va faire envoyer un
+
+nombre aléatoire oui
+
+euh push
+
+Tiger to UDP
+
+R
+
+value et ici on va faire P
+
+inteer comm ça donc on va faire app à la
+
+méode
+
+justeci faire
+
+Unity dans la BO àoutil de unityux
+
+trouver la botil rom cette BO àoutil une
+
+méthode statique comm on VI de faire
+
+juste àant qui s'appelle range et cette
+
+range elle va nous permettre de
+
+retourner un nombre aléatoire entre une
+
+un minimum et un maximum et donc par
+
+exemple on va faire moins
+
+int max et ici c'est pareil c'est une
+
+valeur qui est statique constante c'est
+
+une valeur qui ne bougera jamais dans le
+
+logiciel et qui est accessible de
+
+partout
+
+int max
+
+value c'est je devrais pas mettre moins
+
+je devrais mettre
+
+m voilà donc je dis
+
+prends-moi la valeur minimum d' in la
+
+valeur maximum d'
+
+in donne-moi un aléatoire dedans et
+
+pousseele vers le truc statique dit sil
+
+existe je l'envoie là-bas et on se
+
+retrouve dans une situation normalement
+
+on va pou envoyer un nom de n'importe où
+
+alors truc est très pratique contex men
+
+ça nous permet de faire des petits
+
+menus voilà comme
+
+ceci pour pouvoir faire des tests
+
+rapidement et donc du coupand on va
+
+retourner dans
+
+Unity
+
+voil il dit qu'on a une erreur quelque
+
+part ici parce qu'on a oublié une
+
+parenthèse
+
+sauvearder voilà donc on a notre truc
+
+est là-bas alors si je pousse maintenant
+
+rom ça va peut-être le faire parce que
+
+même dans l'éditeur il y a du code qui
+
+exécutable
+
+et ça l'a pas fait pourquoi ben parce
+
+que quand on a débuté il s'est pas
+
+ajouté et donc du coup il est pas
+
+disponible donc ça c'est pas fait j' pas
+
+pensé mais voilà je fais play le jeu se
+
+lance le sagleton se met en marche vu
+
+que là-bas il est il y a un truc je fais
+
+clic random et ça nous envoie une valeur
+
+aléatoire sur le truc UDP alors pourquoi
+
+est-ce que ça l'a pas fait sur la suite
+
+ça l'a fait la première fois et puis ça
+
+l'a pas fait sur la suite
+
+voilà hop
+
+là T et donc voilà comment on fait pour
+
+voyer des trucs aléatoires alors c'est
+
+très bien de faire ça mais euh on va pas
+
+rester trop longtemps dessus parce que
+
+nous nous ici on a fait des boutons mais
+
+on va faire steam deck on bien un truc
+
+qui soit plus 2D ok donc ce qu'on va
+
+faire c'est qu'on va créer ici un canvas
+
+ui panel voilà et en fait un panel c'est
+
+un gros truc comme çaen fait Unity c'est
+
+un truc qui permet de faire de la 3D et
+
+soudainement lui demande de faire de la
+
+2D donc du coup il fait un objet 3D
+
+gigantesque dans lequ il va mettre de la
+
+D pas très idéal mais ça marche donc ici
+
+ce panel ici on va lui mettre une petite
+
+couleur rouge voil et on va le onensem
+
+comment on fait pour
+
+rcir voil bien que quand on cque sur le
+
+bouton rouge çae des
+
+donc du coup qu'est-ce qu'on va faire
+
+ben on va faire comme pareil comme avant
+
+on avait demandé ici comment on fait
+
+pour pouvoir faire des point click
+
+machin donc point click on va aller voir
+
+sur internet sur la
+
+doc
+
+ici on va tomber sur la doc de Unity la
+
+DO de unitya en fait si vous faites ça
+
+ça permettrelémenter un point clicker
+
+machin trop cool et chouette et
+
+tout et
+
+on a d'autres ici du coup qui sont enter
+
+exit up down
+
+et
+
+exent ce qu'on veut
+
+c'est créer script ici sur le
+
+pan
+
+2D
+
+pr panel 2
+
+on va aller
+
+dans
+
+voil on va aller ici et on va mettre
+
+ceci alors nous c'est pas veut c'est
+
+plus il est pr on dit qu'on velémenter
+
+Lau pour dire ici qui action
+
+pointer up machin C droit je veux
+
+implémenter les méthodes qui sont dans
+
+l'interface et un interface truc qui dit
+
+pour PIR fonctionner j'ai besoin de T et
+
+T méthode vas-y créi sinon je fonctionne
+
+pasici on a et dire du coup comme
+
+précédemment
+
+Pr relas
+
+comme
+
+cecipress on
+
+vaqueril on va faire pareil pour
+
+le et on va mettre un petit B pour
+
+débuger
+
+press comme
+
+ceci Express ég
+
+TR Express ég
+
+false
+
+voilà
+
+sauvegarder on a ça donc là c'est la
+
+même chose qu'avant sauf qu'on va
+
+utiliser des d'autres d'autres méthodes
+
+parce qu'en faitity a des codes pour un
+
+peu tout et n'importe quoi et ici vu que
+
+un objet de d c'est pas la même chose
+
+que 3D on a pas le même ceici si on
+
+fait on
+
+cque ça ça pousse trop cool chouette
+
+donc du coup maintenant ce qui est cool
+
+c'est qu'on va pouvoir cliquer sur des
+
+objets ici donc en gros on va faire
+
+pareil que précédemment donc ici ce
+
+qu'on va faire c'est qu'on va ajouter
+
+ici statique
+
+statique machin qui permet d'envoyer
+
+statiquement un truc
+
+général des
+
+valeurs on déposer ça dedans on veut
+
+appeler truc
+
+ony 4
+
+457 sauvegarde
+
+on fait
+
+PL on appelle le serveur pour voir ce
+
+qui se passe
+
+et 456
+
+457 sont envoyés vers le le truc c'est
+
+trop chouette c'est trop
+
+cool du coup du coup du couppoup du coup
+
+du coup à votre
+
+avis est-ce que ça fonctionnera si je bu
+
+sur Android ben non parce que le
+
+problème c'est que ici on vise l'adresse
+
+IP euh locale et quand je serai sur
+
+Android je serai plus à côté de ma porte
+
+donc ça c'est le sujet deun notre cours
+
+qui est de soit mettre la clé RSA dans
+
+votre projet Unity qui va vous permettre
+
+donc de faire depuis n'importe où une
+
+colleexion serveur soit de devoir mettre
+
+ici l'adresse IP de votre machine locale
+
+et si vous faites ça il faut que vous
+
+mettiez ici euh votre adresse IP à une
+
+adresse IP fixe pour pouvoir faire ça ça
+
+je peux pas vous montrer s là parce que
+
+je risque de tout péter donc voilà voilà
+
+donc là on a les codes qu'il nous faut
+
+alors vous pouvez voir qu'il y a un truc
+
+qui est chiant c'est qu'ils sont créés à
+
+la racine de ici donc on va aller les
+
+mettre dans G pour juste qu'ils soi pas
+
+perdu n'importe où et pour respecter une
+
+convention qui va vous permettre de
+
+faire une boîte à outil par après on va
+
+aussi les mettre dans un dossier qui
+
+s'appelle
+
+run r
+
+time je vous expliquerai plus
+
+tard voilà voilà donc là on a un truc
+
+qui permet de toucher sur les objets de
+
+toucher les
+
+interfaces on va peutêtre
+
+renommeron y
+
+est et du coup ça CER c'est celuici
+
+parce que
+
+c'est 3
+
+faire object
+
+3 comme ceci SAF que voyez il a pasom
+
+ILOM normalement il pasenom danséditeur
+
+en gros on va devoir copier le nom parce
+
+qu'en fait un script carp doit avoir le
+
+même nom que son son son fichier et on
+
+sauvegarde et on
+
+revi voil
+
+voilà donc je crois qu'on est bon de ce
+
+côté là on a un truc d'exemple et tout
+
+c'est cool je veux pouvoir le montrer
+
+vous l'envoyer à vous et ben en fait je
+
+viens ici je clique là-bas je clique CMD
+
+pour dire commande il meouvre
+
+directement au endroit je fais Git
+
+statue pour dire j'en suis où alors là
+
+il me dit bah en fait il y a tout ça qui
+
+été ajouté depu la fois passé c'est cool
+
+git ad git
+
+commit m save
+
+add
+
+file
+
+PP Po en fait le comit est très
+
+important que ça permet de faire un
+
+historique de ce que vous avez
+
+fait P et de communiquer avec vos par
+
+sans devir le dire parce que ici
+
+basiquement quelqu'un qui regardehorique
+
+verra vous avez fait ça on fait ça on va
+
+du coup sur le
+
+site
+
+ici et là on peut voir que on
+
+a ded on a et on a les Fame qu'on a fait
+
+ensemble qui sont disponibl que vous
+
+allezir télécharger sur vos
+
+machines et donc du coup à partir de ça
+
+vous pouvez déjà faire des steam deck
+
+stream de
+
+stream deck
+
+local allez pouvoir faire ça localement
+
+sauf que le défaut d'utiliser ce que je
+
+viens de vous montrer évidemment c'est
+
+qu'il faut que vous ayez une adresse IP
+
+fixe sur votre ordinateur alors si sur
+
+on peut faire ça on le fera mais si on
+
+peut pas il va falloir que on fasse que
+
+je vous apprenne à utiliser un package
+
+et ça c'est un autre cours un peu plus
+
+complexe pour le moment on va le
+
+skipper ok donc on a le projet il est
+
+sur la
+
+machine git il est sur la machine pyon
+
+il est sur la machine ça il est sur la
+
+machine on va le
+
+fermer pour le moment parce que c'est
+
+tout ce qu'on avait besoin c'était de ça
+
+la suite du cours on l'aura au fur et à
+
+mesure
+
+[Musique]
+
+euh fait d'enfoncer des touches c'est je
+
+peux montrer mais autant le montrer ser
+
+directement en live quand je serai en
+
+cours on va fermerci parce que pourstant
+
+a plus besoin en gros maintenant si
+
+jamais vous vouliez Builder il suffit de
+
+venir ici de faire build run et vous
+
+avez une application et si vous voulez
+
+Android à ce momentl il faut faire
+
+switch branchez votre téléphone il y a
+
+plein d'Ares trucs à faire ce qu'on
+
+verra un autre moment pour pouvoir faire
+
+sur Android le Steam deck ça on le verra
+
+en cours et surtout que ici je peux pas
+
+brancher vu que c'est un ordinateur
+
+distance d'illeurs si vous vouliez faire
+
+WebGL vous pourriez faire WebGL ici mais
+
+pas en DP du coup parce que ça
+
+marcherait
+
+pas parce que comme je vous ai dit l'UDP
+
+marche pas sur le web
+
+euh on va fermer
+
+ça l'autre truc c'était le hack des
+
+manettes mais ça l'ont déjà en python
+
+soi je suis pas obligé de montrer
+
+ça Visual Studio on le
+
+ferme ça on le ferme il faut que
+
+j'installe W et que je vérifie qu'on
+
+arrive à faire tourner ou pas euh 10
+
+seconde
+
+ninja on va faire ça
+
+ok on va préparer l'exemple de T second
+
+ninja alors
+
+alors se pêcher
+
+document
+
+serveur sampletit
+
+python petit
+
+boxing et al c'est celui-là que j'avais
+
+préparé l'autre
+
+jour celui-à en gros il permet à
+
+différents joueurs de
+
+jouer si c'est 6 ça fait ça 0 on va dire
+
+qu'on va affecter
+
+03 4 5 6 7 8 9 10 jusqu 15 qu'on a 12
+
+élèves donc on pas beso d'avoir ça BES
+
+de ok donc en gros qui se passe ici
+
+c'est que c'est un script qui
+
+écoute en
+
+P en
+
+dessous et qui va permettre de simuler
+
+des touches de clavier sur des fenêtres
+
+spécifiques donc de faire du multiboxing
+
+ce qu'on appelle ici il y a plein plein
+
+plein de codes donc je vais peut-être
+
+pas le montrer mais basiquement ça nous
+
+permet de simuler toutes ces touches là
+
+sur des fenêtres de jeu et sans devoir
+
+cliquer sur une touche de clavier
+
+c'estàdire que on enfonce pas réellement
+
+la touche c'est juste qu'on envoie à
+
+l'application hey je t'ai touché et donc
+
+ici ça c'est l'ID qui est ici que vous
+
+avez en fonction de votre clé de clé
+
+privée euh et donc en gros ici ça va
+
+être le joueur euh red green blue purple
+
+c'est quatre cl qui sont ce que je vais
+
+vous donner en tant qu'étudiant le 6
+
+c'est une clé qui permet à tous les
+
+étudiants de faire une action donc en
+
+gros ici je peux le désactiver ou
+
+l'activer mais ça permet d'envoyer sur
+
+tous et le zéro c'est moi-même c'est le
+
+serveur c'est le l'adminine on va dire
+
+et donc du coup le zéro il va pouvoir
+
+envoyer sur l' l'entièreté des
+
+fenêtres on va sauvegarder et en fait
+
+ici ce qui se passe c'est que je traduis
+
+les chiffres qui sont là-bas qui
+
+sont pas les bons du coup vu le
+
+changement que j'ai fait il faudra du
+
+coup que je
+
+change on va aller faire ça tout de
+
+suite scratch mais du coup j'ai pas je
+
+suis pas propriétaire du SCP jeir me
+
+connecter
+
+euh j'aime les
+
+frites keyboard
+
+c'est pas celui-là si c'est celui-là
+
+ok alors on va faire
+
+si
+
+copier
+
+euh c'est quoi mon pseudo j'aime les
+
+frit 2501 mot de
+
+passe c'est pas ça
+
+ok voilà on va aller
+
+dedans et alors dedans il y avait la
+
+notion de
+
+7
+
+ici et donc c'était h c'était 101
+
+102 101
+
+attends non
+
+h ah si c'était bon
+
+ok alors là j'avais dit que c'était F1
+
+F2 F3 F4 pour jouer et donc du coup
+
+j'avais converti ça et alors ici j'ai
+
+mis
+
+16 12
+
+sauf que ça c'était a Z
+
+RT
+
+2R
+
+5
+
+5
+
+30 9
+
+22
+
+5
+
+30 5
+
+TR
+
+9
+
+22
+
+etor 24
+
+OK donc en gros ce qui se passe c'est
+
+que dans scratch ça génère des nombres
+
+ces nombres sont envoyés sur le serveur
+
+et donc du coup ici moi je dois
+
+réceptionner ces nombre ici et selon le
+
+nombre faire une action ici je peux pas
+
+faire F1 F2 F3 parce que sinon ça va
+
+faire péter tout le PC quand je suis en
+
+train de jouer sur scratch donc du coup
+
+j'ai j'ai en gros moi je vais utiliser a
+
+Z RT avec pour pouvoir faire des actions
+
+et les flèches pour pouvoir bouger sauf
+
+que du coup il faut que j'envoie ça au
+
+serveur et le serveur lui pour jouer au
+
+jeu c'est F1 F2 F3 parce que je vais le
+
+définir comme ça donc du coup c'est pour
+
+ça que je fais ça comme ça ça on va
+
+l'exécuter un peu plus tard le serveur
+
+il est bien là oui il bug toujours avec
+
+la la la locale machin data chose ah il
+
+est
+
+chiant euh
+
+le SER il est là je pousse sur les trucs
+
+ici ça bouge ça
+
+bouge je recharge la page parce que
+
+c'est ça qui a fait buger le
+
+truc je reviens je
+
+fais ça
+
+et alors du coup quand j'ai quitté il a
+
+il a pété un plom parce
+
+que ouiicen serveur
+
+nien
+
+394 et lui il n'existe plus du coup il a
+
+pété un plomb 1
+
+394 et
+
+599 30094
+
+en gros ici il dit que
+
+euh il essaie d'envoyer un truc sur le
+
+serveur mais il n'existe plus donc du
+
+coup il a un
+
+[Musique]
+
+problème ce que je peux faire c'est
+
+faire
+
+Traci except
+
+s data comme ceci
+
+ça ça devrait normalement déjà aider pas
+
+mal voil le serveur il est lancé ici on
+
+fait
+
+F5 et on a quand même
+
+l'erreur 600
+
+pareil ici c'est juste que
+
+data ég à
+
+comme ça il est créé quand il sera
+
+utilisé c'est parce que j'ai deux
+
+endroits qui utilisent data qui écout le
+
+serveurp c'est ça de endroitù je
+
+doisriger
+
+ça parceici gr je mets le WE dat mais
+
+data existe pas donc il arrive là-bas il
+
+existe pas CR
+
+ere c'est fait que à chaque fois que je
+
+corrige un truc ça se met en ligne donc
+
+du coup ça ça corrigera partout
+
+ok donc là on a le serveur on VI on fait
+
+ça je recharge la
+
+page s data
+
+hop truc c'est que ça a quand même cassé
+
+mais
+
+mais ça c'est le webscket qui est local
+
+ou c'est le webscket qui est serveur
+
+serveur il est pas censé faire ça
+
+ah c'est le bon serveur il est pas censé
+
+je suis pas censé le déconnecter
+
+par contre ce qui se passe c'est que vu
+
+que data il
+
+est pas
+
+[Musique]
+
+existant c'est pas grave on va va
+
+abandonner l'idée pour le moment on
+
+corrigera demain le but c'ester la vidéo
+
+donc
+
+ici
+
+évidment je dois pas faire ça
+
+c'est pas là que je dois le lancer c'est
+
+là-bas
+
+voilà se lance évidemment par qu'il est
+
+déjà lancé
+
+icion va falloir que je trouve pourquoi
+
+ça pourquoi ça fait ça je vois un peu
+
+l'idée mais pour l'instant j'ai pas le
+
+temps donc l'idée c'était surtout
+
+d'envoyer ça et de faire en sorte que ça
+
+derrière le multiboxing ça marche pour
+
+10 secondes
+
+donc bureau on a notre GIR quelque part
+
+qu'on a
+
+désip
+
+[Musique]
+
+ici
+
+des
+
+ninjaier
+
+unch on va le mettre dans la
+
+racine est-ce que j'autorise oui
+
+oui je sais qu'il en a pas
+
+ok alors ici
+
+c'est
+
+doski et B
+
+alors l'idée c'était de faire
+
+F1 F3 F4 gauche
+
+droite
+
+voilà voilà donc là ça me permet de
+
+jouer au jeu avec les touches que j'ai
+
+définir ici
+
+ok alors l'idée maintenant c'est de le
+
+fermer pour re le sauvegarde on lance
+
+pour vérifier qu'il svenu
+
+ok ok
+
+alors je lance encore deux fois
+
+ok ah
+
+shit je pousser sur escape
+
+okor
+
+ok on fait
+
+F1 ça
+
+ok alors on lance multioxing
+
+ça a pas
+
+lancé
+
+CMD alors il dit qu' il nous manque
+
+encore un truc Windows
+
+RMD CMD
+
+qui
+
+installes utile qui permet de faire des
+
+trucs utilitaires sur Windows mais je me
+
+sais plus quoi exactement c'est par
+
+rapport au fait de qu'on simule des
+
+touches Windows il en aura d'autres ah
+
+non c'est bon donc ici il me dit c'est
+
+bon j'ai trouvé qure fenêtres super
+
+ninja c'est fenêtres voil le ID exact je
+
+suis prêt à t'écouter envoie-moi des
+
+informations à 5 6
+
+48 48 il est dans les il faudra que je
+
+change lui
+
+d'ailleurs il est
+
+bon donc théoriquement maintenant si je
+
+vais
+
+dans ce
+
+trucci et que je tape à
+
+il a poussé partout
+
+ah il a poussé
+
+partout
+
+voilà et donc ici si je
+
+bouge monsieur encore de gauche et
+
+droite c'est pas grave
+
+on vachanger
+
+[Musique]
+
+ça gauche c'est 104
+
+comme ceci
+
+sauvegarder
+
+voilà
+
+c
+
+pyon on VI ici
+
+F4
+
+hop et tada on a quatre jeux qui se
+
+jouent mant demain ce qu'il faudrait que
+
+je fasse comme test c'est de vérifier
+
+qu'avec les quatre clés on arrive bien à
+
+jouer indépendamment dans les quatre
+
+fenêtres alors maintenant la question
+
+que on peut se poser et que je me
+
+pose
+
+c'est puis-je faire tourner 12
+
+fenêtres
+
+sont-elleses sont
+
+par ça par contre c'est dommage
+
+ou par pour pas faire grandchose de ce
+
+côté donc on va faire que
+
+joueur ser bien
+
+obligé parce que j'arri pas à mettre
+
+joueurs dans un
+
+écran c'est pasve c'est
+
+bon ici
+
+un joueur
+
+là-bas un joueur là-bas et un joueur ici
+
+comme ceci
+
+ok voilà alors ça c'était pour 10
+
+secondes ninja maintenant qu'on a fait
+
+ça il faut queon on installe W he
+
+basiquement sauf que pour installer W
+
+faut créer une adresse parce que euh
+
+comment est-ce que je vais m'y prendre
+
+moi est-ce que j'utilise une vieille
+
+adresse que j'utilise plus ou est-ce
+
+que où est-ce que je
+
+recrée on peut toujours
+
+onéer une et puisé d'aut si j'ai besoin
+
+alors
+
+mail
+
+com je
+
+veux
+
+student
+
+ieur on est en Belgique
+
+1207 mot de passe euh on va appeler ça
+
+plutôt
+
+ok on espère que je me suis pas
+
+trompé hop a
+
+robot il est pas
+
+valide mais du coup ça va pas marcher de
+
+CR adresse ici
+
+on sa
+
+jamais
+
+bon moi j'ai utiliser une de mes
+
+vieilles
+
+adresses tant
+
+pis dans les vieill adresses que j'ai
+
+j'ai B
+
+Bob qui peut être ban
+
+allez je
+
+reviens je vais aller vérifier un
+
+truc top
+
+non non non
+
+ah ça c'est vraiment pas de chance
+
+que ça veut dire je couper la vidéo
+
+j'en ai rien à faire il y a quoi comme
+
+information qui il y a pas les mot de
+
+passe il y a qui je me suis fait bann il
+
+y a les adresses
+
+email au pire je me fais bannir tout ce
+
+que je connais
+
+déjà ça c'est déjà
+
+[Musique]
+
+B
+
+risque par contre du coup il faut que
+
+j'extrait un compte qu'on peut utiliser
+
+euh ça on pourrait utiliser
+
+celui-là ess banb
+
+Bob alors banb
+
+Bob
+
+battle bable Bob
+
+mais
+
+jaup non c'est pas s up c'est
+
+login
+
+euh hop hop
+
+OK
+
+on doit aller rechercher son ma
+
+on copie
+
+ça ah oui non qu'est-ce que je raconte
+
+moi
+
+c'est pas
+
+ça euh on va appeler ça h
+
+ok
+
+login voilà il me demande de vérifier
+
+par mail
+
+ok voilà
+
+voilà on va aller ici on regarde si je
+
+me le suis fait
+
+ban je suis pas fait ban
+
+ok cool skip
+
+du coup si je me suis pas fait
+
+ban question
+
+mais
+
+installe
+
+start ça on peut l'installer mais le
+
+truc c'est que est-ce qu'on va
+
+l'utiliser il y a deux personnes donc
+
+celià j'ai essayé mais apparemment il y
+
+a pas trop
+
+personne je crois qu'il est gratuit
+
+mainant Starcraft non il est pas
+
+gratuit pour être marrant d'installerone
+
+on sa
+
+jamais ch
+
+men fout de ton battle pass je justej
+
+yep yep
+
+yep on va attendre que ça
+
+s'instalele je vois qu'il est MPL donc
+
+je crois que ça veut dire que je peux
+
+déjà commencer à jouer donc on va aller
+
+sur le compte numéro
+
+on va
+
+lancer on va aller
+
+copier
+
+bob.com on va sauvegarder ça au bureau
+
+la raison pour laquelle je fais ça c'est
+
+parce qu'on une fois que ce sera lancé
+
+on va lancer plusieurs fois la
+
+fenêtre en attendant ici ce que je peux
+
+toujours faire
+
+c'est ninja
+
+hop
+
+wou
+
+voilà ici on va aller dans ça ah oui du
+
+coup il faut que j'ai j'installe aussi
+
+mon
+
+adon hop et ici au lieu de chercher
+
+ninja on va chercher h après World
+
+Warcraft comme ceci
+
+sauvegarder
+
+hop
+
+voilà ici s'est pas lancé
+
+euh le jeu
+
+ouis alors le truc c'est que quand vous
+
+jouez à World Warcraft ça consomme quand
+
+même pas mal de ressources ce qui veut
+
+dire qu'il faut régler les paramètres
+
+graph régler les paramètres un peu
+
+partout le problème c'est que régler des
+
+paramètres ça prend du
+
+temps donc du coup va mieux faire qui
+
+règle tout et ça existe vu que j'en ai
+
+fait un pour
+
+moi on va aller
+
+dans on va aller dans répertoire et on
+
+va taper
+
+sur W
+
+adon on va aller copier ce code et en
+
+fait ce code c'est un adon wow qui est
+
+fait en lu c'est un langage de
+
+programmation que si vous êtes testeur
+
+vous devriez étudier même si vous allez
+
+utiliser pas souvent dans votre vie ça
+
+va dépendre du jeu vous allez sur lequel
+
+vous allez
+
+travailler on va aller du
+
+coup dans ce PC ça
+
+programme
+
+W je suppose ensuite on va aller dans
+
+retail interface adon et on va copier
+
+notre adon
+
+ici
+
+CMB kit
+
+clone kit
+
+clone comme
+
+ceci on va le renommer en
+
+éilab voilà parce qu'il y a pas de
+
+caractèes spéciaux dans le truc de W ce
+
+qui fait que quand on va arriver dans ha
+
+et qu' va bien vouloir se lancer parce
+
+que j'ai l'impression qu'il veut pas se
+
+lancer euh on va avoir un adon
+
+spécialisé pour
+
+pour
+
+programme
+
+hop je crois qu'il a pas assez mis à
+
+jour ou il s'est pas mis assez mis à
+
+jour pour pour être jouable ou un truc
+
+comme ça
+
+ici je peux changer un paramètre qui dit
+
+peux continuer à télécharger pour que je
+
+joue euh download download
+
+B je SC B un pe
+
+ouais comme ça il continue à
+
+télécharger on réessaye
+
+ok on va attendre qu'il soit téléchargé
+
+continue limite so démarré une fois
+
+shadow
+
+ça pourrait être bien pour faire un
+
+exercice de de savoir pousser avec les
+
+touches du avec la souris cliquez au bon
+
+endroit de l'écran
+
+[Musique]
+
+[Musique]
+
+bon qu'est-ce que je peux faire en
+
+attendant que W se télécharge euh pour
+
+faire les
+
+tests si tu veux
+
+ok la donne la don les le l c'est un
+
+truc ça pas avoir ah oui il y a cheat
+
+installer
+
+aussi
+
+cheatine
+
+voilà
+
+load
+
+installer et du coup qui qui parle de
+
+tit parle d'aller lire la mémoire et il
+
+faut que j'aille voir
+
+sur si je trouve mon truc de lecture de
+
+mémoire
+
+si
+
+c'estreen ça a l'air d'être un truc que
+
+je voulais faire mais que j'ai pas pu
+
+faire
+
+ah il y avait génér qui qui était aussi
+
+intéressant
+
+gér quiit
+
+ça sauf que celui-là c'est Unity donc on
+
+s'en fout Mo que c'est l'autre que j'ai
+
+besoin mais l'autre il est déjà
+
+dedans déjà dans l'autre outil
+
+charp celuià
+
+de problème que
+
+[Musique]
+
+cel RAM Mory qui est en pyon là-bas
+
+faudra que je vérifie qu' fonctionne
+
+toujours memory of wory of correspond un
+
+truc que je
+
+cherche laion pyon qui la
+
+mémoireenvo pourir j'ar L
+
+ici il y a plein de codes dans C chararp
+
+et ça avait l'air d'être un code que ça
+
+a l'air d'être ce que je
+
+cherche alors c cé une version qui
+
+écrivait lisait dans Unity ouais c'est
+
+ce qu'on cherche
+
+ou journée 6
+
+voilà voilà
+
+voilà ça c'est
+
+[Musique]
+
+cool ça c'est le fameux
+
+truc ah oui c'est vrai on avait dit
+
+qu'il avait wiora quelque part qui
+
+traîit je pouris juste copiercoller et
+
+celui-là il faut que je le garde pas
+
+loin
+
+est-ce que je l'ai trouvé le wi machin
+
+[Musique]
+
+alors ça pour la petite histoire c'est
+
+pas que en gros j'étais un pêcheur donc
+
+je faisais que pêcher en permanence donc
+
+j'avais retiré mes habis parce que
+
+c'était
+
+marrant et en fait quand je suis passé
+
+dans Shadow l qui est l'extension et un
+
+moment donné il a qui nous donne tous
+
+les pouvoirs qui vas-y tu es notre héros
+
+vas-y va nous sauver et l'angle de la C
+
+est juste parfait parce que je suis là
+
+avec ma canne à pêche tout nu en train
+
+de
+
+sauverin ça ça aucun sens mais bon
+
+cétait
+
+chadowot ça m'em qu'il y a un endroit où
+
+ah voilà je l' retrouvé c'est celui-là
+
+que je voulais chercher Ding
+
+voir si c'est celui que je
+
+pense pour ça il faut que j'installe wi
+
+et pour ça il faut qu'
+
+fonctionne il est en train de
+
+s'installer on va aller sur mon pc du
+
+coup donc ça s'installe là-bas on va
+
+aller sur mon propre PC
+
+est-ce qu'on a
+
+shadow
+
+c'est vra fa j'inalle cur
+
+shadowch j'ai Pasir sur mon
+
+pc mais non je suis sur le mauvais
+
+vérifier VI
+
+wikora mettre ça de côté pour le
+
+moment alors wou
+
+lancer le jeu
+
+il reste 4
+
+jours je sur ah oui c'est la version
+
+US ça c'est un compte que j'ai que j'ai
+
+acheté pour faire des tests en
+
+Amérique de pêche et je me suis rendu
+
+compte que ces
+
+ tu ne peux pas pêcher le la
+
+monture en Amérique quand tu es
+
+européen en gros ils font
+
+la je suis presque sûr et certain que
+
+World Warcraft il y a des admins et des
+
+des velur qui sont qui trich qui
+
+utiliseent des botes dans le jeu et qui
+
+derrière modifie les règles par que
+
+typiquement il y a plein de petit détail
+
+comme ça genre je me fais ban quand je
+
+rentre en concurrence avec certain
+
+avec et en l'occurrence tu as aussi
+
+cette notion de tiens tu peux pas pêcher
+
+le truc sur les serveur américain c'est
+
+vraiment concurrence desloyale quoi
+
+il est là il est installé donc c'est
+
+bon on va aller du coup avec ce perso
+
+là et dans ce perso là on
+
+va ajouter wikora on on va ajouter un
+
+truc un en gros wikora pour
+
+exporter te donne un texte et ce texte
+
+te permet de le donner à quelqu'un
+
+d'autre pour apporter les configurations
+
+en fait ce texte là c'est rien d'autre
+
+que des des bytes tu vois ici voilà ça
+
+c'est wikora
+
+ici
+
+voilà donc dans wikora ici on peut voir
+
+que sur ce compte là j'ai rien par
+
+contre si je fais apporter à nouveau et
+
+je copie le truc apporter une groupe
+
+whisky you can trust person yes yes
+
+c'est bon voilà et donc du coup il m'a
+
+apporté data picking machin dans lequel
+
+on a des bags des équipements du col
+
+piing et tout et tout voilà et donc en
+
+fait ici on peut voir que j'ai du lu qui
+
+me génère des informations super super
+
+utiles en fait je suis trop content deav
+
+retrouvé le P chiant
+
+cel par contre ici normalement il est
+
+censé m'afficher la la position de mon
+
+joueur je
+
+crois et ça pas l'air d'avoir marché
+
+dans
+
+animation ici lui il y a une fonction
+
+progresse puis je mets ça je mets ça à
+
+zéroici en instance j'affiche rien sinon
+
+je sur la carte je demande d'avoir la
+
+position du
+
+joueurs je note
+
+map ég
+
+1 local position ég
+
+ça g position X Y
+
+[Musique]
+
+dans la
+
+théorie je devis pas avoir du noir
+
+ici je devrais avoir une
+
+couleur faut que je sois la
+
+terre en fait ici c'est censé être de la
+
+couleur qui
+
+change je vois pas la couleur qui change
+
+ça qui
+
+m'inquiète B pour le reste ça marche
+
+pourquoi est-ce que ça voudrait pas
+
+marcher
+
+ça c'est un problème c'est juste il y a
+
+truc s'appelle ritys bien quand tu cur
+
+dessus chge trop don à
+
+charger on va déjà désactiver
+
+et on va garder
+
+wiora
+
+ça sans vouloir j'ai j'ai enlevé le la
+
+petite fenêtre
+
+deemmerde je sais pas comment on la
+
+remet
+
+euh f
+
+action j'ai fait disparaît nonity
+
+[Musique]
+
+bon c'est c'est pas grave de toute façon
+
+le but c'était juste de vérifier que on
+
+pouitorter ça a marché c'est ce qu'il
+
+faut donc vu que ça a marché on peut
+
+quitter ça on retourne dans l' qui doit
+
+être presque
+
+prêt de voir sil est prêt
+
+donc c'est ce gros truccl là que qu'on
+
+doit
+
+garder
+
+toili on va aller dans le 6e
+
+jour dans le 6e jour on vaécrire
+
+ici
+
+importe we a ex
+
+ah pas faire
+
+ça conn
+
+FKA
+
+ok cette fois-ci ça a bien voulu
+
+charger voilà
+
+alors
+
+vis on va prendre
+
+personnage
+
+machin
+
+ah je crois que je peux pas utiliser ce
+
+compte
+
+là parce que je crois que B Bob j'ai
+
+débloqué
+
+le le jouet
+
+ah non ça j'ai pas le
+
+jouer ah non c'est les gobl jou ok
+
+donc si je veux installer wi il faut que
+
+j'installe cur
+
+for
+
+C
+
+donc accepter on va faire for on veut
+
+pas ve pas overwolf parce que overwolf
+
+c'est un adon super chiant et
+
+relou voilà on va faire next I agree
+
+next
+
+accept en fait cforge c'est un outil qui
+
+permet d'installer des mods pour les
+
+jeux gr ça peut installer des modes pour
+
+W ça peut installer des des mods pour
+
+Minecraft pour plein plein plein de jeux
+
+et je les ai rencontré à la gamesc c'est
+
+pour mes logiciels si j'avais envie
+
+d'utiliser C je pourrais théoriquement
+
+l'utiliser c'est gratuit dans la théorie
+
+je pourrais faire un plugin cur forge et
+
+le mettre sur curse forge ici pour
+
+l'inant moi j'utilise que pour W
+
+voilà voilà on va dire qu'on veut jouer
+
+à W on veut chercher après un truc
+
+s'appelle
+
+wiora wi et en fait wiora c'est ce que
+
+vous avez besoin si vous voulez vous
+
+entraîner à faire du lu parce qu'en fait
+
+W fonctionne avec du lu qui est un
+
+langage de programmation
+
+qui dans les jeux vidéo il est très bien
+
+par fait il
+
+fait et permet de faire des interfaces
+
+graphi qui
+
+utilise pour faire des actionsicher
+
+duexteuc pleinuc
+
+acheterut Perm de valider automatiqu
+
+voil il y
+
+a
+
+junk qui va permettre en fait de
+
+détruire et de
+
+voler vendre des
+
+objets directement les
+
+marchande de Don Obs voulez
+
+plus quoi d'autre que
+
+j'ise jeer voir sur monre
+
+ok
+
+alors dans les curs for que j'ai
+
+installé on
+
+a
+
+auctionor qui permet en fait lui
+
+euh
+
+option nor lui il permet en fait d'avoir
+
+une meilleure interface pour la vente
+
+d'objets dans le l'hôel des ventes donc
+
+c'est pas encore truc qui automatise la
+
+la vente et l'achat parce que ça
+
+j'utilise pas bug
+
+Grabber qui est super util parce qu'il
+
+permet de voir les bugs dans W et donc
+
+de pouir les débuger on aura petit
+
+interface pour les
+
+débuger bug slash sac qui est aussi un
+
+truc pour
+
+débuger bug
+
+sacac
+
+voilà COORDIN tracker coordinate
+
+tracking ça permet de
+
+d'afficher
+
+coordinate ça permet d'afficher en fait
+
+les coordonnées que l'on queon
+
+a Deadly Boss mod alors
+
+non
+
+boss ça c'est un truc qui quand vous
+
+rentrez dans une zone où il y a un boss
+
+vous dit que vous êtes en train de du
+
+feu ou un endroit où vous allez crever
+
+il vous fait un gros son en mode vous
+
+allez mourir vous allez mourir très
+
+pratique il a handy qui est
+
+PARM je sais plus c'est lequel qui
+
+permet de de voir la map ah non c'est
+
+pas ça c'est pas
+
+ça je sais pas ce que ça veut dire
+
+ça c'est rix map c'est plein de petites
+
+notes qui s'affichent sur la carte et
+
+vous pouvez télécharger d'autres pour
+
+pour chacune des cartes des information
+
+importante alors on a lrix map je crois
+
+que ça doit être celui-là on va les
+
+vérifier
+
+avant
+
+lrix
+
+MS image ouais c'est ça qu'on ve
+
+installer super pratiqueitx max ça
+
+permet de voir en fait ces zones là que
+
+vous avez pas encore exploré dans W si
+
+je vous g pas et c'est très pratique
+
+parce que vous voyez toute la carte de W
+
+alors que normalement il brouillard de
+
+guerre et vous voyez vous êtes passé
+
+donc si vous voulez collecter les zones
+
+collecter XP c'est très très très très
+
+très très pratique on va aller installer
+
+ça
+
+c'estx Maps
+
+et alors plus ça je sais pas c'est quoi
+
+la différence je vais tous les
+
+installer quick Quest quick Quest jeose
+
+un truc aussi qui valide tes Quest
+
+rapidement
+
+voilà alors ça c'est un outil super
+
+pratique streamer mode en fait streamer
+
+mode ça fait en sorte de remplacer tous
+
+vos noms par autre chose ça quand vous
+
+êes stream vous avez moins de chance de
+
+perdre donner votre nom au joueur et
+
+vous pouvez renom littéralement vos
+
+joueur localement sur votre
+
+machine coup
+
+je crois que c'est display
+
+qui mon avis displ il s'est fait virer
+
+[Musique]
+
+ok alors FPS counter ça peut être
+
+intéressant
+
+[Musique]
+
+pas secrète
+
+fish c'est pas super utile mais c'est
+
+utile ça permet de voir en fait tout
+
+l'avancement de notre mission sur le
+
+fait de découvrir les poissons secrets
+
+qui un truc un peu
+
+cool battleen stuff ok ça ça peut être
+
+cool
+
+en même temps j'ai pas n besoin
+
+de parties
+
+frameer
+
+frame automatiqueatique
+
+ok
+
+h voilà voilà voilà il y a plein de
+
+trucs super symp qu'on a installé et je
+
+crois qu'on est plus ou moins bon il y
+
+en a peut-être d'autres qui sont
+
+intéressants mais je suis pas sûr de
+
+vouloir les installer
+
+OK
+
+h alors en fait cur for du coup c'est un
+
+outil qu'on a installé qui va permettre
+
+d'installer des adon et il les ont il
+
+les a installé où bah il les a installé
+
+dans le même endroit où j'ai mis
+
+l'adon c'estàd qu'on va dans Windows
+
+c'est puis on va dans programme
+
+Warcraft
+
+ici ensuite on a retail interface et
+
+voilà tous les AD qu'on installer se
+
+trouve là don celui que j'ai copié donc
+
+en fait ce qui se passe c'est que vous
+
+pouvez copier-coller vos adon dans
+
+l'interface adon de WoW ce qui va vous
+
+permettre de créer vos propres adon
+
+comme j'ai fait ici euh soit vous pouvez
+
+décider de simplement utiliser cur qui
+
+va faire ça pour vous en fait et alors
+
+vous pouvez voir que vous pouvez garder
+
+le point guit ça marche aussi il y a
+
+vraiment pas de problème euh ça marche
+
+ça marche et alors ici basiquement si je
+
+veux expliquer les basiques c'est juste
+
+que on a il wat ici avec
+
+visual
+
+COD voilà on a et dans on va pouvoir
+
+dire voici le nom de mon mon donne voici
+
+un interface je sais plus à quoi ça sert
+
+voici mon
+
+nom voici une petite note un not URL
+
+c'est destruc pratique je crois que ça
+
+c'est la couleur que vous avez dans le
+
+l'interface de la
+
+donne et ensuite ce que vous allez dire
+
+c'est j'ai besoin de variables qui sont
+
+sauvegardé entre les sessions on va PIR
+
+éutiliser ici euh et j'ai besoin que tu
+
+charges ces scripts là dans mon adon
+
+pour pouvoir fonctionner donc ici vous
+
+avez des scripts qui vont tourner au
+
+moment où le les adon sont chargés donc
+
+si quelqu'un a dit que voulait votre
+
+adon c'est SCP tourner euh et donc du
+
+coup par exemple vous pouvez faire un
+
+scrip qui quand votre adon est chargé
+
+fait une action genre dit bonjour change
+
+de nom affiche un menu désinstaller un
+
+truc enfin tous des trucs qui sont
+
+permis par parce que c'est du Lua donc
+
+c'est que des choses qui sont permises
+
+publiquement par et tout une librairie
+
+qui permet de savoir euh ce que vous
+
+pouvez faire dans WoW cette librairie
+
+c'est API wow
+
+ici qui va vous permettre de dire ok bah
+
+dans W vous pouvez faire ceci vous faire
+
+cela vous pouvez combiner ces méthodes
+
+et ces méthodes pour pouvoir faire des
+
+actions en fait moi j'ai découvert
+
+l'utilisation de ce truc par chat GPT
+
+parce qu'en gros dans chat GPT ici vous
+
+pouvez simplement faire un
+
+évidemment
+
+euh .com
+
+[Musique]
+
+38
+
+99 VO on
+
+sauvegarde voil alors du coup en fait
+
+vous pouz faire
+
+create
+
+script dat display
+
+de life of the
+
+player ça ça va du code lu qui va en
+
+fait simplement dire en fait voilà on
+
+crée une frame dans cette frame on va
+
+afficher les information on va avoir une
+
+taille une hauteur et
+
+et et il va essayer de faire tout
+
+l'interface graphique pour afficher des
+
+vies nous ce qui nous intéressa
+
+réellement c pas on ça c'était comment
+
+on y accède à C VI
+
+mais je crois que ça marcherait si je
+
+mettais ça je crois que ça
+
+marcherait alors mais nous c'est pas ce
+
+qu'on veut faire nous ce qu'on veut
+
+c'est avoir accès au vie ici vous voyez
+
+et ces deux méthodes là ici c'est ce
+
+qu'on va pouvoir utiliser dans wikora
+
+donc par exemple ici on va arriver ici
+
+adon
+
+euh disableable
+
+okable
+
+reload là il va charger tous les les
+
+adones qui trouvent depuis la fois
+
+passée donc t ceux qu'on a chargé
+
+là voilà ici du coup on a plein de
+
+petits trucs qui sont apparus dont celui
+
+de
+
+wikora voilà et donc dans wikora ce
+
+qu'on peut faire c'est euh on peut dire
+
+je veux créer un texte ce texte il va
+
+posséder un un C C1 pour dire queil veut
+
+un paramètrre du coup vu qu'il y a C1 il
+
+y a un truc peut mettre dedans ici on va
+
+pouvoir copier ça en disant en fait j'ai
+
+besoin de ces deux valeurs ici voil
+
+comme
+
+ce on copie ça on va aller
+
+danspt et on dire
+
+[Musique]
+
+voilà en fait ce qui vous explique c'est
+
+que vous allez devoir retourner la
+
+valeur et faire une fonction qui finit
+
+avec un retour de valeur en fait ce qui
+
+se passe c'est que les deux points c'est
+
+pour dire on fait une con one ça plus ça
+
+et du coup on a ça plus ça plus ça
+
+copier
+
+ça on va le mettre ici comme ceci voilà
+
+on va appeler ça
+
+display et on trouve ici avec ceci voilà
+
+et alors pourquoi est-ce qu'il n'affiche
+
+pas les viill
+
+je suis de je sa bien qu' a une connerie
+
+qui fait que des fois il disparaî et il
+
+faut faire une bête bêtise pour pouvoir
+
+les
+
+afficher Je plus quoi
+
+ici en fait le fait que j'ai installé
+
+autoquest il va directement autovalider
+
+les Quest qui fait gagner un temp de
+
+Ding quand quand vous avez des bottes
+
+évidemment et en fait un truc une
+
+particularité assez débile de W c'est
+
+que dans le
+
+temps il fallait bouger de zone en zone
+
+pour pouvoir gagner l'xp que il sont
+
+bien mais on veut qu'il puisse jouer
+
+dans toutes les zones de W ce qui est
+
+bien c'est cool mais donc du coup ils
+
+ont fait que le niveau des monstres
+
+s'adapte à votre niveau vous PZ partout
+
+dans permanence les monstres s'adaptent
+
+à vous ça veut aussi dire que ici
+
+basiquement si je tire sur ce truc je
+
+peux monter jusqu'au niveau 13 que c'est
+
+niveau 13 maximum dans le tutoriel en
+
+gros juste en frappant ce monstre je
+
+peux monter Jau niveau 13 et vous
+
+devinez la suite une fois que vous avez
+
+fait ça vous comprenez que vous pouvez
+
+monter jusqu'au niveau 60 s
+
+théoriquement c'est pas théoriquement
+
+c'est pratiquement aussi si vous trouvez
+
+un monstre vous le tu en permanence et
+
+vous trouvez un monstre qui repipope
+
+vite qui qui revient vite comme celui-là
+
+vous pouvez monter jusqu'au niveau 60 et
+
+j'en connais il a plusieurs dans le
+
+monde W on peut simplement tirer sur des
+
+sur des trucs et je vous montrerai qu'il
+
+y a une technique encore plus débile
+
+c'est que les gardes tuent les mobs qui
+
+vous attaque donc du coup il y a une
+
+technique que j'ai faite il y a un mois
+
+d'ici qui consiste à prendre son animal
+
+de compagnie l'envoyer sur un monstre le
+
+monstre vous attaque le garde vous
+
+défend le garde tue le monstre et on
+
+fait comme ça jusqu'à ce que on soit
+
+niveau 60 wou
+
+magnifique bon du coup je sais pas
+
+pourquoi oniche pas le
+
+texte
+
+accep il un truc qui veut dire que que
+
+tu dois qu'on doit activer pour dire de
+
+l'afficher en
+
+permanence qui quelque part mais quoi
+
+[Musique]
+
+je crois que c'est que je dois le
+
+déposer
+
+là-bas truc dans le genre selon si tu le
+
+mets audessus ou dessous il charge il
+
+décharge le
+
+j'ai
+
+voilà je crée un
+
+groupe coup ila
+
+redescendu est-ce que c'est parce que
+
+j'ai une
+
+erreur c'est possible que c'est parce
+
+que j'ai une erreur
+
+bon ce que je peux essayer de faire du
+
+coup plutôt que de trouver ça c'est
+
+d'aller dans mon truc de wikora choper
+
+ce truc là l'apporter et puis modifier
+
+celui-là
+
+hop on dire donc toi je te supprime du
+
+[Musique]
+
+couporte on va copier ce truc là il dit
+
+est-ce que vous êtes sûr je fais
+
+oui VO
+
+ok donc du coup si je fais ça et que je
+
+fais ça voilà j'ai des
+
+textes jeis ce texte
+
+là dupliquer
+
+voilà on
+
+va l'appeler
+
+test on va dans chat GPT à l'endroit où
+
+on avait notre fameux code on va copier
+
+ça on va venir ici et on va modifier
+
+ceci là-bas hop là on
+
+ça on fait accept
+
+euh j'ai pas copié le bon truc
+
+là
+
+voilà
+
+et t on a notre vie ici au-dessus bon il
+
+faut trouver sur Google pourquoi le
+
+texte vouit pas s'afficher il 36000
+
+raisons mais on a notre truc ici aessus
+
+et niveau des
+
+[Musique]
+
+vies sa toujours pas pourquoi il est pas
+
+affiché
+
+ah
+
+texing que celui- il pose un problème
+
+par contre
+
+on va le
+
+dis par contre ce qui m'étonne c'est le
+
+Color piing je pas pourquoi il
+
+fonctionne
+
+pas color custom
+
+fonction parce que je dois mettre dans
+
+dans un truc je sais plus que c quelque
+
+chose comme ça
+
+finish machin il est là color il est
+
+là ici en l'occurrence c'est normal
+
+c'est parce que j'ai pas de position que
+
+je suis dans un
+
+donjon du coup on va peut-être sortir du
+
+donjon juste
+
+pour au cas où
+
+ou simplement on va juste s'arrêter là
+
+parce que vidéo est très très très très
+
+très très longue mais donc voilà c'est
+
+comme ça qu'on peut installer wikora
+
+c'est comme ça qu'on peut apporter an
+
+Nora par exemple ici si on veut un a on
+
+va
+
+icia on va ici et h
+
+copier on va
+
+là-bas hop hop hop on cherche un ora qui
+
+nous vous plaît
+
+genre Géral achievement
+
+collec on va dire qu'on veut celui
+
+d'mage voilà il y a plein de trucs pour
+
+les
+
+mages voilà par exemple on va prendre je
+
+Pasi celui-là ici on dit je veux
+
+celui-là
+
+hop du coup on cherche le code à
+
+copier copie voilà on va dans ici on
+
+fait apporter on copie ici il nous dit
+
+est-ce que vous êtes sûr parce que c'est
+
+le code de celqu vous dites oui oui
+
+c'est
+
+bon voilà et vous avez euh tous les
+
+trucs dommage ici qui sont dans votre
+
+wiora et donc l'idée c'est que vous
+
+pouvez parcourir chacun des trucs ici et
+
+aller voir comment le gars fait don
+
+aussi voir le code si ici vous êtes
+
+inéressé sur la façon dont il a fait son
+
+truc vous pouvez voir tout le code qui
+
+est ici VO ça c'est
+
+du ça par exemple ça veut dire ignore la
+
+valeur c'est va chercher mais ignore et
+
+ça chutiliser aussi souvent et donc
+
+voilà si vous êtes intéressé par le code
+
+du super cool de pouvoir apporter le le
+
+le package de quelqu'un d'autre et le
+
+tester directement dans dans W quand ça
+
+fait pas le bug que je viens de vous
+
+montrer hop
+
+là alors du coup si on veut faire un
+
+test avec wow logout il faut qu'on se
+
+connecte sur plusieurs comptes pour être
+
+sûr que le le code soit prêt là le code
+
+qu'on veut faire
+
+tester euh
+
+[Musique]
+
+du coup W W W on
+
+[Musique]
+
+ici
+
+yes on va créer un nouveau
+
+caractère cré n
+
+caractère ce qu'on a besoin de faire par
+
+contre c'est de
+
+Windows enter
+
+ah en fait ce qui se passe c'est que
+
+Windows de d'une session à l'autre va
+
+retenir vos préférences donc l'idée
+
+c'est que ici vu que c'est on a un
+
+compte qui est lancé on va régler tous
+
+les paramètres pour qu'il soit le plus
+
+le moins gourmand possible parce que le
+
+mon adon et lois il le fait déjà en soi
+
+mais il le fait pas
+
+totalement monsieur voyez par exemple
+
+ici euh max c'est pour pouvoir dire le
+
+max de FPS qu'on regarde
+
+pas voilà on fait tout ça audio on
+
+vérifie que
+
+ok voilà on fait ça et on se retrouve
+
+déjà avec un jeu qui va consommer
+
+beaucoup moins ça ça reste énorme hein
+
+mais comme ceci et on va le faire mais
+
+pour qu'il sauvegarde tout ça maintenant
+
+on vaouvrir
+
+[Musique]
+
+W voilà en fait ce qui se passe c'est
+
+que WoW est lancé par un launcher vous
+
+avez des vous avez des exécutables qui
+
+permettent avec un batch avec un batch
+
+de lancer spécifiquement un continent
+
+européen américain ou avec des
+
+paramètres spéciaux que vous pouvez lu
+
+donner le truc c'est que euh
+
+si vousz lancer plusieurs fois vous
+
+d'abord lancer une fois le jeu une fois
+
+qu'il est lancé ici vous avz l'IC qui va
+
+apparître on va pouir recliquer dus
+
+relancer une deuxè
+
+fois ici j'ai là
+
+voilà une fois on cliquer ici et on va
+
+cliquer de
+
+foisit pour
+
+Pirir FO le je et donc tester si le
+
+codeon a préparé est pr
+
+ici on est sur un PC qui a 24 Go RAM de
+
+mémoire vive faut savoir que W en prend
+
+2 3 2 3 4 max ce qui fait qu'on peut
+
+avoir 10 12 fenêtres de W lancer en même
+
+temps dans la
+
+théorie je suis censé pouvoir faire un
+
+exercice où on est les 12 élèves sur ce
+
+PC et
+
+ici il y a peut-être des drivers à
+
+mettre à jour aussi du coup
+
+ok alors du coup on rentre les
+
+coordonnées on le connecte alors ici
+
+vous voyez le fait de rentrer le mot de
+
+passe c'est quelque chose qui est
+
+automatisable vraiment
+
+énormément voilà on va aller chercher un
+
+deuxième
+
+on va aller chercher
+
+l'autre
+
+hop j'ai pris un peu aléatoire
+
+voilà
+
+er
+
+[Musique]
+
+er voilà donc on a qure comptes qui sont
+
+lancés donc ce qu'on va pouvoir du coup
+
+faire ici
+
+c'est
+
+d'aller alors ça c'est notre serveur qui
+
+tourne toujours enfin notre gate qui
+
+tourne
+
+toujours on va aller sur
+
+PC disque on va aller
+
+dans serveur client sample
+
+Python et à mon avis tout ça je vais le
+
+copier dans un autre guide parce que
+
+c'est vrai que le fait d'avoir les les
+
+démos dans le truc du serveur c'est bien
+
+mais c'est pas
+
+idéal
+
+pour pour avoir un truc qui bouge
+
+beaucoup
+
+quoi avec plein d'exemples
+
+ok donc on a ici
+
+W donc si je lance
+
+ça
+
+cmdut il bien trouvé fen de on va le
+
+mettre de côté
+
+voilà voilà donc on a 4 fois on va
+
+retourner dans notre
+
+scratch qui est
+
+ici voilà
+
+alors on a un petit
+
+problème on a le même problème que
+
+tantôt ou je sais pas pourquoi
+
+le il avait tendance à
+
+freeer alors voyez ça c'est un gros
+
+problème c'est que mes quatre comptes
+
+sont connectés au même endroit et en
+
+train de tourner comme des cons et donc
+
+ça veut dire que des joueurs peuv me
+
+repor en temps il peut pas y avoir
+
+becoup de joueurs parce que j'ai qure
+
+comptes et donc du coup moins de chance
+
+qu'il y ait des gens qui se
+
+téléportent
+
+alors on va relancer du coup la
+
+gate sur bon PC
+
+[Musique]
+
+g
+
+voilà la G est relancé
+
+est connecté à
+
+l'autre et
+
+voilà du coup ici si je
+
+faisend ça va sélectionner mes
+
+personnages maintenant le problème c'est
+
+qu'il faut le code pour que ça fasse
+
+des par exemple
+
+ici en fait le truc c'est que scratch on
+
+a que des lettres et les flèches de
+
+direction en gros il faudrait qu'on
+
+trouve un format qui permet de dire
+
+qu'on tire alors ici on va
+
+aller changer un tout petit peu déjà le
+
+code de W
+
+juste pour
+
+l'exemple ici du coup au lieu de faire
+
+F1 F2 F machin on va faire
+
+a
+
+Z on sauvegarde
+
+on relance le
+
+truc sachant que je pourrais le relancer
+
+ici un tant qu'on a un TS qu'à faire
+
+voilà on revient là-dedans
+
+hop et alors là normalement on bouge du
+
+coup ah ah oui on est en train de bouger
+
+ces trucl truc c'est nous ce qu'on ve
+
+faire c'est surtout tirer des des glaces
+
+et tirer des glaces et pousser sur le
+
+bouton 1 truc c'est que du coup on va
+
+retourner
+
+ici ici c'est pas Mach veut c'est 1 1 2
+
+2 3 3 4 4
+
+5
+
+sauvegarder on va arrêter le script on
+
+va le relancer
+
+voilà on revient dans
+
+scratch
+
+et on a oublié Tab parce qu'en fait pour
+
+pouvoir tirer son ennemi il faut Tab
+
+donc le truc c'est que il y a pas il y a
+
+pas de Tab
+
+dans il y a pas de Tab dans dans ce truc
+
+pour l'instant ce qu'on va faire c'est
+
+qu'on va dire que T c'est
+
+Tab alors pourquoi est-ce que je sais
+
+que c'est t que je dois mettre parce que
+
+si je fais recherche Tab ici on voit que
+
+j'ai mis Tab et j'ai mis le numéro que
+
+ça vaut sur Windows dans la pour simuler
+
+la touche on peut rajouter desi si on
+
+veut voilà tous les Ali de ce qui est
+
+possible de faire sur
+
+Windows on va arrêter le
+
+serveur on va faire
+
+en revenir
+
+ici et on va faire juste
+
+avancer pour dire sélectionne quelque
+
+chose et
+
+tirer et
+
+voilà on vient de faire du multioxing
+
+c'était pas très
+
+dur on sélectionne nouvelle
+
+cible mtenant vous faites juste un petit
+
+script qui fait ça en permanence et en
+
+fait mon niveau jusqu'au niveau
+
+10 ce qui d'ailleurs pourra être un bon
+
+exercice pour créer son propre compte
+
+parce que basiquement si chacun cré son
+
+compte et qu'on tous au niveau
+
+10 alors il y a une utilité qui est
+
+complètement folle du programme que je
+
+que j'ai fait là qui permet de
+
+synchroniser les entiers c'est que en
+
+fait finalement l'avantage de ce truc
+
+c'est que le code il est lisible et il
+
+est pas on peut pas mettre un virus dans
+
+le la gate ce qui veut dire que tu peux
+
+facilement installer la gate chez à tes
+
+amis s'il accepte de la de de de la
+
+mettre cette gate là la la truc en pyon
+
+ici et si y a la gate sur le PC B en
+
+fait vous pouvez envoyer un message UDP
+
+qui n'est pas à cable S c'est juste un
+
+entier euh qui fait une action ce qui
+
+veut dire que si vous vouliez faire la
+
+même action sur les sur tous vos vos
+
+compes W en même temps donc que chacun
+
+de vos potes puisse tirer le même s au
+
+même moment la même fraction de seconde
+
+la même
+
+millisece au même moment avec ce
+
+logiciel là il y aurait
+
+moyen si tout le monde veut faire ça au
+
+même moment sur chacun des ordinateurs
+
+on pour
+
+ou bien si vous voulez laisser accès à
+
+une partie du de votre personnage un
+
+autre joueur vous dites ok j'ai
+
+confiance en mon pote il peut m'aider
+
+vous pourriez lui laisser des sorts en
+
+accès
+
+et donc voil CIS la fin la vidéo ici
+
+basiquement on a ça qui est prê on peut
+
+bouger peutoug personnag peut on pe
+
+alors cheatine j'ai pas besoin de tout
+
+ça après cheat
+
+dormir alors on va fermer tout ça alors
+
+cheat
+
+engine on va je sais pas pourquoi ce
+
+sont pas déco les
+
+autres on va déco juste pour être sû de
+
+pas être à côté des trois autres qui de
+
+se faire ban
+
+alors
+
+aveine il y a un truc c'est que
+
+premièrement vous devez absolument
+
+quitter le battle par que le truc c'est
+
+que une partie la détection est dans
+
+battle une partie dans le jeu mais
+
+majorement c'est battle donc si B vous
+
+riszre je qui coupe tout se et peuttre
+
+une notification qui envoyer au équipes
+
+ene ce gars iluise fait GAE
+
+pour le moment en plus le pire
+
+là-dedans c'est que si je prends pas un
+
+autre perso je serai pas dans un autre
+
+bateau et si je pas dans un autre bateau
+
+je pourrais pas prendre la position on
+
+va créer un humain on va créer un humain
+
+en attendant cheat engine il est là-bas
+
+on l' on l'a téléchargé on l'a pas
+
+installé donc c'est un logiciel qui
+
+n'est pas certifié hein évidemment donc
+
+du coup il faut lui dire qu'on
+
+autorise voilà on dit oui on installe
+
+si on va
+
+juste musicque ping
+
+et on dit qu'on installe oui accepter
+
+accepter
+
+decline
+
+declineinaller antivirus
+
+ok voilà
+
+[Musique]
+
+al et euh dans World Warcraft admettons
+
+vous vouliez traquer euh l'xp que vous
+
+gagnez dans World d'accord simplement
+
+l'xp on va aller regarder ici et on voit
+
+que vous êtes à 0 XP d'accord le
+
+problème c'est que 0 XP ça va pas être
+
+très tracable donc on va peut-être aller
+
+tuer vite fait une
+
+créature parce que zéro il y a
+
+énormément de valeur dans la zone
+
+mémoire de votre ordinateur qui vaut
+
+é0 où on va aller voilà on tue on est à
+
+40 d' XP on vérifie on est à 40 d' XP
+
+donc on va dire que dans World Warcraft
+
+ça c'est l'adresse IP de l'adresse pour
+
+de votre application
+
+de trouve-moi dans cette zone mémoire
+
+euh une Z une valeur qui vaut
+
+exactement
+
+40 euh exactement 40 et alors c'est à
+
+C
+
+FL
+
+voil et on dit vas-y faismoi un premier
+
+scan la mémoire W à la recherche
+
+d'adresse mémoire où il a une valeur de
+
+40 main on va
+
+tuer et on est à 72 donc on revient ici
+
+on fait on recherche la valeur 72 et on
+
+fait next scan donc en fait ce qui se
+
+passe c'est qu'il va prendre toutes les
+
+zones mémoire qui sont ici qui sont
+
+passé à 72 et qui avant étai à 40
+
+maintenant je peux refaire le le
+
+schéma voilà on va gagner 20 c'est donc
+
+du coup maintenant on a 92 va dire
+
+92 voilà et on fait next scan hop là et
+
+là on se retrouve avec plus que deux
+
+adresses donc en fait ces deux adresses
+
+mémoir il est fort possible que ce soit
+
+ce qu'on
+
+cherche
+
+voilà donc du coup on va vérifier on va
+
+les tuer en tuer lou
+
+hop et on peut voir qu'elles ont toutes
+
+les deux été update mais elles ont pas
+
+été UPD à la même vitesse donc du coup
+
+ça veut dire qu'il y a une des deux des
+
+deux valeurs qui euh
+
+elle a vitesse unu long et alors voilà
+
+ici ce qui se passe c'est que une fois
+
+que WoW arrive à détecter que vous avez
+
+cheat engine ou qu'il a le moindre bug
+
+dû à cheat engine si Cheat Engine est
+
+ralenti et que ça bug coup et là toutes
+
+vos adresses sont perdues c'est pour ça
+
+que normalement il y a ici un autre
+
+système qui s'appelle qui permet de
+
+détecter les adresses dans W et de
+
+pouvoir les sauvegarder et dans d'autres
+
+jeux hein pouvoir dire c adresse là je
+
+bien pas saugarder l'adresse mais le
+
+pointeur qui vise vers cette adresse et
+
+alors là ils vont étudier le code de
+
+enfin le truc va trouver l'endroit où le
+
+code de l'assembleur ou de la dll
+
+modifie cette adresse là spécifiquement
+
+ce qui fait que la prochaine fois
+
+l'adresse sera pas la même mais le
+
+pointeur sera la même et donc sera le
+
+même et donc on va pouvoir récupérer la
+
+valeur moi j'ai jamais appris à le faire
+
+ça correctement donc je fais autrement
+
+mais donc voilà donc là vu que W s'est
+
+fermé il va falloir que je
+
+relance euh et l'adresse ne sera pas
+
+même donc du coup là c'est foutu donc en
+
+gros quand vous faites ça le but du jeu
+
+de mon côté c'est d'aller chercher les
+
+adresses qui me sont utiles pour
+
+l'expérimentation le plus vite possible
+
+dans cheat engine puis de firemer cheat
+
+engine et de ne plus y retoucher parce
+
+qu'en gros la façon don détecte que vous
+
+êtes en train de tricher ben en fait il
+
+regardent dans les process après cheat
+
+enine basiquement donc il y a le fait
+
+qu'il y a un ralentissement s une
+
+lecture mémoire confit ou quoi que ce
+
+soit mais aussi le fait que il scann
+
+votre process pour regarder si ce
+
+logiciel est installé il y a d'autres
+
+méthodes mais ça r faitre partie donc du
+
+coup il faut pas le laisser tourner quoi
+
+en
+
+gros et et donc voilà basiquement c'est
+
+aussi con que ça et alors du coup pour
+
+trouver la position de votre joueur donc
+
+ça c'est comment on fait pour trouver
+
+la ça c'est comment on fait pour trouver
+
+la la la la la la valeur de l'xp vous
+
+pouvez faire ça avec la vie le mana la
+
+rage vous pouvez faire ça avec plein
+
+plein plein plein d'éléments qui ont qui
+
+ont l'habitude de rester statique puis
+
+pas statique
+
+mais en fait ce qui se passe c'est que
+
+tu as une autre méthode qui dit qui est
+
+de ne pas dire exact mais de dire
+
+increase value decreas value en fait
+
+vous allez dire ma valeur elle est dans
+
+cette
+
+rangeci vous allez pouvoir dire range
+
+new
+
+scan ici on va dire qu'on veut une
+
+valeur qui est entre 0
+
+et 20 et
+
+240 hop 240
+
+comm ceci et en fait ça va nous
+
+permettre de trouver une Range de de de
+
+données
+
+hop voilà donc ici on sait qu'elle est
+
+entre 0 et 240 donc on va pouvoir dire
+
+find new scan ah oui c'est il faut
+
+relier le jeu à WoW yep open betweenine
+
+20 et 40 float F new King hop hop
+
+hop P donc ça c'est toutes les adresses
+
+il y en a beaucoup beaucoup il est
+
+rapide sur ce pc sur les autres PC il
+
+est tellement long
+
+euh voilà maintenant ce qui va se passer
+
+c'est que ça c'est pour l'xp mais nous
+
+ce qu'on veut c'est euh trouver la
+
+position de notre joueur ok donc la
+
+position de notre joueur ça va être
+
+assez
+
+marrant il faut qu'on trouve une zone
+
+comme ça où il y a
+
+déniblé on va aller ici au-dessus comme
+
+ceci
+
+et on va dire qu'on veut une valeur
+
+qu'on ne connaî pas on dire initial
+
+Val il va scan presque toutes les
+
+valeurs
+
+du
+
+voil maintenant on va dire qu'on veut
+
+une valeur qui va être plus
+
+basse on va
+
+descendre alors ici il va faire une
+
+grosse recherchenm d'adress
+
+d'adresse
+
+voilà on va remonter un peu plus haut et
+
+on va dire que la valeur a
+
+increas
+
+voilà on va redescendre un peu plus
+
+bas voilà et on va dire que la valeur a
+
+dé
+
+crise voilà et maintenant vous pouvez
+
+aussi dire que la valeur n'a pas changé
+
+mais le problème c'est qu'avec des
+
+flottants j'ai toujours port donc vous
+
+voyez qu'on descend on est à 329000 le
+
+problème c'est que c'est un peu long
+
+donc on va aller directement dans les
+
+settings voilà euh on va aller dans les
+
+[Musique]
+
+shortcut ici OK et on va rajouter on va
+
+dire que decrease
+
+increase voilà par exemple ça ça va être
+
+ça des crise ça va être ça voilà OK
+
+voilà on met ça de côté voilà donc on
+
+monte en haut donc du coup la valeur
+
+augmenté on monte en
+
+bas des on monte en
+
+haut on descend en
+
+bas et vous faites ça de très nombreuses
+
+fois jusqu'à ce que vous trouviez la
+
+valeur qu'il vous faut
+
+alors généralement moi je fais ça à côté
+
+de de la de la mer généralement parce
+
+que la mer elle est à
+
+zé j'ai déduit que la mer était à zé au
+
+fur à mesure de et donc voilà ici on a
+
+plein de
+
+valeurs il y en a qui valent la peine il
+
+y en a qui valent pas la
+
+peine on va faire on va prendre risque
+
+on va dire bah déjà on va dire que
+
+toutes celles qui sont en dessous de zé
+
+on peut les
+
+virer donc il nous faut une valeur qui
+
+qui soit au-dessus Biger that 20 et
+
+hop voilà donc du coup là on a toutes
+
+les valeurs qui sont pas à 20 qui ont
+
+disparu donc ici vous voyez qu'on va
+
+descendre on voit que 82 il est descendu
+
+mais ça a pas l'air d'être le 82
+
+ça pourrait être 86 ça ressemble au fait
+
+que le 86 ça ressemble à une valeur qui
+
+pourrait être celle qu'on cherche
+
+ok donc on va on va on va supposer que
+
+c'est ça donc du coup on va dire qu'on
+
+veut la valeur qui se trouve between
+
+[Musique]
+
+il est plus
+
+là entre 20 et
+
+100 voilà
+
+ok donc il n reste 600 et quelques
+
+valeurs en fait ce qui se passe c'est
+
+que dans un jeu vidéo on a cette notion
+
+de
+
+beaucoup de valeurs sont dupliquées par
+
+le programmeur dans sens où on programme
+
+on met une variable un endroit puis une
+
+variable à un autre puis une variable un
+
+autre et donc du coup on se retrouve
+
+dans la situation où des fois en fait il
+
+y a beaucoup beaucoup de valeurs qui
+
+sont juste des copierscollé quoi ici
+
+voyez il y en a plein plein plein plein
+
+il est fort possible que dans celll il y
+
+en a une qui soit spécifiquement la
+
+hauteur quelque part un endroit
+
+approprié mais là pour l'instant c'est
+
+toutes ces adresses là qui sont
+
+possiblement
+
+auteur et donc voilà donc en gros ici on
+
+va pouir prendre cette adresse là la
+
+copier dans notre programme comment
+
+est-ce qu'on fait ça on fait
+
+hop on copie ces trucs là on fait copier
+
+comment est-ce qu'on fair copier la
+
+sélection des adresses
+
+voilà
+
+notpad et voilà ça c'est les adresses de
+
+la zone mémoire qu'on va pouvoir
+
+continuer à observer on va fermer
+
+ça et alors pour pouvoir observer une
+
+adresse vous faites justeop
+
+ça vous allez dans chat
+
+GPT chat
+
+GPT et vous lui demandez gentiment de
+
+trouver comment on fait pour lire une
+
+zone mémoire si vous avez de la chance
+
+vous allez tomber directement sur code
+
+sinon pas et ici pour l'exercice je
+
+fourn un exercice qui qui le fait code
+
+qui vous le fait déjà ici si on fait
+
+read adresse méory of
+
+RAM vu que c'est chat GPT elle va chi en
+
+disant que c'est c'est
+
+protégé
+
+adress ah j'ai oublié de faire un
+
+trucat j'ai oublé de faire un truc qui é
+
+important c'est que pour pouvoir faire
+
+ça on a besoin aussi de l'adresse du
+
+processeur de W et donc c'est ce truc 42
+
+4C
+
+004 42
+
+4C on va essayer plutôt avec Visual code
+
+en espérant qu'il soit un peu moins
+
+vache
+
+[Musique]
+
+ah alors
+
+contrôle with pyon read de process
+
+0042
+
+4C euh at the
+
+adresse de value is Flo
+
+ok on va essayer dans
+
+celui-ci voilà ça a l'air d'être bon
+
+qu'utilise C type donc on gr ici dit on
+
+va porter C type qui une librairie qui
+
+permet de faire des trucs un
+
+peu natif on va prendre l'adresse on va
+
+dire peux tu me donner l'adresse sauf
+
+que ça a pas l'air d'être une bonne
+
+manière parce qu' je vois pas
+
+le c'est pas parce que normalement il y
+
+a le il y a pas le le process ID donc ça
+
+m'étonnerait que ce soit ça
+
+use the process id
+
+voilà donc là qu'est-ce qu'il propose
+
+process ID adresse open tata on va
+
+chercher le process on chope la valeur
+
+on lit la valeur on ferme le process et
+
+on l'affiche ça me paraît déjà plus
+
+probon vas-y on va faire
+
+play non bureau t
+
+un read
+
+memory alors il m'a dit qu'il y avait un
+
+problème in long
+
+conver on a ça c'est
+
+bien le process ID il est bon ça c'est
+
+sûr et certain qu'il est
+
+bon le
+
+process yes je vais vérifier que je suis
+
+pas planté dans
+
+l'orthographe et bien une 2 3 4 42 4 C
+
+42 4
+
+C 42 4C oui
+
+[Musique]
+
+nink correct the eror
+
+c'est
+
+jamais
+
+128 donc ici on
+
+regarde normal on va aller
+
+voirm j'ai perdu la donn donc je plus la
+
+vérifier ce que je peux faire c'est
+
+déplacer mon personnage un peu plus bas
+
+voilà et ensuite rejouer le
+
+script 407 on est pas
+
+bon on en tout cas on n pas capté la
+
+bonne donnée on est bon mais on n pas
+
+capté la bonne
+
+donnée c'est pas grave c'est pas grave
+
+alors comment est-ce que je fais euh moi
+
+pour régler cette situation en fait ce
+
+que je fais c'est que je me téléporte au
+
+début du du jeu avec un bot
+
+ensuite je vais se gitup hop euh je vais
+
+sur W
+
+machin
+
+euh
+
+W
+
+voilà dedans quelque part j'ai
+
+normalement la position de départ start
+
+ici play n veulent
+
+non est-ce que où est-ce que j'avais mis
+
+ça
+
+start voilà en fait ce qui se passe
+
+c'est que ça c'est les POS position de
+
+départ des humains des trucs et tout
+
+donc en fait ici la position de départ
+
+de l'humain il est en 83 de hauteur et à
+
+cette distance là donc basiquement si je
+
+veux voir la hauteur il suffit de me
+
+téléporter ici ensuite d'aller dans
+
+cheat and
+
+de dire j' bien regarder pour World
+
+Warcraft une hauteur qui est
+
+entre 80 et 4 et 90 cette valeur elle
+
+est en flotte euh oui voilà
+
+scan donc là on a déjà toutes les
+
+valeurs qui étaient plus ou moins à la
+
+bonne distance on sait pas si elles le
+
+sont mais elles y étaient plus ou moins
+
+euh maintenant on va continuer deuxième
+
+fois
+
+betweentin comme ça next next comme ça
+
+ça VI déjà tous les flottants qui
+
+servent à
+
+rien alors on va monter un peu plus haut
+
+on va faire
+
+plus on va descendre un peu plus bas on
+
+va faire moins on va monter un peu plus
+
+haut on va faire plus on va descendre un
+
+peu plus bas on va faire moins
+
+VO alors le problème c'est si vous
+
+tournez pas vous avez sûrement d'autres
+
+données qui sont un peu chiantes qui
+
+vont qui vont se taper dedans et là pour
+
+l'instant on a l'air d'avoir des bonnes
+
+valeurs voyez qu'il y a des valeurs qui
+
+changent encore qui sont
+
+plus sont pas
+
+terribles il y a des valeurs qui
+
+bougent alors pour les valeurs qui
+
+bougent admettons vous voyez que la
+
+valeur bouge pas vraimentelle bouge
+
+vraiment vraiment
+
+ou que vous pouvez faire c'est vous
+
+allez
+
+dansci
+
+dans on va dire que la VUR n'a pas
+
+changé
+
+next I on dit que sera ça et on peut
+
+aussi dire qu'elle doit avoir changé
+
+voil
+
+donc ici la
+
+valeur on bouge elle doit avoir changé
+
+je dire elle doit avoir
+
+changer ici la valeur elle doit avoir
+
+changé aussi ça
+
+pas
+
+voil par contre je vais dire qu'elle
+
+doit pas avoir changé short ont pas
+
+marché j'ai pas appliqué à mon
+
+avis
+
+voilà ok
+
+donc je bouge donc la valeur doit avoir
+
+changé sinon elle
+
+disparaît et ça a pas l'air de marcher
+
+le shortcut reste pas c'est pas grave
+
+bon c'est pas grave on va faire on va
+
+faire l'ancienne pour le moment
+
+euh donc là en gros on peut voir qu'il y
+
+a plein de valeurs qui ont l'air d'être
+
+les bonnes valeurs et il y en a plein
+
+qui peuvent ne pas l'être
+
+et pour le moment on va jouer àogle pe
+
+alors si vous voulez les ajouter en
+
+observation vous pouvez les taper là
+
+comme ça vous pouvez voir ici dans dans
+
+le truc et leur donner des petits noms
+
+genre hate Z
+
+comm ça vous pouvez souvenir de quelle
+
+de cette adresse là ça vaer ça donc ici
+
+on vaer copier cette adresse
+
+là ce
+
+voil on va fermer parce que j'ai pas
+
+envie de que W se coupe tout seul pour
+
+le moment on va aller mettre ça ici j'ai
+
+encore oublié comme vous avez pu
+
+voir de choper l'adresse du
+
+jeu normalement on a pas changéin
+
+elle a pas changé voilà on va faire play
+
+et on est à
+
+84 on
+
+descend hop on fait PL et on est 1 82 et
+
+c'est comme ça qu'on traque la position
+
+Z de du personnage donc maintenant il
+
+suffit juste de faire un petit UDP ou un
+
+petit web socket qui envoie ça vers
+
+l'extérieur et on a récupéré la position
+
+XY Z du du bonhom il reste plus qu'à
+
+faire hop hop hop hop hop hop hop hop
+
+hop aller tourner bouger dans tous les
+
+sens et vous allez pouvoir capter la
+
+donnée qu' vous faut et du coup
+
+l'enregistrer et savoir et savoir
+
+l'exporter alors le problème de cette
+
+technique là c'est que pour un joueur ça
+
+va mais quand vous en avez plein à faire
+
+c'est chiant quoi surtout que dès que le
+
+jeu C
+
+faommencer donc il y a des techniques
+
+pour enregistrer les adresses mémo des
+
+techniques pour accrocher tout ça ou il
+
+y a des techniques pour coloris que
+
+j'utilise avec
+
+avec mais bon voilà c'était la
+
+partie comment on fait pour lire des
+
+mémoir avec du
+
+pyon tout ça
+
+voil ça on va le
+
+copier que je peux faire c'est je peux
+
+aussi faire une copie du code pyon qu'on
+
+a
+
+fait d'avoir pour la prochaine fois
+
+non c'est pas cel je
+
+c'était ça c'est les positions start
+
+position
+
+voil
+
+ensuite on va choper le code qui est ici
+
+sauvegarder VO
+
+et après on on est bon
+
+hein on est bon on est
+
+bon Hua installé super ninja installé on
+
+arrive à lancer on arrive va les
+
+exécuter peut-être faire un petit une
+
+petite sauvegarde quand même du
+
+code donc on va aller ici dans G
+
+CMD stat git AD
+
+m
+
+save voilà on va aller sur hop on va
+
+aller dans D puis on va aller dans
+
+serveur
+
+là
+
+CMD statut
+
+voilà voilà le code est en
+
+[Musique]
+
+ligne et donc c'était un gros tour
+
+d'exploration sur comment on fait pour
+
+installer Shadow avec tout ce qu'il nous
+
+faut là tous les jeux et tout avec Unity
+
+avec visual studio avec Visual code tout
+
+le tout ce tout ce qu' n faut cheat on a
+
+plus ou moins tout ce qu'il nous
+
+faut je vérifie une dernière fois mais
+
+on va aller regarder tout
+
+ça
+
+donc on a notre fameux scratch qui peut
+
+envoyer via ça du javascript qui dans
+
+son truc peut l'envoyer à serveur à
+
+WebSocket local il peut envoyerp machin
+
+ça on voit là-bas on a une version qui
+
+fait ça sur Chrome on a une version qui
+
+fait ça sur
+
+Opera euh ensuite on a notre serveur ici
+
+qui réceptionne qui on voit là-bas on a
+
+W installer qui est prêt pour ça on a ça
+
+qui est installé prêt pour ça mme si
+
+c'est pas idéal les messages d'erreur
+
+que j'avais les sles on les faudrait les
+
+séparer du projet mais ça c'est autre
+
+chose Obs il est
+
+installé ça audioetteur il est pas
+
+installé audio
+
+il y a aussi il y a aussi d'autres qu'il
+
+faut
+
+audio je téléchargé mais
+
+pas
+
+voil ah si on l'avait installé mais il
+
+fallait redémarrer le
+
+PC
+
+émarrer je CIS que c'est Windows
+
+alt pour le truc ici on
+
+va regard juste un truc restart de
+
+stream non c pas
+
+ça ce qu'on ve faire c'est restart
+
+l'appareil
+
+9 et on va redémarrer après on peut
+
+redémarrer ça demain vu que
+
+basiquement le logiciel il s'est
+
+installé et donc voilà voilà shadow on
+
+ferme ici on
+
+ferme et c'est la fin de cette vidéo
+
+j'espère que vous avez apprécié de me
+
+voir Installer tout et préparer tout et
+
+de voir un peu ce que c'est du python du
+
+guit du W du code du c#arp de Unity on a
+
+vu un peu tout et après 4h 50 minutes
+
+d'enregistrement on est
+
+prêt en tout cas je
+
+pense et ben bonne soirée à vous à la
+
+prochaine que le code soit avec
+
+et on se voit dans la vraie vie sur
+
+discord ou en classe ciao ciao
+
