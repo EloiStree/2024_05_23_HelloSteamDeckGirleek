@@ -12,7 +12,9 @@ In the context of Girleek and a QA testing workshop. We are going to learn how t
 [Day 5: XR et OBS ?](WorkshopPerDay/2024_05_23.md)   [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/6)  
 [Day 6: Cheat Engine](WorkshopPerDay/2024_05_24.md)  [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/7)  
 
-Bonus Note: [Hack Stream chat](Module/HackStreamChat.md) 
+Bonus Note: 
+- [Use Stream chat as action](Module/HackStreamChat.md)
+- [Use Cloud Var as action](Module/HackCloudVar.md)
 
 Atelier précédent: [Girleek 2023](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/8) - [Scratch pour les enfants](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/9)  
 Warcraft QA: [Warcraft QA](https://github.com/EloiStree/HelloWarcraftQAXR)  
