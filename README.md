@@ -38,7 +38,7 @@ Note honorable: [Synergy](https://symless.com/synergy?gad_source=1&gclid=CjwKCAj
 Bonus Note: 
 - [Use Stream chat as action](Module/HackStreamChat.md)
 - [Use Cloud Var as action](Module/HackCloudVar.md)
-
+- [Ask Llama3 questions](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/32)
 Atelier précédent: [Girleek 2023](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/8) - [Scratch pour les enfants](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/9)  
 Warcraft QA: [Warcraft QA](https://github.com/EloiStree/HelloWarcraftQAXR)  
  
