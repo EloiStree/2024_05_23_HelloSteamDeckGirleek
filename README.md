@@ -33,6 +33,7 @@ https://github.com/EloiStree/2024_05_12_HelloGirleekOnShadow
 # Brouillons
 
 Eloi Stree Raw: https://www.youtube.com/@eloistreeraw
+Eloi Teaching: https://www.youtube.com/@EloiTeaching/videos
 Note honorable: [Synergy](https://symless.com/synergy?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeB0Zmf6KTwh-3OAzO77wDP0KrgRr4Dkc4AIZPCIvwzpg2P6_GOi-2RoC800QAvD_BwE) - [Hamachi](https://vpn.net)
 
 
