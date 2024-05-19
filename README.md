@@ -16,7 +16,7 @@ In the context of Girleek and a QA testing workshop. We are going to learn how t
 
 # Ajustement
 
-- Day 1: La magie de Python, Scratch et Tamper Monkey | Initation
+- ~Day 1: La magie de Python, Scratch et Tamper Monkey | Initation~
 - Day 2: Simplement jouer avec Python | Gameboy
 - Day 3: C'est quoi de l'UDP et des Websockets | Tuer lardeur
 - Day 4: C'est quoi Unity3D et Android ? | Stream Deck Android
