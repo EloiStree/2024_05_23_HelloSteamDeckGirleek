@@ -13,15 +13,8 @@
 
 In the context of Girleek and a QA testing workshop. We are going to learn how to remote control game with code in a stream deck hub way.
 
-# Ajustement
 
-- ~Day 1: La magie de Python, Scratch et Tamper Monkey | Initation~
-- [Day 2: Simplement jouer avec Python | Gameboy](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/39)
-- [Day 3: C'est quoi de l'UDP et des Websockets | Tuer lardeur](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/38)
-- Day 4: C'est quoi Unity3D et Android ? | Stream Deck Android
-- Day 5: C'est quoi OBS et un casque XR ? | Record via SideQuest
-
-# Précédemment
+# Atelier
 [Day 1: C# et Python "from" Scratch](WorkshopPerDay/2024_05_17.md)  [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/2)  
 [Day 2: Multiboxing sur Windows avec 10 Seconds Ninja](WorkshopPerDay/2024_05_20.md)  [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/3)  
 [Day 3: C'est quoi Unity3D ?](WorkshopPerDay/2024_05_21.md)   [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/4)  
