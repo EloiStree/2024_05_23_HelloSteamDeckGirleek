@@ -1,5 +1,7 @@
 # Today
 
+192.168.150.3
+
  Cours: https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/38
 
 
