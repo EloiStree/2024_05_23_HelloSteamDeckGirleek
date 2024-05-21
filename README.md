@@ -6,6 +6,55 @@ Port: 405
  Cours: https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/38
 
 
+``` py
+
+import random
+import time
+import keyboard
+time.sleep(6)
+def get_random_letter():
+    r =random.randint(0, 6)
+    if r==0: 
+        return "A"
+    if r==1:
+        return "B"
+    print("Not found")
+    return "space"
+
+compteur=1
+while compteur<=50:
+    keyboard.press(get_random_letter())
+    keyboard.release(get_random_letter())
+    print(compteur)
+    #compteur = compteur + 1
+    compteur +=2
+
+r =random.randint(-1, 1)
+
+while r<0:
+    time.sleep(1)
+    r =random.randint(-1, 1)
+
+    
+    print(f"Le nombre:{r}")
+    if r<0:
+        print("Negatif")
+    elif r==0:
+        print("Zero")
+    else:
+        print("Positif")
+
+print("End of loop")
+
+
+def a(variable):
+    print("Hello A "+str(variable))
+    print(f"Hello B {variable}")
+a(3)
+
+
+```
+
 
 # 2024_05_23_HelloStreamDeckGirleek
 ![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/f01f725f-e79d-423f-bdd9-2a0d26615d57)
