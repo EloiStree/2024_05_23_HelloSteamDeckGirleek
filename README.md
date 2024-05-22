@@ -10,6 +10,10 @@ Guide Line :
 - Android : https://developer.android.com/distribute/console?hl=fr
 - "Xbox": https://youtu.be/mhv-C3WP9Cg
 
+Note:
+![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/e10baa57-13de-4591-a71b-8837cd193296)
+
+
 # Yesterday
 
 Installer Unity3D: https://unity.com/fr/download
