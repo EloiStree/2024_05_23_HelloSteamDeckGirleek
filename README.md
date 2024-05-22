@@ -5,6 +5,11 @@ Code project Unity : https://github.com/EloiStree/2024_05_12_HelloGirleekOnShado
 Download Unity Hub: https://unity.com/download   
 Publish Asset Store: https://assetstore.unity.com/packages/tools/utilities/asset-store-publishing-tools-115
 
+Guide Line : 
+- Steam https://partner.steamgames.com
+- Android : https://developer.android.com/distribute/console?hl=fr
+- "Xbox": https://youtu.be/mhv-C3WP9Cg
+
 # Yesterday
 
 Installer Unity3D: https://unity.com/fr/download
