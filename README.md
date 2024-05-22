@@ -11,8 +11,8 @@ https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/44
 ![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/f01f725f-e79d-423f-bdd9-2a0d26615d57)
 
 
-[![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/52a03e0e-fae8-4b00-8c8f-59d9943b0f7f)](https://youtu.be/OYUnpHvcaBw)  
-[Pitch de l'atelier](https://youtu.be/OYUnpHvcaBw) - [Installation du PC Shadow](https://youtu.be/KZLRIxTdERM)
+[![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/52a03e0e-fae8-4b00-8c8f-59d9943b0f7f)](https://youtu.be/OYUnpHvcaBw)   
+[Pitch de l'atelier](https://youtu.be/OYUnpHvcaBw)   - [Installation du PC Shadow](https://youtu.be/KZLRIxTdERM)  
 
 In the context of Girleek and a QA testing workshop. We are going to learn how to remote control game with code in a stream deck hub way.
 
@@ -29,8 +29,6 @@ In the context of Girleek and a QA testing workshop. We are going to learn how t
 
 Code Unity Simple Stream Deck:  
 https://github.com/EloiStree/2024_05_12_HelloGirleekOnShadow  
-
-
 - Gate Python: https://github.com/EloiStree/2024_05_11_GateIID_WS_Python
 - Example d'utilisation: https://github.com/EloiStree/2024_05_14_IntegerIndexDateToRemoteControl
 - Server: https://github.com/EloiStree/2024_04_04_IndexIntegerDateTunnelingRSA
@@ -45,9 +43,9 @@ https://github.com/EloiStree/2024_05_12_HelloGirleekOnShadow
 
 # Brouillons
 
-Eloi Stree Raw: https://www.youtube.com/@eloistreeraw
-Eloi Teaching: https://www.youtube.com/@EloiTeaching/videos
-Note honorable: [Synergy](https://symless.com/synergy?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeB0Zmf6KTwh-3OAzO77wDP0KrgRr4Dkc4AIZPCIvwzpg2P6_GOi-2RoC800QAvD_BwE) - [Hamachi](https://vpn.net)
+Eloi Stree Raw: https://www.youtube.com/@eloistreeraw  
+Eloi Teaching: https://www.youtube.com/@EloiTeaching/videos  
+Note honorable: [Synergy](https://symless.com/synergy?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeB0Zmf6KTwh-3OAzO77wDP0KrgRr4Dkc4AIZPCIvwzpg2P6_GOi-2RoC800QAvD_BwE) - [Hamachi](https://vpn.net)   
 
 
 Bonus Note: 
