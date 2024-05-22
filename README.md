@@ -1,78 +1,9 @@
+
 # Today
-
-Code à déposer: https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/43
-
-Code project Unity : https://github.com/EloiStree/2024_05_12_HelloGirleekOnShadow  
-Download Unity Hub: https://unity.com/download   
-Publish Asset Store: https://assetstore.unity.com/packages/tools/utilities/asset-store-publishing-tools-115
-
-Guide Line : 
-- Steam https://partner.steamgames.com
-- Android : https://developer.android.com/distribute/console?hl=fr
-- "Xbox": https://youtu.be/mhv-C3WP9Cg
-
-Note:
-![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/e10baa57-13de-4591-a71b-8837cd193296)
-
-
-# Yesterday
-
-Installer Unity3D: https://unity.com/fr/download
-
-IP: 192.168.150.3
-Port: 405
-
- Cours: https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/38
-
-
-``` py
-
-import random
-import time
-import keyboard
-time.sleep(6)
-def get_random_letter():
-    r =random.randint(0, 6)
-    if r==0: 
-        return "A"
-    if r==1:
-        return "B"
-    print("Not found")
-    return "space"
-
-compteur=1
-while compteur<=50:
-    keyboard.press(get_random_letter())
-    keyboard.release(get_random_letter())
-    print(compteur)
-    #compteur = compteur + 1
-    compteur +=2
-
-r =random.randint(-1, 1)
-
-while r<0:
-    time.sleep(1)
-    r =random.randint(-1, 1)
-
-    
-    print(f"Le nombre:{r}")
-    if r<0:
-        print("Negatif")
-    elif r==0:
-        print("Zero")
-    else:
-        print("Positif")
-
-print("End of loop")
-
-
-def a(variable):
-    print("Hello A "+str(variable))
-    print(f"Hello B {variable}")
-a(3)
-
-
-```
+- voir demain :)
+   
+# Précédemment
+https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/44
 
 
 # 2024_05_23_HelloStreamDeckGirleek
