@@ -1,6 +1,6 @@
 
 # Today
-- voir Demain :)
+
 - https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/blob/main/WorkshopPerDay/2024_05_23.md
    
 # Précédemment
