@@ -63,6 +63,21 @@ Mais dans l'idée global ça ressemble à cela.
 
 https://miro.com/app/board/uXjVKFjm5XA=/?share_link_id=675335908955
 [![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/65ddd2ca-35b3-448f-87f7-c241e906f566)](https://miro.com/app/board/uXjVKFjm5XA=/?share_link_id=675335908955
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 )
 
 [![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/cb1f8b2d-d231-4be3-8421-945c33beeafa)](https://miro.com/app/board/uXjVKFjm5XA=/?share_link_id=675335908955)
