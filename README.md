@@ -1,6 +1,8 @@
 
 # Today
-- https://github.com/EloiStree/2024_05_24_Girleek12_PythonQA
+
+- Private: https://github.com/EloiStree/2024_05_24_P_Girleek12_PythonQA
+- Vieux tutorial Unity: https://github.com/EloiStree/HelloUnityPackage/wiki
    
 # Précédemment
 - https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/blob/main/WorkshopPerDay/2024_05_23.md
