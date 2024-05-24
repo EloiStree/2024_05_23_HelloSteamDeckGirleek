@@ -16,7 +16,6 @@ Here is the corrected text in Markdown format:
 
 # 2024_05_23_HelloStreamDeckGirleek
 
-![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/f01f725f-e79d-423f-bdd9-2a0d26615d57)
 
 [![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/52a03e0e-fae8-4b00-8c8f-59d9943b0f7f)](https://youtu.be/OYUnpHvcaBw)
 
