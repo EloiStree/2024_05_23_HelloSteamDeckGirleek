@@ -1,19 +1,4 @@
 
-Here is the corrected text in Markdown format:
-
-# Today
-
-- Créez un compte sur [https://github.com](https://github.com) et partagez le nom du compte sur le Discord Girleek.
-  (Utilisez un pseudonyme si vous avez l'habitude ou choisissez un nom de compte "professionnel". Les recruteurs consultent votre GitHub.)
-
-- Private: [https://github.com/EloiStree/2024_05_24_P_Girleek12_PythonQA](https://github.com/EloiStree/2024_05_24_P_Girleek12_PythonQA)
-- Vieux tutoriel Unity: [https://github.com/EloiStree/HelloUnityPackage/wiki](https://github.com/EloiStree/HelloUnityPackage/wiki)
-   
-# Précédemment
-
-- [https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/blob/main/WorkshopPerDay/2024_05_23.md](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/blob/main/WorkshopPerDay/2024_05_23.md)
-- [https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/44](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/44)
-
 # 2024_05_23_HelloStreamDeckGirleek
 
 
@@ -31,6 +16,9 @@ In the context of Girleek and a QA testing workshop, we are going to learn how t
 [Day 4: C'est quoi un HID ?](WorkshopPerDay/2024_05_22.md)   [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/5)  
 [Day 5: XR et OBS ?](WorkshopPerDay/2024_05_23.md)   [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/6)  
 [Day 6: Cheat Engine](WorkshopPerDay/2024_05_24.md)  [(I)](https://github.com/EloiStree/2024_05_23_HelloSteamDeckGirleek/issues/7)  
+
+Précédemment:
+- [https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/44](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/44)
 
 
 
