@@ -1,26 +1,28 @@
 
+Here is the corrected text in Markdown format:
+
 # Today
 
-- Créé un compte sur https://github.com et partager le nom du compte sur le Discord Girleek
-(Utiliser un pseudonyme si vous avez l'habitude ou choisissez un nom de comptre "professionnel".
-Les recruteurs regardent pour votre GitHub. )
+- Créez un compte sur [https://github.com](https://github.com) et partagez le nom du compte sur le Discord Girleek.
+  (Utilisez un pseudonyme si vous avez l'habitude ou choisissez un nom de compte "professionnel". Les recruteurs consultent votre GitHub.)
 
-- Private: https://github.com/EloiStree/2024_05_24_P_Girleek12_PythonQA
-- Vieux tutorial Unity: https://github.com/EloiStree/HelloUnityPackage/wiki
+- Private: [https://github.com/EloiStree/2024_05_24_P_Girleek12_PythonQA](https://github.com/EloiStree/2024_05_24_P_Girleek12_PythonQA)
+- Vieux tutoriel Unity: [https://github.com/EloiStree/HelloUnityPackage/wiki](https://github.com/EloiStree/HelloUnityPackage/wiki)
    
 # Précédemment
-- https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/blob/main/WorkshopPerDay/2024_05_23.md
-https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/44
 
+- [https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/blob/main/WorkshopPerDay/2024_05_23.md](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/blob/main/WorkshopPerDay/2024_05_23.md)
+- [https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/44](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/issues/44)
 
 # 2024_05_23_HelloStreamDeckGirleek
+
 ![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/f01f725f-e79d-423f-bdd9-2a0d26615d57)
 
+[![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/52a03e0e-fae8-4b00-8c8f-59d9943b0f7f)](https://youtu.be/OYUnpHvcaBw)
 
-[![image](https://github.com/EloiStree/2024_05_23_HelloStreamDeckGirleek/assets/20149493/52a03e0e-fae8-4b00-8c8f-59d9943b0f7f)](https://youtu.be/OYUnpHvcaBw)   
-[Pitch de l'atelier](https://youtu.be/OYUnpHvcaBw)   - [Installation du PC Shadow](https://youtu.be/KZLRIxTdERM)  
+[Pitch de l'atelier](https://youtu.be/OYUnpHvcaBw) - [Installation du PC Shadow](https://youtu.be/KZLRIxTdERM)
 
-In the context of Girleek and a QA testing workshop. We are going to learn how to remote control game with code in a stream deck hub way.
+In the context of Girleek and a QA testing workshop, we are going to learn how to remote control a game with code in a stream deck hub way.
 
 
 # Atelier
