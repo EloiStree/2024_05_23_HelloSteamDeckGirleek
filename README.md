@@ -1,6 +1,10 @@
 
 # Today
 
+- Créé un compte sur https://github.com et partager le nom du compte sur le Discord Girleek
+(Utiliser un pseudonyme si vous avez l'habitude ou choisissez un nom de comptre "professionnel".
+Les recruteurs regardent pour votre GitHub. )
+
 - Private: https://github.com/EloiStree/2024_05_24_P_Girleek12_PythonQA
 - Vieux tutorial Unity: https://github.com/EloiStree/HelloUnityPackage/wiki
    
